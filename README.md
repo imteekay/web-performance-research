@@ -1,4 +1,4 @@
-# Performance Studies
+# Web Performance Studies
 
 My studies on web performance
 
