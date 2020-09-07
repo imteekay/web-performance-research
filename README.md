@@ -15,6 +15,7 @@ My studies on web performance
 | Article | [Building the DOM faster](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)                                                | :book:             |
 | Article | [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)                                     | :book:             |
 | Article | [Fast load times](https://web.dev/fast/)                                                                                                                                         | :book:             |
+| Video   | [Demystifying Speed Tooling](https://www.youtube.com/watch?v=mLjxXPHuIJo)                                                                                                        | :movie_camera:     |
 
 ## Performance Budget
 
