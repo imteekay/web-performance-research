@@ -6,7 +6,7 @@ My studies on web performance
 
 | Type | Name | Status |
 | Article | [Chrome’s Paint Flashing Tool](https://engineering.entelo.com/chromes-paint-flashing-tool-b5c880849635) | To Do |
-| Video | [Improving Page Performance in Modern Web Apps](https://www.youtube.com/watch?v=p_8oR9GFRvQ) | To Do |
+| Video | [Improving Page Performance in Modern Web Apps](https://www.youtube.com/watch?v=p_8oR9GFRvQ) | Finished |
 | Video | [Speed Essentials: Key Techniques for Fast Websites](https://www.youtube.com/watch?v=reztLS3vomE) | To Do |
 | Video | [Improving Page Performance in Modern Web Apps](https://vimeo.com/254858694) | To Do |
 | Article | [Building the DOM faster: speculative parsing, async, defer and preload](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/) | To Do |
