@@ -46,3 +46,9 @@ My studies on web performance
 | Article | [The Road to Great Product Performance: The First Steps](https://lucianohgo.com/posts/the-road-to-great-product-performance-first-steps)                                                               | :book: |
 | Article | [Zillow: Bigger, Faster, and More Engaging while on a Budget](https://www.zillow.com/tech/bigger-faster-more-engaging-budget/)                                                                         | :book: |
 | Article | [Gantry: Slack’s Fast-booting Frontend Framework](https://slack.engineering/gantry-slacks-fast-booting-frontend-framework-fb70c8eed2fd)                                                                | :book: |
+
+## Cache & Memoization
+
+| Type    | Name                                                                                                                      | Status             |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Video | [Love your cache: Optimize for the second load](https://www.youtube.com/watch?v=tprJYFkv4LU&ab_channel=GoogleChromeDevelopers)                   | :movie_camera:             |
