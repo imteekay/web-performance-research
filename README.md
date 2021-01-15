@@ -48,6 +48,7 @@ My studies on web performance
 | Article | [Gantry: Slack’s Fast-booting Frontend Framework](https://slack.engineering/gantry-slacks-fast-booting-frontend-framework-fb70c8eed2fd)                                                                | :bookmark_tabs: |
 | Article | [A Tinder PWA Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)                                                                | :bookmark_tabs: |
 | Article | [Treebo: A React PWA Performance Case Study](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)                                                                | :bookmark_tabs: |
+| Article | [How Mercado Libre optimized for Web Vitals (TBT/FID)](https://web.dev/how-mercadolibre-optimized-web-vitals/)                                                                | :bookmark_tabs: |
 
 ## Cache & Memoization
 
