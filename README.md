@@ -55,3 +55,10 @@ My studies on web performance
 | Type    | Name                                                                                                                      | Status             |
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | Video | [Love your cache: Optimize for the second load](https://www.youtube.com/watch?v=tprJYFkv4LU&ab_channel=GoogleChromeDevelopers)                   | :movie_camera:             |
+
+## Prefetching
+
+| Type    | Name                                                                                                                      | Status             |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Article | [`<link rel=”prefetch/preload”>` in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)                   | :bookmark_tabs:             |
+| Article | [preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin)                   | :bookmark_tabs:             |
