@@ -62,3 +62,10 @@ My studies on web performance
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | Article | [`<link rel=”prefetch/preload”>` in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)                   | :bookmark_tabs:             |
 | Article | [preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin)                   | :bookmark_tabs:             |
+
+## Images
+
+| Type    | Name                                                                                                                      | Status             |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Video | [Image compression deep-dive
+](https://www.youtube.com/watch?v=F1kYBnY6mwg)                   | :movie_camera:             |
