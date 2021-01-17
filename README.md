@@ -36,6 +36,7 @@ My studies on web performance
 | Type    | Name                                                                                                                                                                                                   | Status |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
 | Article | [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)                                                                               | :bookmark_tabs: |
+| Video | [Performance Signup in React & Transactional Apps with Redux](https://www.youtube.com/watch?v=V8oTJ8OZ5S0&ab_channel=NetflixUIEngineering)                                                                               | :movie_camera: |
 | Article | [Making Instagram.com faster: Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)                                                                               | :bookmark_tabs: |
 | Article | [Making Instagram.com faster: Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4)                                                                               | :bookmark_tabs: |
 | Article | [Making Instagram.com faster: Part 3 — cache first](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669)                                                     | :bookmark_tabs: |
@@ -49,6 +50,7 @@ My studies on web performance
 | Article | [A Tinder PWA Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)                                                                | :bookmark_tabs: |
 | Article | [Treebo: A React PWA Performance Case Study](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)                                                                | :bookmark_tabs: |
 | Article | [How Mercado Libre optimized for Web Vitals (TBT/FID)](https://web.dev/how-mercadolibre-optimized-web-vitals/)                                                                | :bookmark_tabs: |
+| Article | [Nikkei achieves a new level of quality and performance with their multi-page PWA](https://developers.google.com/web/showcase/2018/nikkei)                                                                | :bookmark_tabs: |
 
 ## Cache & Memoization
 
@@ -62,9 +64,17 @@ My studies on web performance
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | Article | [`<link rel=”prefetch/preload”>` in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)                   | :bookmark_tabs:             |
 | Article | [preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin)                   | :bookmark_tabs:             |
+| Article | [Webpack Prefetching/Preloading modules](https://webpack.js.org/guides/code-splitting/#prefetchingpreloading-modules)                   | :bookmark_tabs:             |
+| Article | [Speed up next-page navigations with prefetching](https://dev.to/addyosmani/speed-up-next-page-navigations-with-prefetching-4285)                   | :bookmark_tabs:             |
 
 ## Images
 
 | Type    | Name                                                                                                                      | Status             |
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | Video | [Image compression deep-dive](https://www.youtube.com/watch?v=F1kYBnY6mwg)                   | :movie_camera:             |
+
+## Browser APIs
+
+| Type    | Name                                                                                                                      | Status             |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Article | [Adaptive Serving using JavaScript and the Network Information API](https://dev.to/addyosmani/adaptive-serving-using-javascript-and-the-network-information-api-331p)                   | :bookmark_tabs:             |
