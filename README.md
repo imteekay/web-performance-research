@@ -6,6 +6,7 @@ My studies on web performance
 
 | Type    | Name                                                                                                                                                                             | Status             |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Article | [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)                                                                          | :bookmark_tabs:     |
 | Article | [Chrome’s Paint Flashing Tool](https://engineering.entelo.com/chromes-paint-flashing-tool-b5c880849635)                                                                          | :bookmark_tabs:     |
 | Video   | [Improving Page Performance in Modern Web Apps](https://www.youtube.com/watch?v=p_8oR9GFRvQ)                                                                                     | :bookmark_tabs: |
 | Video   | [Speed Essentials: Key Techniques for Fast Websites](https://www.youtube.com/watch?v=reztLS3vomE)                                                                                | :movie_camera:     |
