@@ -17,6 +17,8 @@ My studies on web performance
 | Article | [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)                                     | :bookmark_tabs:             |
 | Article | [Fast load times](https://web.dev/fast/)                                                                                                                                         | :bookmark_tabs:             |
 | Video   | [Demystifying Speed Tooling](https://www.youtube.com/watch?v=mLjxXPHuIJo)                                                                                                        | :movie_camera:     |
+| Article | [Monitoring Your Core Web Vital (Performance) Metrics](https://requestmetrics.com/web-performance/monitoring-core-web-vital) | :bookmark_tabs: |
+| Training | [Web Performance Fundamentals - Course on Frontend Masters](https://frontendmasters.com/courses/web-perf/) | :school: |
 
 ## Performance Budget
 
@@ -85,3 +87,11 @@ My studies on web performance
 | Type    | Name                                                                                                                      | Status             |
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | Article | [How I removed website layout shift using a predeploy script](https://levelup.gitconnected.com/improving-cumulative-layout-shift-on-pre-deploy-stage-1636fb1386cc)                   | :bookmark_tabs:             |
+| Article | [Measuring Cumulative Layout Shift](https://requestmetrics.com/web-performance/cumulative-layout-shift) | :bookmark_tabs: |
+
+## Largest Contentful Paint
+
+| Type    | Name                                                                                                                      | Status             |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |        
+| Article | [Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint) | :bookmark_tabs: |
+
