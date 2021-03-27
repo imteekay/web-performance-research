@@ -18,7 +18,6 @@ My studies on web performance
 | Article | [Fast load times](https://web.dev/fast/)                                                                                                                                         | :bookmark_tabs:             |
 | Video   | [Demystifying Speed Tooling](https://www.youtube.com/watch?v=mLjxXPHuIJo)                                                                                                        | :movie_camera:     |
 | Article | [Monitoring Your Core Web Vital (Performance) Metrics](https://requestmetrics.com/web-performance/monitoring-core-web-vital) | :bookmark_tabs: |
-| Training | [Web Performance Fundamentals - Course on Frontend Masters](https://frontendmasters.com/courses/web-perf/) | :school: |
 
 ## Performance Budget
 
@@ -33,6 +32,7 @@ My studies on web performance
 | Article | [Web Performance Budgets are more than mere thresholds](https://tobias.is/blogging/web-performance-budgets-as-currency/)  | :bookmark_tabs:             |
 | Article | [User-centric performance metrics](https://web.dev/user-centric-performance-metrics/)                                     | :bookmark_tabs: |
 | Article | [Operationalizing Performance with Performance Budgets](https://rigor.com/blog/operationalizing-performance-budgets/)     | :bookmark_tabs:             |
+| Video | [Core Web Vitals - Measure what matters](https://www.youtube.com/watch?v=wGT9s6NW6hg&ab_channel=GoogleChromeDevelopers)     | :movie_camera:             |
 
 ## Case Studies
 
