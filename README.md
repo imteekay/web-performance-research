@@ -54,6 +54,7 @@ My studies on web performance
 | Article | [Treebo: A React PWA Performance Case Study](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)                                                                | :bookmark_tabs: |
 | Article | [How Mercado Libre optimized for Web Vitals (TBT/FID)](https://web.dev/how-mercadolibre-optimized-web-vitals/)                                                                | :bookmark_tabs: |
 | Article | [Nikkei achieves a new level of quality and performance with their multi-page PWA](https://developers.google.com/web/showcase/2018/nikkei)                                                                | :bookmark_tabs: |
+| Article | [Journey of Improving React App Performance by 10x](https://medium.com/technogise/journey-of-improving-react-app-performance-by-10x-9195d4b483d4)                                                                | :bookmark_tabs: |
 
 ## Cache & Memoization
 
@@ -88,6 +89,7 @@ My studies on web performance
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | Article | [How I removed website layout shift using a predeploy script](https://levelup.gitconnected.com/improving-cumulative-layout-shift-on-pre-deploy-stage-1636fb1386cc)                   | :bookmark_tabs:             |
 | Article | [Measuring Cumulative Layout Shift](https://requestmetrics.com/web-performance/cumulative-layout-shift) | :bookmark_tabs: |
+| Article | [How To Fix Cumulative Layout Shift (CLS) Issues](https://www.smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/) | :bookmark_tabs: |
 
 ## Largest Contentful Paint
 
