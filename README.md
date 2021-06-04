@@ -18,6 +18,8 @@ My studies on web performance
 | Article | [Fast load times](https://web.dev/fast/)                                                                                                                                         | :bookmark_tabs:             |
 | Video   | [Demystifying Speed Tooling](https://www.youtube.com/watch?v=mLjxXPHuIJo)                                                                                                        | :movie_camera:     |
 | Article | [Monitoring Your Core Web Vital (Performance) Metrics](https://requestmetrics.com/web-performance/monitoring-core-web-vital) | :bookmark_tabs: |
+| Article | [Loading Performance Overview](https://developers.google.com/web/fundamentals/performance/get-started) | :bookmark_tabs: |
+
 
 ## Performance Budget
 
@@ -33,6 +35,8 @@ My studies on web performance
 | Article | [User-centric performance metrics](https://web.dev/user-centric-performance-metrics/)                                     | :bookmark_tabs: |
 | Article | [Operationalizing Performance with Performance Budgets](https://rigor.com/blog/operationalizing-performance-budgets/)     | :bookmark_tabs:             |
 | Video | [Core Web Vitals - Measure what matters](https://www.youtube.com/watch?v=wGT9s6NW6hg&ab_channel=GoogleChromeDevelopers)     | :movie_camera:             |
+| Video | [The Cost Of JavaScript](https://www.youtube.com/watch?v=63I-mEuSvGA)     | :movie_camera:             |
+| Video | [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)     | :movie_camera:             |
 
 ## Case Studies
 
@@ -55,6 +59,7 @@ My studies on web performance
 | Article | [How Mercado Libre optimized for Web Vitals (TBT/FID)](https://web.dev/how-mercadolibre-optimized-web-vitals/)                                                                | :bookmark_tabs: |
 | Article | [Nikkei achieves a new level of quality and performance with their multi-page PWA](https://developers.google.com/web/showcase/2018/nikkei)                                                                | :bookmark_tabs: |
 | Article | [Journey of Improving React App Performance by 10x](https://medium.com/technogise/journey-of-improving-react-app-performance-by-10x-9195d4b483d4)                                                                | :bookmark_tabs: |
+| Article | [Web dev: Case Study](https://web.dev/tags/case-study/)                                                                | :bookmark_tabs: |
 
 ## Cache & Memoization
 
@@ -97,3 +102,8 @@ My studies on web performance
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |        
 | Article | [Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint) | :bookmark_tabs: |
 
+## Perceived Performance
+
+| Type    | Name                                                                                                                      | Status             |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |        
+| Article | [Perceived Performance: The only kind that really matters](https://www.youtube.com/watch?v=USH4iPQ44LQ) | :bookmark_tabs: |
