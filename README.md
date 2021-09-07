@@ -19,7 +19,7 @@ My studies on web performance
 | Video   | [Demystifying Speed Tooling](https://www.youtube.com/watch?v=mLjxXPHuIJo)                                                                                                        | :movie_camera:     |
 | Article | [Monitoring Your Core Web Vital (Performance) Metrics](https://requestmetrics.com/web-performance/monitoring-core-web-vital) | :bookmark_tabs: |
 | Article | [Loading Performance Overview](https://developers.google.com/web/fundamentals/performance/get-started) | :bookmark_tabs: |
-
+| Article | [Flame Graphs](https://www.brendangregg.com/flamegraphs.html) | :bookmark_tabs: |
 
 ## Performance Budget
 
