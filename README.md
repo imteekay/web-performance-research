@@ -38,6 +38,13 @@ My studies on web performance
 | Video | [The Cost Of JavaScript](https://www.youtube.com/watch?v=63I-mEuSvGA)     | :movie_camera:             |
 | Video | [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)     | :movie_camera:             |
 
+## Core Web Vitals
+
+| Type    | Name                                                                                                                      | Status             |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Video | [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc&ab_channel=GoogleChromeDevelopers)                   | 🎥             |
+
+
 ## Case Studies
 
 | Type    | Name                                                                                                                                                                                                   | Status |
