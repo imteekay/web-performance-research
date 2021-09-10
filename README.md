@@ -20,6 +20,7 @@ My studies on web performance
 | Article | [Monitoring Your Core Web Vital (Performance) Metrics](https://requestmetrics.com/web-performance/monitoring-core-web-vital) | :bookmark_tabs: |
 | Article | [Loading Performance Overview](https://developers.google.com/web/fundamentals/performance/get-started) | :bookmark_tabs: |
 | Article | [Flame Graphs](https://www.brendangregg.com/flamegraphs.html) | :bookmark_tabs: |
+| Article | [Fast load times](https://web.dev/fast/) | :bookmark_tabs: |
 
 ## Performance Budget
 
