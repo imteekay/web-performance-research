@@ -44,7 +44,7 @@ My studies on web performance
 | Type    | Name                                                                                                                      | Status             |
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | Video | [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc&ab_channel=GoogleChromeDevelopers)                   | 🎥             |
-
+| Article | [Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)                   | 📑             |
 
 ## Case Studies
 
