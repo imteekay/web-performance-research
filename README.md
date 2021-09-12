@@ -115,3 +115,9 @@ My studies on web performance
 | Type    | Name                                                                                                                      | Status             |
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |        
 | Article | [Perceived Performance: The only kind that really matters](https://www.youtube.com/watch?v=USH4iPQ44LQ) | :bookmark_tabs: |
+
+## React
+
+| Type    | Name                                                                                                                      | Status             |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |        
+| Article | [How to use the React Profiler to find and fix Performance Problems](https://www.youtube.com/watch?v=00RoZflFE34&ab_channel=BenAwad) | :bookmark_tabs: |
