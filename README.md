@@ -46,6 +46,12 @@ My studies on web performance
 | Video | [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc&ab_channel=GoogleChromeDevelopers)                   | 🎥             |
 | Article | [Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)                   | 📑             |
 
+## Browser
+
+| Type    | Name                                                                                                                      | Status             |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Article | [Browser Performance](https://www.kuniga.me/blog/2020/03/28/browser-performance.html)                   | 📑             |
+
 ## Case Studies
 
 | Type    | Name                                                                                                                                                                                                   | Status |
