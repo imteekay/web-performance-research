@@ -22,7 +22,6 @@ My studies on web performance
 | Article | [Flame Graphs](https://www.brendangregg.com/flamegraphs.html) | :bookmark_tabs: |
 | Article | [Fast load times](https://web.dev/fast/) | :bookmark_tabs: |
 | Article | [Small Bundles, Fast Pages: What To Do With Too Much JavaScript](https://calibreapp.com/blog/bundle-size-optimization) | :bookmark_tabs: |
-| Article | [Improving Perceived Performance](https://github.com/leandrotk/web-performance-studies/blob/master/improve-perceived-performance.pdf) | :bookmark_tabs: |
 
 ## Performance Budget
 
@@ -124,6 +123,7 @@ My studies on web performance
 | Type    | Name                                                                                                                      | Status             |
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |        
 | Article | [Perceived Performance: The only kind that really matters](https://www.youtube.com/watch?v=USH4iPQ44LQ) | :bookmark_tabs: |
+| Article | [Improving Perceived Performance](https://github.com/leandrotk/web-performance-studies/blob/master/improve-perceived-performance.pdf) | :bookmark_tabs: |
 
 ## React
 
