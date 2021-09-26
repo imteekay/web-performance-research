@@ -143,3 +143,5 @@ My studies on web performance
 | Type    | Name                                                                                                                      | Status             |
 | ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | Article | [JavaScript Compiler Optimization Techniques— only for Experts](https://codeburst.io/javascript-compiler-optimization-techniques-only-for-experts-58d6f5f958ca) | :bookmark_tabs: |
+| Article | [17 Javascript optimization tips to know in 2021](https://dev.to/blessingartcreator/17-javascript-optimization-tips-3gil) | :bookmark_tabs: |
+
