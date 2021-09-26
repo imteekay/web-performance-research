@@ -135,5 +135,11 @@ My studies on web performance
 ## Build tools
 
 | Type    | Name                                                                                                                      | Status             |
-| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |        
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
 | Article | [Webpack Tree Shaking](https://webpack.js.org/guides/tree-shaking/#clarifying-tree-shaking-and-sideeffects) | :bookmark_tabs: |
+
+## JavaScript
+
+| Type    | Name                                                                                                                      | Status             |
+| ------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Article | [JavaScript Compiler Optimization Techniques— only for Experts](https://codeburst.io/javascript-compiler-optimization-techniques-only-for-experts-58d6f5f958ca) | :bookmark_tabs: |
