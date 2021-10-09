@@ -10,13 +10,7 @@ My research on web performance
 - [Cache & Memoization](cache-and-memoization/RESOURCES.md)
 - [Prefetching](prefetching/RESOURCES.md)
 - [Images](images/RESOURCES.md)
-
-## Perceived Performance
-
-| Type    | Name                                                                                                                                  | Status          |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| Article | [Perceived Performance: The only kind that really matters](https://www.youtube.com/watch?v=USH4iPQ44LQ)                               | :bookmark_tabs: |
-| Article | [Improving Perceived Performance](https://github.com/leandrotk/web-performance-studies/blob/master/improve-perceived-performance.pdf) | :bookmark_tabs: |
+- [Perceived Performance](perceived-performance/RESOURCES.md)
 
 ## React
 
