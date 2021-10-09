@@ -11,6 +11,7 @@ My research on web performance
 - [Prefetching](prefetching/RESOURCES.md)
 - [Images](images/RESOURCES.md)
 - [Perceived Performance](perceived-performance/RESOURCES.md)
+- [Build tools](build-tools/RESOURCES.md)
 
 ## React
 
@@ -18,12 +19,6 @@ My research on web performance
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
 | Article | [How to use the React Profiler to find and fix Performance Problems](https://www.youtube.com/watch?v=00RoZflFE34&ab_channel=BenAwad) | :bookmark_tabs: |
 | Article | [Improved Next.js and Gatsby page load performance with granular chunking](https://web.dev/granular-chunking-nextjs)                 | :bookmark_tabs: |
-
-## Build tools
-
-| Type    | Name                                                                                                        | Status          |
-| ------- | ----------------------------------------------------------------------------------------------------------- | --------------- |
-| Article | [Webpack Tree Shaking](https://webpack.js.org/guides/tree-shaking/#clarifying-tree-shaking-and-sideeffects) | :bookmark_tabs: |
 
 ## JavaScript
 
