@@ -11,26 +11,6 @@ My research on web performance
 - [Prefetching](prefetching/RESOURCES.md)
 - [Images](images/RESOURCES.md)
 
-## Browser APIs
-
-| Type    | Name                                                                                                                                                                  | Status          |
-| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| Article | [Adaptive Serving using JavaScript and the Network Information API](https://dev.to/addyosmani/adaptive-serving-using-javascript-and-the-network-information-api-331p) | :bookmark_tabs: |
-
-## Cumulative Layout Shift
-
-| Type    | Name                                                                                                                                                               | Status          |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
-| Article | [How I removed website layout shift using a predeploy script](https://levelup.gitconnected.com/improving-cumulative-layout-shift-on-pre-deploy-stage-1636fb1386cc) | :bookmark_tabs: |
-| Article | [Measuring Cumulative Layout Shift](https://requestmetrics.com/web-performance/cumulative-layout-shift)                                                            | :bookmark_tabs: |
-| Article | [How To Fix Cumulative Layout Shift (CLS) Issues](https://www.smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/)                             | :bookmark_tabs: |
-
-## Largest Contentful Paint
-
-| Type    | Name                                                                                                      | Status          |
-| ------- | --------------------------------------------------------------------------------------------------------- | --------------- |
-| Article | [Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint) | :bookmark_tabs: |
-
 ## Perceived Performance
 
 | Type    | Name                                                                                                                                  | Status          |
