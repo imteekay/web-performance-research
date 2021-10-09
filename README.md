@@ -7,12 +7,7 @@ My research on web performance
 - [Core Web Vitals](/core-web-vitals/RESOURCES.md)
 - [Browser](browser/RESOURCES.md)
 - [Case Studies](case-studies/RESOURCES.md)
-
-## Cache & Memoization
-
-| Type  | Name                                                                                                                           | Status         |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------ | -------------- |
-| Video | [Love your cache: Optimize for the second load](https://www.youtube.com/watch?v=tprJYFkv4LU&ab_channel=GoogleChromeDevelopers) | :movie_camera: |
+- [Cache & Memoization](cache-and-memoization/RESOURCES.md)
 
 ## Prefetching
 
