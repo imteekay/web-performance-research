@@ -4,14 +4,7 @@ My research on web performance
 
 - [General ideas on web performance](/general/RESOURCES.md)
 - [Performance Budget](/performance-budget/RESOURCES.md)
-
-## Core Web Vitals
-
-| Type    | Name                                                                                                          | Status |
-| ------- | ------------------------------------------------------------------------------------------------------------- | ------ |
-| Video   | [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc&ab_channel=GoogleChromeDevelopers) | 🎥     |
-| Article | [Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)                                            | 📑     |
-| Article | [Web Vitals patterns](web.dev/patterns/web-vitals-patterns)                                                   | 📑     |
+- [Core Web Vitals](/core-web-vitals/RESOURCES.md)
 
 ## Browser
 
