@@ -1,5 +1,7 @@
 # Web Performance Research
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 My research on web performance
 
 - [General ideas on web performance](/general/RESOURCES.md)
