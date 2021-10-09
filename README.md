@@ -5,12 +5,7 @@ My research on web performance
 - [General ideas on web performance](/general/RESOURCES.md)
 - [Performance Budget](/performance-budget/RESOURCES.md)
 - [Core Web Vitals](/core-web-vitals/RESOURCES.md)
-
-## Browser
-
-| Type    | Name                                                                                  | Status |
-| ------- | ------------------------------------------------------------------------------------- | ------ |
-| Article | [Browser Performance](https://www.kuniga.me/blog/2020/03/28/browser-performance.html) | 📑     |
+- [Browser](browser/RESOURCES.md)
 
 ## Case Studies
 
