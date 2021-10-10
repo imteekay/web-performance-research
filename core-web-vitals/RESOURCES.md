@@ -19,3 +19,10 @@
 | Type    | Name                                                                                                      | Status          |
 | ------- | --------------------------------------------------------------------------------------------------------- | --------------- |
 | Article | [Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint) | :bookmark_tabs: |
+
+## First Input Delay
+
+| Type    | Name                                                                                                                   | Status          |
+| ------- | ---------------------------------------------------------------------------------------------------------------------- | --------------- |
+| Article | [First Input Delay (FID)](https://web.dev/fid)                                                                         | :bookmark_tabs: |
+| Article | [Improving responsiveness in text inputs](https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/) | :bookmark_tabs: |
