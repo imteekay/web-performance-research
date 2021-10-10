@@ -20,3 +20,4 @@
 | Article | [Small Bundles, Fast Pages: What To Do With Too Much JavaScript](https://calibreapp.com/blog/bundle-size-optimization)                                                           | :bookmark_tabs: |
 | Article | [Web Performance: Trends and Insights from 4 Top Performance Experts](https://cloudinary.com/products/media_optimizer/web-performance-guide)                                     | :bookmark_tabs: |
 | Video   | [Top 10 performance pitfalls](https://www.youtube.com/watch?v=Lh9q3h2khlc)                                                                                                       | :movie_camera:  |
+| Article | [How to Eliminate Render-Blocking Resources: a Deep Dive](https://sia.codes/posts/render-blocking-resources/)                                                                    | :bookmark_tabs: |
