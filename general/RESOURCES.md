@@ -21,3 +21,7 @@
 | Article | [Web Performance: Trends and Insights from 4 Top Performance Experts](https://cloudinary.com/products/media_optimizer/web-performance-guide)                                     | :bookmark_tabs: |
 | Video   | [Top 10 performance pitfalls](https://www.youtube.com/watch?v=Lh9q3h2khlc)                                                                                                       | :movie_camera:  |
 | Article | [How to Eliminate Render-Blocking Resources: a Deep Dive](https://sia.codes/posts/render-blocking-resources/)                                                                    | :bookmark_tabs: |
+| Article | [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)                                                                            | :bookmark_tabs: |
+| Article | [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance)                                                                                    | :bookmark_tabs: |
+| Article | [5 Common Mistakes Teams Make When Tracking Performance](https://calibreapp.com/blog/common-mistakes-in-tracking-speed)                                                          | :bookmark_tabs: |
+| Article | [Are your JavaScript long tasks frustrating users?](https://www.speedcurve.com/blog/javascript-long-tasks/)                                                                      | :bookmark_tabs: |
