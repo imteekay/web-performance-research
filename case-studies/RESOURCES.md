@@ -20,3 +20,4 @@
 | Article | [Nikkei achieves a new level of quality and performance with their multi-page PWA](https://developers.google.com/web/showcase/2018/nikkei)                                                             | :bookmark_tabs: |
 | Article | [Journey of Improving React App Performance by 10x](https://medium.com/technogise/journey-of-improving-react-app-performance-by-10x-9195d4b483d4)                                                      | :bookmark_tabs: |
 | Article | [Web dev: Case Study](https://web.dev/tags/case-study/)                                                                                                                                                | :bookmark_tabs: |
+| Article | [How we reduced Next.js page size by 3.5x and achieved a 98 Lighthouse score](https://papyrus.dev/@PapyrusBlog/how-we-reduced-next.js-page-size-by-3.5x-and-achieved-a-98-lighthouse-score?)           | :bookmark_tabs: |
