@@ -1,14 +1,14 @@
 # Core Web Vitals
 
-| Type    | Name                                                                                                                                                      | Status |
-| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Video   | [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc&ab_channel=GoogleChromeDevelopers)                                             | 🎥     |
-| Article | [Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)                                                                                        | 📑     |
-| Article | [Web Vitals patterns](web.dev/patterns/web-vitals-patterns)                                                                                               | 📑     |
-| Article | [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo)                                                      | 📑     |
-| Article | [How SPA architectures affect Core Web Vitals](https://web.dev/vitals-spa-faq)                                                                            | 📑     |
-| Article | [Lighthouse scores as predictors of page-level CrUX data](https://discuss.httparchive.org/t/lighthouse-scores-as-predictors-of-page-level-crux-data/2232) | 📑     |
-| Article | [Best practices for measuring Web Vitals in the field](https://web.dev/vitals-field-measurement-best-practices/)                                          | 📑     |
+| Type    | Name                                                                                                                                                      | Status             |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Video   | [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc&ab_channel=GoogleChromeDevelopers)                                             | 🎥                 |
+| Article | [Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)                                                                                        | 📑                 |
+| Article | [Web Vitals patterns](web.dev/patterns/web-vitals-patterns)                                                                                               | 📑                 |
+| Article | [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo)                                                      | 📑                 |
+| Article | [How SPA architectures affect Core Web Vitals](https://web.dev/vitals-spa-faq)                                                                            | 📑                 |
+| Article | [Lighthouse scores as predictors of page-level CrUX data](https://discuss.httparchive.org/t/lighthouse-scores-as-predictors-of-page-level-crux-data/2232) | :white_check_mark: |
+| Article | [Best practices for measuring Web Vitals in the field](https://web.dev/vitals-field-measurement-best-practices/)                                          | 📑                 |
 
 ## Cumulative Layout Shift
 
