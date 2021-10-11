@@ -6,6 +6,7 @@
 | Article | [Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)                                                                              | 📑     |
 | Article | [Web Vitals patterns](web.dev/patterns/web-vitals-patterns)                                                                                     | 📑     |
 | Article | [Everything we know about Core Web Vitals and SEO](<[web.dev/patterns/web-vitals-patterns](https://simonhearne.com/2021/core-web-vitals-seo/)>) | 📑     |
+| Article | [How SPA architectures affect Core Web Vitals](https://web.dev/vitals-spa-faq) | 📑     |
 
 ## Cumulative Layout Shift
 
