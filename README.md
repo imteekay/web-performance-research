@@ -6,6 +6,7 @@ My research on web performance
 
 - [General ideas on web performance](/general/RESOURCES.md)
 - [Performance Budget](/performance-budget/RESOURCES.md)
+- [Measuring Performance](/measuring-performance/README.md)
 - [Core Web Vitals](/core-web-vitals/RESOURCES.md)
 - [Browser](browser/RESOURCES.md)
 - [Case Studies](case-studies/RESOURCES.md)
