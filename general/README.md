@@ -26,4 +26,4 @@
 | Article | [5 Common Mistakes Teams Make When Tracking Performance](https://calibreapp.com/blog/common-mistakes-in-tracking-speed)                                                          | :bookmark_tabs:    |
 | Article | [Are your JavaScript long tasks frustrating users?](https://www.speedcurve.com/blog/javascript-long-tasks/)                                                                      | :bookmark_tabs:    |
 | Article | [My Challenge to the Web Performance Community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)                                                | :white_check_mark: |
-| Article | [Optimize SPA bundle size to speed up application loading](https://medium.com/miro-engineering/optimize-spa-bundle-size-to-speed-up-application-loading-c988cef57257)            | :bookmark_tabs:    |
+| Article | [Optimize SPA bundle size to speed up application loading](https://medium.com/miro-engineering/optimize-spa-bundle-size-to-speed-up-application-loading-c988cef57257)            | :white_check_mark: |
