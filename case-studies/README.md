@@ -24,3 +24,4 @@
 | Article | [Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/)                                                                    | :bookmark_tabs: |
 | Article | [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance)                                                                                                          | :bookmark_tabs: |
 | Article | [How to convince your client to focus on Web Performance: a case study](https://medium.com/@armelpingault/how-to-convince-your-client-to-focus-on-web-performance-a-case-study-35f12385689)            | :bookmark_tabs: |
+| Video   | [Building Performance for the Long Term](https://vimeo.com/showcase/4970467/video/254947097)                                                                                                           | :bookmark_tabs: |
