@@ -14,3 +14,12 @@
 | Video   | [Core Web Vitals - Measure what matters](https://www.youtube.com/watch?v=wGT9s6NW6hg&ab_channel=GoogleChromeDevelopers)   | :movie_camera:  |
 | Video   | [The Cost Of JavaScript](https://www.youtube.com/watch?v=63I-mEuSvGA)                                                     | :movie_camera:  |
 | Video   | [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)                                             | :movie_camera:  |
+| Article | [Performance Budgets, Pragmatically](https://csswizardry.com/2020/01/performance-budgets-pragmatically)                   | :bookmark_tabs: |
+
+## Tools
+
+| Type | Name                                                                            | Status          |
+| ---- | ------------------------------------------------------------------------------- | --------------- |
+| Tool | [Performance Budget Calculator](https://www.performancebudget.io)               | :bookmark_tabs: |
+| Tool | [Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com) | :bookmark_tabs: |
+| Tool | [Browser Calories](https://browserdiet.com/calories)                            | :bookmark_tabs: |
