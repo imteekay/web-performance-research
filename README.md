@@ -13,7 +13,7 @@ Research on Web Performance
 - [Cache & Memoization](cache-and-memoization)
 - [Prefetching](prefetching)
 - [Images](images)
-- [Perceived Performance](perceived-performance)
+- [UX](ux)
 - [Build tools](build-tools)
 - [React](react)
 - [JavaScript](javascript)
