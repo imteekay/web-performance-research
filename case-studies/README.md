@@ -22,3 +22,4 @@
 | Article | [Web dev: Case Study](https://web.dev/tags/case-study/)                                                                                                                                                | :bookmark_tabs: |
 | Article | [How we reduced Next.js page size by 3.5x and achieved a 98 Lighthouse score](https://papyrus.dev/@PapyrusBlog/how-we-reduced-next.js-page-size-by-3.5x-and-achieved-a-98-lighthouse-score?)           | :bookmark_tabs: |
 | Article | [Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/)                                                                    | :bookmark_tabs: |
+| Article | [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance)                                                                                                          | :bookmark_tabs: |
