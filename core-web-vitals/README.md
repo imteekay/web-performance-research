@@ -10,6 +10,7 @@
 | Article | [Lighthouse scores as predictors of page-level CrUX data](https://discuss.httparchive.org/t/lighthouse-scores-as-predictors-of-page-level-crux-data/2232) | :whitve_check_mark: |
 | Article | [Best practices for measuring Web Vitals in the field](https://web.dev/vitals-field-measurement-best-practices/)                                          | 📑                  |
 | Video   | [Exploring the future of Core Web Vitals](https://www.youtube.com/watch?v=iNfz9tg-wyg)                                                                    | 📑                  |
+| Article | [How to Improve Core Web Vitals](https://simonhearne.com/2020/core-web-vitals)                                                                            | 📑                  |
 
 ## Cumulative Layout Shift
 
