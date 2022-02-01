@@ -18,6 +18,8 @@
 | Article | [How I removed website layout shift using a predeploy script](https://levelup.gitconnected.com/improving-cumulative-layout-shift-on-pre-deploy-stage-1636fb1386cc) | :bookmark_tabs: |
 | Article | [Measuring Cumulative Layout Shift](https://requestmetrics.com/web-performance/cumulative-layout-shift)                                                            | :bookmark_tabs: |
 | Article | [How To Fix Cumulative Layout Shift (CLS) Issues](https://www.smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/)                             | :bookmark_tabs: |
+| Article | [Cumulative Layout Shift in the Real World](https://nicj.net/cumulative-layout-shift-in-the-real-world)                                                            | :bookmark_tabs: |
+| Article | [Cumulative Layout Shift in Practice](https://nicj.net/cumulative-layout-shift-in-practice)                                                                        | :bookmark_tabs: |
 
 ## Largest Contentful Paint
 
