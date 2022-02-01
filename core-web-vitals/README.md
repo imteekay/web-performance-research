@@ -23,6 +23,7 @@
 | Type    | Name                                                                                                      | Status          |
 | ------- | --------------------------------------------------------------------------------------------------------- | --------------- |
 | Article | [Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint) | :bookmark_tabs: |
+| Video   | [This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)                                 | :bookmark_tabs: |
 
 ## First Input Delay
 
