@@ -43,6 +43,26 @@ The application loading time is proportional to the number and the size of the d
   - Common metrics: TTI, FID, LCP, TBT, CLS, Speed Index, custom metrics
   - For Netflix TV UI, key input responsiveness, memory usage and TTI are more critical, and for Wikipedia, first/last visual changes and CPU time spent metrics are more important.
 
+### Core Web Vitals
+
+- Largest Contentful Paint (LCP) < 2.5 sec.
+  - The main reason for a low LCP score is usually images.
+  - maximum theoretical image size is only around 144KB.
+  - responsive images and preloading critical images early matter
+- First Input Delay (FID) < 100ms.
+  - Measures the responsiveness of the UI
+  - The goal is to stay within 50–100ms for every interaction
+  - Minimize the work on the main thread
+  - Important to find Long Tasks: blocks the main thread for >50ms
+    - code-split a bundle into multiple chunks
+    - reduce JavaScript execution time
+    - optimize data-fetching
+    - defer script execution of third-parties
+    - move JavaScript to the background thread with Web workers
+    - use progressive hydration to reduce rehydration costs in SPAs.
+- Cumulative Layout Shift (CLS) < 0.1.
+  - Measures visual stability
+
 ## Post-load interactions
 
 WIP
