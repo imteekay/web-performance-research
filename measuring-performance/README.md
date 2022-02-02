@@ -11,6 +11,7 @@
 | Article | [A step by step guide to monitoring the competition with the Chrome UX Report](https://dev.to/chromiumdev/a-step-by-step-guide-to-monitoring-the-competition-with-the-chrome-ux-report-4k1o)    | :bookmark_tabs: |
 | Article | [Identifying, Auditing, and Discussing Third Parties](https://csswizardry.com/2018/05/identifying-auditing-discussing-third-parties/)                                                           | :bookmark_tabs: |
 | Article | [Response Times: The 3 Important Limits](https://www.nngroup.com/articles/response-times-3-important-limits)                                                                                    | :bookmark_tabs: |
+| Article | [Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance)                                                          | :bookmark_tabs: |
 
 ## Tools
 
