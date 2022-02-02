@@ -13,6 +13,7 @@
 | Article | [Response Times: The 3 Important Limits](https://www.nngroup.com/articles/response-times-3-important-limits)                                                                                    | :bookmark_tabs: |
 | Article | [Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance)                                                          | :bookmark_tabs: |
 | Article | [Measuring the performance of Wikipedia visitors’ devices](https://techblog.wikimedia.org/2020/05/07/measuring-the-performance-of-wikipedia-visitors-devices)                                   | :bookmark_tabs: |
+| Article | [Tracking CPU with Long Tasks API](https://calendar.perfplanet.com/2017/tracking-cpu-with-long-tasks-api)                                                                                       | :bookmark_tabs: |
 
 ## Tools
 
