@@ -38,10 +38,20 @@ The application loading time is proportional to the number and the size of the d
 - When thinking about distribution:
   - Mobile connection: 2G, 3G, 4G, 5G
   - Country/location
-  - Mobile phone: iPhone 5, Samsung, etc
+  - Phone device: iPhone 5, Samsung, etc
+  - Operating System
+  - Browser
 - Not all metrics are equally important
   - Common metrics: TTI, FID, LCP, TBT, CLS, Speed Index, custom metrics
   - For Netflix TV UI, key input responsiveness, memory usage and TTI are more critical, and for Wikipedia, first/last visual changes and CPU time spent metrics are more important.
+- Measurements
+  - theory
+    - 0.1 second is about the limit for having the user feel that the system is reacting instantaneously, meaning that no special feedback is necessary except to display the result.
+    - 1.0 second is about the limit for the user's flow of thought to stay uninterrupted, even though the user will notice the delay. Normally, no special feedback is necessary during delays of more than 0.1 but less than 1.0 second, but the user does lose the feeling of operating directly on the data.
+    - 10 seconds is about the limit for keeping the user's attention focused on the dialogue. For longer delays, users will want to perform other tasks while waiting for the computer to finish, so they should be given feedback indicating when the computer expects to be done. Feedback during the delay is especially important if the response time is likely to be highly variable, since users will then not know what to expect.
+  - 100-millisecond response time, 60 fps: any longer than 100ms, the user perceives the app as laggy
+  - FID < 100ms, LCP < 2.5s, TTI < 5s on 3G, Critical file size budget < 170KB (gzipped)
+  - a budget of 170KB JavaScript gzipped already would take up to 1s to parse and compile on a mid-range phone.
 
 ### Core Web Vitals
 

@@ -27,3 +27,4 @@
 | Video   | [Building Performance for the Long Term](https://vimeo.com/showcase/4970467/video/254947097)                                                                                                           | :bookmark_tabs: |
 | Article | [Crafting a high-performance TV user interface using React](https://netflixtechblog.com/crafting-a-high-performance-tv-user-interface-using-react-3350e5a6ad3b)                                        | :bookmark_tabs: |
 | Article | [Improving JavaScript Bundle Performance With Code-Splitting](https://www.smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/)                                                  | :bookmark_tabs: |
+| Article | [Web performance case study: Wikipedia page previews](https://techblog.wikimedia.org/2020/11/23/web-performance-case-study-wikipedia-page-previews)                                                    | :bookmark_tabs: |

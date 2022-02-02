@@ -35,3 +35,4 @@
 | ------- | ---------------------------------------------------------------------------------------------------------------------- | --------------- |
 | Article | [First Input Delay (FID)](https://web.dev/fid)                                                                         | :bookmark_tabs: |
 | Article | [Improving responsiveness in text inputs](https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/) | :bookmark_tabs: |
+| Article | [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)                                              | :bookmark_tabs: |
