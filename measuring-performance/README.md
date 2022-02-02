@@ -10,6 +10,7 @@
 | Video   | [How’s the UX on the Web, Really?](https://vimeo.com/254834890)                                                                                                                                 | :bookmark_tabs: |
 | Article | [A step by step guide to monitoring the competition with the Chrome UX Report](https://dev.to/chromiumdev/a-step-by-step-guide-to-monitoring-the-competition-with-the-chrome-ux-report-4k1o)    | :bookmark_tabs: |
 | Article | [Identifying, Auditing, and Discussing Third Parties](https://csswizardry.com/2018/05/identifying-auditing-discussing-third-parties/)                                                           | :bookmark_tabs: |
+| Article | [Response Times: The 3 Important Limits](https://www.nngroup.com/articles/response-times-3-important-limits)                                                                                    | :bookmark_tabs: |
 
 ## Tools
 
