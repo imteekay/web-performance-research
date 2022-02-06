@@ -9,3 +9,4 @@
 | Article | [Performance perception: How satisfied are Wikipedia users?](https://techblog.wikimedia.org/2019/05/29/performance-perception-how-satisfied-are-wikipedia-users)  | :bookmark_tabs: |
 | Article | [Performance perception: The effect of late-loading banners](https://techblog.wikimedia.org/2019/06/13/performance-perception-the-effect-of-late-loading-banners) | :bookmark_tabs: |
 | Article | [Performance perception: Correlation to RUM metrics](https://techblog.wikimedia.org/2019/06/17/performance-perception-correlation-to-rum-metrics)                 | :bookmark_tabs: |
+| Article | [Towards an animation smoothness metric](https://web.dev/smoothness)                 | :bookmark_tabs: |
