@@ -19,6 +19,7 @@ Research on Web Performance
 - [JavaScript](javascript)
 - [CSS](css)
 - [Backend](backend)
+- [Infrastructure](infrastructure)
 
 ## A Unified Theory of Web Performance
 
