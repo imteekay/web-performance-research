@@ -14,3 +14,4 @@
 | Video   | [Design Principles For The Web](https://vimeo.com/496918165)                                                                                                      | :bookmark_tabs: |
 | Video   | [Building The Web](https://www.youtube.com/watch?v=b2PaxNwr9nI)                                                                                                   | :bookmark_tabs: |
 | Video   | [The Layers of the Web](https://www.youtube.com/watch?v=96DCTASFniI&list=PLgaHsrPMLcFBD8kHNmgeBstA3zOxY_x-j&index=3)                                              | :bookmark_tabs: |
+| Article | [Towards an animation smoothness metric](https://web.dev/smoothness)                                                                                              | :bookmark_tabs: |
