@@ -52,6 +52,11 @@ The application loading time is proportional to the number and the size of the d
   - 100-millisecond response time, 60 fps: any longer than 100ms, the user perceives the app as laggy
   - FID < 100ms, LCP < 2.5s, TTI < 5s on 3G, Critical file size budget < 170KB (gzipped)
   - a budget of 170KB JavaScript gzipped already would take up to 1s to parse and compile on a mid-range phone.
+- adaptive media
+  - offline: placeholder text
+  - 2G - low resolution image: ~30kb
+  - 3G - high resolution image: ~180kb
+  - 4G - HD video: ~1.5mb
 
 ### Core Web Vitals
 
