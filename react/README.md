@@ -6,3 +6,6 @@
 | Article | [Improved Next.js and Gatsby page load performance with granular chunking](https://web.dev/granular-chunking-nextjs)                                                  | :bookmark_tabs:     |
 | Article | [Next.js Performance: Making a Fast Framework Even Faster](https://calibreapp.com/blog/nextjs-performance)                                                            | :whitve_check_mark: |
 | Article | [How to write performant React code: rules, patterns, do's and don'ts](https://dev.to/adevnadia/how-to-write-performant-react-code-rules-patterns-dos-and-donts-40gk) | :bookmark_tabs:     |
+| Article | [React Performance: How to avoid redundant re-renders](https://itnext.io/react-performance-how-to-avoid-redundant-re-renders-6a33618d92a3)                            | :bookmark_tabs:     |
+| Article | [React Hooks and Tips to Avoid Useless Component Render Applied on Lists](https://blog.theodo.com/2022/01/react-list-hooks-avoid-render)                              | :bookmark_tabs:     |
+| Article | [How to write performant React apps with Context](https://dev.to/adevnadia/how-to-write-performant-react-apps-with-context-24cp)                                      | :bookmark_tabs:     |
