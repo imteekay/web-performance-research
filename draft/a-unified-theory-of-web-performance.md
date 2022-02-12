@@ -29,6 +29,7 @@ The application loading time is proportional to the number and the size of the d
 - Compressing fonts
 - Route/code splitting
 - Measuring performance
+- Priorities: Load the core experience immediately, then enhancements, and then the extras.
 
 ### Metrics & Measuring
 

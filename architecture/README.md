@@ -7,3 +7,5 @@
 | Article | [Instant Loading Web Apps with an Application Shell Architecture](https://developers.google.com/web/updates/2015/11/app-shell)                                        | :bookmark_tabs: |
 | Article | [Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)                                                                        | :bookmark_tabs: |
 | Video   | [Rendering on the Web: Performance Implications of Application Architecture](https://www.youtube.com/watch?v=k-A2VfuUROg)                                             | :bookmark_tabs: |
+| Article | [A Modern Take on Cutting the Mustard](https://snugug.com/musings/modern-cutting-the-mustard)                                                                         | :bookmark_tabs: |
+| Article | [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement)                                                           | :bookmark_tabs: |
