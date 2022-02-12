@@ -28,3 +28,4 @@
 | Article | [Crafting a high-performance TV user interface using React](https://netflixtechblog.com/crafting-a-high-performance-tv-user-interface-using-react-3350e5a6ad3b)                                        | :bookmark_tabs: |
 | Article | [Improving JavaScript Bundle Performance With Code-Splitting](https://www.smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/)                                                  | :bookmark_tabs: |
 | Article | [Web performance case study: Wikipedia page previews](https://techblog.wikimedia.org/2020/11/23/web-performance-case-study-wikipedia-page-previews)                                                    | :bookmark_tabs: |
+| Article | [Improving Smashing Magazine’s Web Performance: A Case Study](https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study)                                             | :bookmark_tabs: |
