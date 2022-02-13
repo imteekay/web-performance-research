@@ -28,3 +28,5 @@
 | Article | [My Challenge to the Web Performance Community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)                                                | :white_check_mark: |
 | Article | [Optimize SPA bundle size to speed up application loading](https://medium.com/miro-engineering/optimize-spa-bundle-size-to-speed-up-application-loading-c988cef57257)            | :white_check_mark: |
 | Article | [A Unified Theory of Web Performance](https://calendar.perfplanet.com/2021/a-unified-theory-of-web-performance/)                                                                 | :white_check_mark: |
+| Article | [Web Perf 101](https://3perf.com/talks/web-perf-101)                                                                                                                             | :bookmark_tabs:    |
+| Article | [3Perf Guides](https://3perf.com/content)                                                                                                                                        | :bookmark_tabs:    |

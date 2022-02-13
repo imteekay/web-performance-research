@@ -58,6 +58,11 @@ The application loading time is proportional to the number and the size of the d
   - 2G - low resolution image: ~30kb
   - 3G - high resolution image: ~180kb
   - 4G - HD video: ~1.5mb
+- code splitting
+  - page/route-based code-splitting
+  - above the fold based code splitting
+  - code split not visible components: modal/dialog, tab content
+  - in addition to code-splitting via dynamic imports, [we could] also use code-splitting at the package level, where each imported node modules get put into a chunk based on its package’s name.
 
 ### Core Web Vitals
 
