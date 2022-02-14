@@ -63,6 +63,11 @@ The application loading time is proportional to the number and the size of the d
   - above the fold based code splitting
   - code split not visible components: modal/dialog, tab content
   - in addition to code-splitting via dynamic imports, [we could] also use code-splitting at the package level, where each imported node modules get put into a chunk based on its package’s name.
+- Optimizing JavaScript for the main thread
+  - Using Web Workers
+    - Web Worker can’t manipulate the DOM (doesn't have acces to the dom, document, window, parent)
+    - can use three different workers: shared workers, service workers, and dedicated workers
+    - can be used to prefetch data and improve data loading time
 
 ### Core Web Vitals
 

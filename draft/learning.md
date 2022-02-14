@@ -6,3 +6,5 @@
   - Performance tab
   - Long-Tasks
   - Source maps
+- [ ] Optimizing JavaScript for the main thread
+  - Working with Web Workers
