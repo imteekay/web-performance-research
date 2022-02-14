@@ -19,6 +19,7 @@
 
 ## Tools
 
-| Type | Name                    | Status          |
-| ---- | ----------------------- | --------------- |
-| Tool | [Treo](https://treo.sh) | :bookmark_tabs: |
+| Type | Name                                                                                    | Status          |
+| ---- | --------------------------------------------------------------------------------------- | --------------- |
+| Tool | [Treo](https://treo.sh)                                                                 | :bookmark_tabs: |
+| Tool | [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes) | :bookmark_tabs: |

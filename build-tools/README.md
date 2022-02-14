@@ -6,3 +6,4 @@
 | Article | [Using Native JavaScript Modules in Production Today](https://philipwalton.com/articles/using-native-javascript-modules-in-production-today) | :bookmark_tabs: |
 | Library | [speed-measure-webpack-plugin](https://www.npmjs.com/package/speed-measure-webpack-plugin)                                                   | :bookmark_tabs: |
 | Article | [Doing Differential Serving in 2019](https://calendar.perfplanet.com/2018/doing-differential-serving-in-2019)                                | :bookmark_tabs: |
+| Article | [Publish, ship, and install modern JavaScript for faster applications](https://web.dev/publish-modern-javascript/)                           | :bookmark_tabs: |
