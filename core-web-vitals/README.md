@@ -42,6 +42,7 @@
 | ------- | --------------------------------------------------------------------------------------------------------- | --------------- |
 | Article | [Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint) | :bookmark_tabs: |
 | Video   | [This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)                                 | :bookmark_tabs: |
+| Article | [Case Study Vodafone: A 31% improvement in LCP increased sales by 8%](https://web.dev/vodafone/)          | :bookmark_tabs: |
 
 ## First Input Delay
 
