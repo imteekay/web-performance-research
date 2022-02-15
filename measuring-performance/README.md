@@ -16,6 +16,8 @@
 | Article | [Tracking CPU with Long Tasks API](https://calendar.perfplanet.com/2017/tracking-cpu-with-long-tasks-api)                                                                                       | :bookmark_tabs: |
 | Article | [Complete guide to understand and measure the performance of your website](https://bejamas.io/blog/guide-to-web-performance)                                                                    | :bookmark_tabs: |
 | Article | [React Performance Profiling Optimization](https://calibreapp.com/blog/react-performance-profiling-optimization)                                                                                | :bookmark_tabs: |
+| Article | [Analyze runtime performance](https://developer.chrome.com/docs/devtools/evaluate-performance)                                                                                                  | :bookmark_tabs: |
+| Article | [My Performance Audit Workflow](https://aerotwist.com/blog/my-performance-audit-workflow)                                                                                                       | :bookmark_tabs: |
 
 ## Tools
 

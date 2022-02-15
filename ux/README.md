@@ -17,3 +17,6 @@
 | Article | [Towards an animation smoothness metric](https://web.dev/smoothness)                                                                                              | :bookmark_tabs: |
 | Article | [Hands On with the new Responsiveness Metrics](https://calendar.perfplanet.com/2021/hands-on-with-the-new-responsiveness-metrics)                                 | :bookmark_tabs: |
 | Article | [An experimental responsiveness metric](https://web.dev/responsiveness)                                                                                           | :bookmark_tabs: |
+| Article | [The Art of UI Skeletons](http://farmdev.com/thoughts/108/the-art-of-ui-skeletons)                                                                                | :bookmark_tabs: |
+| Video   | [Stephanie Walter on Cheating The UX When There Is Nothing More To Optimize](https://vimeo.com/251825705)                                                         | :bookmark_tabs: |
+| Article | [A Bone to Pick with Skeleton Screens](https://www.viget.com/articles/a-bone-to-pick-with-skeleton-screens)                                                       | :bookmark_tabs: |
