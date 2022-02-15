@@ -31,3 +31,4 @@
 | Article | [Improving Smashing Magazine’s Web Performance: A Case Study](https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study)                                             | :bookmark_tabs: |
 | Article | [Case study: Analyzing Notion app performance](https://3perf.com/blog/notion)                                                                                                                          | :bookmark_tabs: |
 | Article | [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart)                                                                                                              | :bookmark_tabs: |
+| Video   | [Case Study Renault Group](https://web.dev/renault)                                                                                                                                                    | 🎥              |

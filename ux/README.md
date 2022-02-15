@@ -15,3 +15,5 @@
 | Video   | [Building The Web](https://www.youtube.com/watch?v=b2PaxNwr9nI)                                                                                                   | :bookmark_tabs: |
 | Video   | [The Layers of the Web](https://www.youtube.com/watch?v=96DCTASFniI&list=PLgaHsrPMLcFBD8kHNmgeBstA3zOxY_x-j&index=3)                                              | :bookmark_tabs: |
 | Article | [Towards an animation smoothness metric](https://web.dev/smoothness)                                                                                              | :bookmark_tabs: |
+| Article | [Hands On with the new Responsiveness Metrics](https://calendar.perfplanet.com/2021/hands-on-with-the-new-responsiveness-metrics)                                 | :bookmark_tabs: |
+| Article | [An experimental responsiveness metric](https://web.dev/responsiveness)                                                                                           | :bookmark_tabs: |
