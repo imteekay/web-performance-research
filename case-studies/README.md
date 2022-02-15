@@ -32,3 +32,4 @@
 | Article | [Case study: Analyzing Notion app performance](https://3perf.com/blog/notion)                                                                                                                          | :bookmark_tabs: |
 | Article | [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart)                                                                                                              | :bookmark_tabs: |
 | Article | [Case Study Renault Group](https://web.dev/renault)                                                                                                                                                    | :bookmark_tabs: |
+| Video   | [Optimizing Preview Popups](https://www.youtube.com/watch?v=sKvK3x9zdt0&ab_channel=YoavWeiss)                                                                                                          | :bookmark_tabs: |
