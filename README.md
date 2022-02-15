@@ -18,8 +18,11 @@ Research on Web Performance
 - [React](react)
 - [JavaScript](javascript)
 - [CSS](css)
+- [Images](images)
 - [Backend](backend)
+- [Architecture](architecture)
 - [Infrastructure](infrastructure)
+- [Build tools](build-tools)
 
 ## A Unified Theory of Web Performance
 
