@@ -20,3 +20,4 @@
 | Article | [The Art of UI Skeletons](http://farmdev.com/thoughts/108/the-art-of-ui-skeletons)                                                                                | :bookmark_tabs: |
 | Video   | [Stephanie Walter on Cheating The UX When There Is Nothing More To Optimize](https://vimeo.com/251825705)                                                         | :bookmark_tabs: |
 | Article | [A Bone to Pick with Skeleton Screens](https://www.viget.com/articles/a-bone-to-pick-with-skeleton-screens)                                                       | :bookmark_tabs: |
+| Article | [Optimistic UI Patterns for Improved Perceived Performance](https://simonhearne.com/2021/optimistic-ui-patterns)                                                  | :bookmark_tabs: |
