@@ -79,6 +79,7 @@
 | Article | [Cumulative Layout Shift in the Real World](https://nicj.net/cumulative-layout-shift-in-the-real-world/)                                                                                                                | :bookmark_tabs: |
 | Article | [Cumulative Layout Shift Study of Over 1 Million Websites](https://www.seoclarity.net/blog/core-web-vitals-study)                                                                                                       | :bookmark_tabs: |
 | Article | [Debug layout shifts](https://web.dev/debug-layout-shifts/)                                                                                                                                                             | :bookmark_tabs: |
+| Article | [Debugging CLS](https://docs.google.com/document/d/1H-LiSW_oUzugtu_YLXAzxgJkiEcr4bU3qpw84zFUsCQ/edit?resourcekey=0-pKSNORFdLG9lgpOKwSwXFA#heading=h.b9ipz2aa3niy)                                                       | :bookmark_tabs: |
 
 ## Largest Contentful Paint
 
