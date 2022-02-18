@@ -30,3 +30,4 @@
 | Article | [A Unified Theory of Web Performance](https://calendar.perfplanet.com/2021/a-unified-theory-of-web-performance/)                                                                 | :white_check_mark: |
 | Article | [Web Perf 101](https://3perf.com/talks/web-perf-101)                                                                                                                             | :bookmark_tabs:    |
 | Article | [3Perf Guides](https://3perf.com/content)                                                                                                                                        | :bookmark_tabs:    |
+| Video   | [Fantastic Frontend Performance Tricks & Why We Do Them](https://www.youtube.com/watch?v=pSCHN4oU2JQ&ab_channel=estellevw)                                                       | :movie_camera:     |

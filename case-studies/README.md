@@ -34,3 +34,4 @@
 | Article | [Case Study Renault Group](https://web.dev/renault)                                                                                                                                                    | :bookmark_tabs: |
 | Video   | [Optimizing Preview Popups](https://www.youtube.com/watch?v=sKvK3x9zdt0&ab_channel=YoavWeiss)                                                                                                          | :bookmark_tabs: |
 | Article | [Improve user experience! How we manage the Core Web Vitals on our Yahoo! JAPAN News website](https://techblog.yahoo.co.jp/entry/2021022230076263/)                                                    | :bookmark_tabs: |
+| Article | [Notion's page load and navigation times just got faster](https://www.notion.so/blog/faster-page-load-navigation)                                                                                      | :bookmark_tabs: |
