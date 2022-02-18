@@ -31,3 +31,4 @@
 | Article | [Web Perf 101](https://3perf.com/talks/web-perf-101)                                                                                                                             | :bookmark_tabs:    |
 | Article | [3Perf Guides](https://3perf.com/content)                                                                                                                                        | :bookmark_tabs:    |
 | Video   | [Fantastic Frontend Performance Tricks & Why We Do Them](https://www.youtube.com/watch?v=pSCHN4oU2JQ&ab_channel=estellevw)                                                       | :movie_camera:     |
+| Video   | [The Bright Future of Web Performance](https://www.youtube.com/watch?v=Jz3Fu1o356g&ab_channel=WebConferencesAmsterdam)                                                           | :movie_camera:     |
