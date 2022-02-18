@@ -18,6 +18,7 @@
 | Article | [React Performance Profiling Optimization](https://calibreapp.com/blog/react-performance-profiling-optimization)                                                                                | :bookmark_tabs: |
 | Article | [Analyze runtime performance](https://developer.chrome.com/docs/devtools/evaluate-performance)                                                                                                  | :bookmark_tabs: |
 | Article | [My Performance Audit Workflow](https://aerotwist.com/blog/my-performance-audit-workflow)                                                                                                       | :bookmark_tabs: |
+| Video   | [Web Performance Auditing](https://www.youtube.com/watch?v=Nl2Q9JAdha8)                                                                                                                         | :bookmark_tabs: |
 
 ## Tools
 
