@@ -33,3 +33,4 @@
 | Article | [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart)                                                                                                              | :bookmark_tabs: |
 | Article | [Case Study Renault Group](https://web.dev/renault)                                                                                                                                                    | :bookmark_tabs: |
 | Video   | [Optimizing Preview Popups](https://www.youtube.com/watch?v=sKvK3x9zdt0&ab_channel=YoavWeiss)                                                                                                          | :bookmark_tabs: |
+| Article | [Improve user experience! How we manage the Core Web Vitals on our Yahoo! JAPAN News website](https://techblog.yahoo.co.jp/entry/2021022230076263/)                                                    | :bookmark_tabs: |
