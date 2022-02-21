@@ -20,6 +20,13 @@
 | Article | [My Performance Audit Workflow](https://aerotwist.com/blog/my-performance-audit-workflow)                                                                                                       | :bookmark_tabs: |
 | Video   | [Web Performance Auditing](https://www.youtube.com/watch?v=Nl2Q9JAdha8)                                                                                                                         | :bookmark_tabs: |
 
+## Benchmark
+
+| Type    | Name                                                                                           | Status          |
+| ------- | ---------------------------------------------------------------------------------------------- | --------------- |
+| Article | [Adventures in Microbenchmarking](https://tomdale.net/2017/07/adventures-in-microbenchmarking) | :bookmark_tabs: |
+| Tool    | [Tachometer](https://github.com/Polymer/tachometer)                                            | :bookmark_tabs: |
+
 ## Tools
 
 | Type | Name                                                                                    | Status          |
