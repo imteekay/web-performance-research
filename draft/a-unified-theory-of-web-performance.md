@@ -92,3 +92,14 @@ The application loading time is proportional to the number and the size of the d
 ## Post-load interactions
 
 WIP
+
+### Other: draft
+
+- People are paying more attention
+- Lighthouse was a big push to make web perf more visible
+- Metrics are more attached to UX
+- Improvements in the browser vendors
+- Improvements in the ecosystem: tooling, literacy
+- Test, test, test. Measure, Measure, Measure.
+  - JS Profiling API, LongTasks
+- It's not a fixed solution. There's no framework
