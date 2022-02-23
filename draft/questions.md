@@ -1,0 +1,26 @@
+# Questions
+
+- ​IMO, in general Web Perf: things will go as slow as the users with the highest business value will tolerate. Business will spend any gains in perf budget
+- ​Things are getting better, but are expectations outpacing the improvements? How do smaller orgs (fewer eng) keep up?
+- Web performance is hard for newbies, where are the best resources to get started
+- ​As someone getting into web development, in your opinion, what is one of the big things that I should pay attention to in terms of web performance as an individual developer to help make improvements?
+- ​Question: how do you balance performance with SEO, for instance: rendering less or lazy loading items below the fold will help, but not rendering content will damage SEO ranking, I assume
+- ​I'd say just monitoring real world reporting from your users via Analytics is a good start. What pages are slow or have drop off? Can you make those faster?
+- ​Dynamic content (non-cacheable) is one of the remaining long poles of performance
+- ​I agree with Matthew I have been working on exactly that at Together Lab's IMVU product.
+- ​I see CSS being one of the tricky resources when it comes to performance. It's a blocking resource. Inlining can seem icky. Sites often have huge CSS with low coverage
+- ​Hints and Lighthouse in Chrome dev tools is great general help to run on sites as you develop. Just as general starting place and sanity check. Great tools.
+- ​Core web vitals is todays talk at all levels from dev to SEO and stakeholders. Is there a risk around the instant gratification of a good score you get vs meaningful performance improvements?
+- ​I've played with inlining _layout_ CSS, and loading styling normally.
+- ​I think inlining all CSS needed for the non-JS render is the right way
+- ​That means you can hyper-target the CSS served for the page
+- ​+1 about critical CSS. I would also suggest to consider the correlation between FCP and LCP.
+- ​Without reducing the render blocking content FCP may act as a bottleneck towards a good LCP.
+- ​What are your opinions around web performance used as a proxy a lot when talking about CO2 emissions in particular and web sustainability to quantify it?
+- ​Especially when there is not yet enough science to prove that web performance **alone** has a meaningful impact on those topics.
+- ​What issues do you find the hardest to diagnose? JS, images, resource ordering all seem relatively easy to identify (maybe no so easy to solve) but, for me, a slow layout is hard to root-cause
+- Do you use any tool to split the critical css from the rest or is it something manual ?
+- ​just manual; I don't use build tools. Mainly to "traditional" websites with progressive enhancement. So; use "layout classes" that can be inlined simply.
+- ​Also playing with Web Components so that things can be islands of style and behaviour within that layour scaffolding.
+- ​+1 about Patrick's question, really curious about the opinions here. Layout shift root cause is definitively not easy sometimes, others ideas?
+- ​We have struggles simulating production environments and accurately measuring performance before going to production. What strategies might there be for measuring performance in QA environments?
