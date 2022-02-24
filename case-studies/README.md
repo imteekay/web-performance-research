@@ -35,3 +35,5 @@
 | Video   | [Optimizing Preview Popups](https://www.youtube.com/watch?v=sKvK3x9zdt0&ab_channel=YoavWeiss)                                                                                                          | :bookmark_tabs: |
 | Article | [Improve user experience! How we manage the Core Web Vitals on our Yahoo! JAPAN News website](https://techblog.yahoo.co.jp/entry/2021022230076263/)                                                    | :bookmark_tabs: |
 | Article | [Notion's page load and navigation times just got faster](https://www.notion.so/blog/faster-page-load-navigation)                                                                                      | :bookmark_tabs: |
+| Video   | [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI)                                                                                                   | :bookmark_tabs: |
+| Article | [Quick Performance Audit - Taiwan COVID Vaccination Website](https://fershad.com/writing/quick-performance-audit-taiwan-covid-vaccination-website/)                                                    | :bookmark_tabs: |

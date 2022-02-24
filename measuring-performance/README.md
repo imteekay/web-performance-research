@@ -19,6 +19,14 @@
 | Article | [Analyze runtime performance](https://developer.chrome.com/docs/devtools/evaluate-performance)                                                                                                  | :bookmark_tabs: |
 | Article | [My Performance Audit Workflow](https://aerotwist.com/blog/my-performance-audit-workflow)                                                                                                       | :bookmark_tabs: |
 | Video   | [Web Performance Auditing](https://www.youtube.com/watch?v=Nl2Q9JAdha8)                                                                                                                         | :bookmark_tabs: |
+| Article | [How to read a WebPageTest Waterfall View chart](https://nooshu.com/blog/2019/10/02/how-to-read-a-wpt-waterfall-chart)                                                                          | :bookmark_tabs: |
+| Video   | [One Number, Multiple Metrics](https://www.youtube.com/watch?v=e215_uiU3LQ)                                                                                                                     | :bookmark_tabs: |
+| Video   | [Observability for Web Perf](https://www.youtube.com/watch?v=DMM4kTA5nAc)                                                                                                                       | :bookmark_tabs: |
+| Video   | [From Milliseconds to Millions: The Numbers Driving Web Perf](https://www.youtube.com/watch?v=cXLOIIJ1UaE)                                                                                      | :bookmark_tabs: |
+| Article | [Start performance tests your browser's address bar](https://fershad.com/writing/start-performance-tests-your-browsers-address-bar/)                                                            | :bookmark_tabs: |
+| Article | [Testing a web page with PageSpeed Insights](https://fershad.com/writing/testing-a-web-page-with-pagespeed-insights/)                                                                           | :bookmark_tabs: |
+| Article | [Tracking real Core Web Vitals scores](https://fershad.com/writing/tracking-real-core-web-vitals-scores/)                                                                                       | :bookmark_tabs: |
+| Article | [Stress testing site performance](https://fershad.com/writing/stress-testing-site-performance/)                                                                                                 | :bookmark_tabs: |
 
 ## Benchmark
 

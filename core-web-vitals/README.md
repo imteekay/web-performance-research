@@ -80,6 +80,7 @@
 | Article | [Cumulative Layout Shift Study of Over 1 Million Websites](https://www.seoclarity.net/blog/core-web-vitals-study)                                                                                                       | :bookmark_tabs: |
 | Article | [Debug layout shifts](https://web.dev/debug-layout-shifts/)                                                                                                                                                             | :bookmark_tabs: |
 | Article | [Debugging CLS](https://docs.google.com/document/d/1H-LiSW_oUzugtu_YLXAzxgJkiEcr4bU3qpw84zFUsCQ/edit?resourcekey=0-pKSNORFdLG9lgpOKwSwXFA#heading=h.b9ipz2aa3niy)                                                       | :bookmark_tabs: |
+| Video   | [Understanding Cumulative Layout Shift](https://www.youtube.com/watch?v=zIJuY-JCjqw)                                                                                                                                    | :bookmark_tabs: |
 
 ## Largest Contentful Paint
 
@@ -88,6 +89,7 @@
 | Article | [Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint) | :bookmark_tabs: |
 | Video   | [This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)                                 | :bookmark_tabs: |
 | Article | [Case Study Vodafone: A 31% improvement in LCP increased sales by 8%](https://web.dev/vodafone/)          | :bookmark_tabs: |
+| Article | [Investigating LCP: Largest Contentful Paint](https://www.youtube.com/watch?v=diAc65p15ag)                | :bookmark_tabs: |
 
 ## First Input Delay
 

@@ -32,3 +32,13 @@
 | Article | [3Perf Guides](https://3perf.com/content)                                                                                                                                        | :bookmark_tabs:    |
 | Video   | [Fantastic Frontend Performance Tricks & Why We Do Them](https://www.youtube.com/watch?v=pSCHN4oU2JQ&ab_channel=estellevw)                                                       | :movie_camera:     |
 | Video   | [The Bright Future of Web Performance](https://www.youtube.com/watch?v=Jz3Fu1o356g&ab_channel=WebConferencesAmsterdam)                                                           | :movie_camera:     |
+| Article | [Fixing Performance Regressions Before they Happen](https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe)                                  | :bookmark_tabs:    |
+| Video   | [Javascript Performance in Extreme Environments](https://www.youtube.com/watch?v=Mk-t189JSe0)                                                                                    | :movie_camera:     |
+| Video   | [When JavaScript Bytes](https://www.youtube.com/watch?v=GvUGN0AIfDE)                                                                                                             | :movie_camera:     |
+| Video   | [Deep dive into third-party performance](https://www.youtube.com/watch?v=uXv9JFvrnwo)                                                                                            | :movie_camera:     |
+| Video   | [Common Mistakes That Degrade Frontend Performance](https://www.youtube.com/watch?v=uVrp_A7rj_I)                                                                                 | :movie_camera:     |
+| Article | [The why of website optimisation: Increase site conversions](https://fershad.com/writing/website-optimisation-increase-conversions-engagement/)                                  | :bookmark_tabs:    |
+| Article | [The why of website optimisation: Reduce operational costs](https://fershad.com/writing/website-optimisation-reduce-operational-costs/)                                          | :bookmark_tabs:    |
+| Article | [The why of website optimisation: Better search ranking](https://fershad.com/writing/website-optimisation-improve-search-ranking/)                                               | :bookmark_tabs:    |
+| Article | [The why of website optimisation: Help the planet](https://fershad.com/writing/website-optimisation-reduce-environmental-impact/)                                                | :bookmark_tabs:    |
+| Article | [The why of website optimisation: Better user experience](https://fershad.com/writing/website-optimisation-better-user-experience/)                                              | :bookmark_tabs:    |

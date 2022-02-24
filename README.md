@@ -27,3 +27,9 @@ Research on Web Performance
 ## A Unified Theory of Web Performance
 
 Still a working in progress: [draft](draft/a-unified-theory-of-web-performance.md).
+
+## Community
+
+- [Fershad Irani](https://fershad.com/writing/all)
+- [Modern DevTools](https://moderndevtools.com)
+- [Conffab - Performance](https://conffab.com/topic/performance)
