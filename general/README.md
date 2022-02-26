@@ -42,3 +42,4 @@
 | Article | [The why of website optimisation: Better search ranking](https://fershad.com/writing/website-optimisation-improve-search-ranking/)                                               | :bookmark_tabs:    |
 | Article | [The why of website optimisation: Help the planet](https://fershad.com/writing/website-optimisation-reduce-environmental-impact/)                                                | :bookmark_tabs:    |
 | Article | [The why of website optimisation: Better user experience](https://fershad.com/writing/website-optimisation-better-user-experience/)                                              | :bookmark_tabs:    |
+| Article | [Optimizing third-party script loading in Next.js](https://web.dev/script-component)                                              | :bookmark_tabs:    |
