@@ -23,6 +23,7 @@ Research on Web Performance
 - [Architecture](architecture)
 - [Infrastructure](infrastructure)
 - [Build tools](build-tools)
+- [Books](books)
 
 ## A Unified Theory of Web Performance
 
