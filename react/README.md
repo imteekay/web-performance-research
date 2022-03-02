@@ -11,3 +11,4 @@
 | Article | [How to write performant React apps with Context](https://dev.to/adevnadia/how-to-write-performant-react-apps-with-context-24cp)                                      | :bookmark_tabs:     |
 | Article | [Updating React at Etsy](https://github.com/mq2thez/blog/blob/main/upgrade-react-etsy/preact-vs-react.md)                                                             | :bookmark_tabs:     |
 | Article | [progressive react](https://houssein.me/progressive-react)                                                                                                            | :bookmark_tabs:     |
+| Article | [Optimizing third-party script loading in Next.js](https://web.dev/script-component)                                                                                  | :bookmark_tabs:     |
