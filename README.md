@@ -35,3 +35,7 @@ Still a working in progress: [draft](draft/a-unified-theory-of-web-performance.m
 - [Fershad Irani](https://fershad.com/writing/all)
 - [Modern DevTools](https://moderndevtools.com)
 - [Conffab - Performance](https://conffab.com/topic/performance)
+
+## License
+
+[MIT](/LICENSE) © [TK](https://iamtk.co)
