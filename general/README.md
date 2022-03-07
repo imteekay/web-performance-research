@@ -45,3 +45,4 @@
 | Article | [Optimizing third-party script loading in Next.js](https://web.dev/script-component)                                                                                             | :bookmark_tabs:    |
 | Video   | [Inclusive Design is Fast by Default](https://www.youtube.com/watch?v=MiXy2x6flww)                                                                                               | :movie_camera:     |
 | Video   | [The Psychology of Speed](https://www.youtube.com/watch?v=7i_yQyHdxUo)                                                                                                           | :movie_camera:     |
+| Video   | [The Path to Performance](https://www.youtube.com/watch?v=23Fp9V7w_8U&ab_channel=KatieKovalcin)                                                                                  | :movie_camera:     |
