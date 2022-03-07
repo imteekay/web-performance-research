@@ -42,4 +42,6 @@
 | Article | [The why of website optimisation: Better search ranking](https://fershad.com/writing/website-optimisation-improve-search-ranking/)                                               | :bookmark_tabs:    |
 | Article | [The why of website optimisation: Help the planet](https://fershad.com/writing/website-optimisation-reduce-environmental-impact/)                                                | :bookmark_tabs:    |
 | Article | [The why of website optimisation: Better user experience](https://fershad.com/writing/website-optimisation-better-user-experience/)                                              | :bookmark_tabs:    |
-| Article | [Optimizing third-party script loading in Next.js](https://web.dev/script-component)                                              | :bookmark_tabs:    |
+| Article | [Optimizing third-party script loading in Next.js](https://web.dev/script-component)                                                                                             | :bookmark_tabs:    |
+| Video   | [Inclusive Design is Fast by Default](https://www.youtube.com/watch?v=MiXy2x6flww)                                                                                               | :movie_camera:     |
+| Video   | [The Psychology of Speed](https://www.youtube.com/watch?v=7i_yQyHdxUo)                                                                                                           | :movie_camera:     |
