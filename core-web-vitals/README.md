@@ -55,6 +55,7 @@
 | Article | [Evaluating page experience for a better web](https://developers.google.com/search/blog/2020/05/evaluating-page-experience)                                                                          | :bookmark_tabs:    |
 | Video   | [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI) ([Slides](https://www.slideshare.net/AnnieSullivan9/mnitoring-and-metrics-in-chrome-196438420)) | :bookmark_tabs:    |
 | Article | [Feedback wanted: An experimental responsiveness metric](https://web.dev/responsiveness)                                                                                                             | :bookmark_tabs:    |
+| Video   | [Website Performance and Core Web Vitals](https://www.youtube.com/watch?v=tDc77Y9HFoA&ab_channel=CreatorbyZmags)                                                                                     | :bookmark_tabs:    |
 
 ## Cumulative Layout Shift
 
