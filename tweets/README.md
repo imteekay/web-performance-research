@@ -4,3 +4,4 @@
 - [Tool: quantify what will make a real difference](https://twitter.com/Steve8708/status/1499906268781187077)
 - [Web Performance at Slack](https://twitter.com/zeigenvector/status/1448684941663948801)
 - [How can I optimize my frontend for the fastest page load times?](https://twitter.com/leeerob/status/1481693352059973632)
+- [Performance Insights by Builder.io](https://twitter.com/Steve8708/status/1501584994208153601)
