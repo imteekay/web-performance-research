@@ -12,3 +12,4 @@
 | Article | [Updating React at Etsy](https://github.com/mq2thez/blog/blob/main/upgrade-react-etsy/preact-vs-react.md)                                                             | :bookmark_tabs:     |
 | Article | [progressive react](https://houssein.me/progressive-react)                                                                                                            | :bookmark_tabs:     |
 | Article | [Optimizing third-party script loading in Next.js](https://web.dev/script-component)                                                                                  | :bookmark_tabs:     |
+| Article | [Death by a thousand useCallbacks](https://royi-codes.vercel.app/thousand-usecallbacks)                                                                               | :bookmark_tabs:     |
