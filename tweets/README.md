@@ -6,3 +6,4 @@
 - [How can I optimize my frontend for the fastest page load times?](https://twitter.com/leeerob/status/1481693352059973632)
 - [Performance Insights by Builder.io](https://twitter.com/Steve8708/status/1501584994208153601)
 - [Optimize head and body separately](https://twitter.com/csswizardry/status/1504106607721988102)
+- [useCallback and useMemo: no perf effect](https://twitter.com/ProvablyFlarnie/status/1504223109439651841)
