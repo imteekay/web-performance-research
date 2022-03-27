@@ -9,3 +9,4 @@
 | Video   | [Rendering on the Web: Performance Implications of Application Architecture](https://www.youtube.com/watch?v=k-A2VfuUROg)                                             | :bookmark_tabs: |
 | Article | [A Modern Take on Cutting the Mustard](https://snugug.com/musings/modern-cutting-the-mustard)                                                                         | :bookmark_tabs: |
 | Article | [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement)                                                           | :bookmark_tabs: |
+| Article | [Conquering JavaScript Hydration](https://dev.to/ryansolid/conquering-javascript-hydration-a9f)                                                                       | :bookmark_tabs: |
