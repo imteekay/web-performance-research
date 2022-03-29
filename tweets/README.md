@@ -9,3 +9,4 @@
 - [useCallback and useMemo: no perf effect](https://twitter.com/ProvablyFlarnie/status/1504223109439651841)
 - [Optimizing LCP](https://twitter.com/Steve8708/status/1508861192890044416)
 - [Use Map over object](https://twitter.com/Steve8708/status/1508502291170484224)
+- [Image performance cheatsheet](https://twitter.com/Steve8708/status/1506281613746917394)
