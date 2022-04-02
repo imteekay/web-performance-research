@@ -85,12 +85,13 @@
 
 ## Largest Contentful Paint
 
-| Type    | Name                                                                                                      | Status          |
-| ------- | --------------------------------------------------------------------------------------------------------- | --------------- |
-| Article | [Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint) | :bookmark_tabs: |
-| Video   | [This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)                                 | :bookmark_tabs: |
-| Article | [Case Study Vodafone: A 31% improvement in LCP increased sales by 8%](https://web.dev/vodafone/)          | :bookmark_tabs: |
-| Article | [Investigating LCP: Largest Contentful Paint](https://www.youtube.com/watch?v=diAc65p15ag)                | :bookmark_tabs: |
+| Type    | Name                                                                                                                | Status          |
+| ------- | ------------------------------------------------------------------------------------------------------------------- | --------------- |
+| Article | [Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint)           | :bookmark_tabs: |
+| Video   | [This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)                                           | :bookmark_tabs: |
+| Article | [Case Study Vodafone: A 31% improvement in LCP increased sales by 8%](https://web.dev/vodafone/)                    | :bookmark_tabs: |
+| Article | [Investigating LCP: Largest Contentful Paint](https://www.youtube.com/watch?v=diAc65p15ag)                          | :bookmark_tabs: |
+| Video   | [How to improve Largest Contentful Paint for a better page experience](https://www.youtube.com/watch?v=480m72yjZv8) | :bookmark_tabs: |
 
 ## First Input Delay
 
