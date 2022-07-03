@@ -27,6 +27,7 @@
 | Article | [Testing a web page with PageSpeed Insights](https://fershad.com/writing/testing-a-web-page-with-pagespeed-insights/)                                                                           | :bookmark_tabs: |
 | Article | [Tracking real Core Web Vitals scores](https://fershad.com/writing/tracking-real-core-web-vitals-scores/)                                                                                       | :bookmark_tabs: |
 | Article | [Stress testing site performance](https://fershad.com/writing/stress-testing-site-performance/)                                                                                                 | :bookmark_tabs: |
+| Article | [How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks](https://www.smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks)    | :bookmark_tabs: |
 
 ## Benchmark
 
