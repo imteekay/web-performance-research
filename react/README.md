@@ -13,3 +13,4 @@
 | Article | [progressive react](https://houssein.me/progressive-react)                                                                                                            | :bookmark_tabs:     |
 | Article | [Optimizing third-party script loading in Next.js](https://web.dev/script-component)                                                                                  | :bookmark_tabs:     |
 | Article | [Death by a thousand useCallbacks](https://royi-codes.vercel.app/thousand-usecallbacks)                                                                               | :bookmark_tabs:     |
+| Article | [New Suspense SSR Architecture in React 18](https://github.com/reactwg/react-18/discussions/37)                                                                       | :bookmark_tabs:     |
