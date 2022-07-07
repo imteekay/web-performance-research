@@ -57,6 +57,7 @@
 | Article | [Feedback wanted: An experimental responsiveness metric](https://web.dev/responsiveness)                                                                                                             | :bookmark_tabs:    |
 | Video   | [Website Performance and Core Web Vitals](https://www.youtube.com/watch?v=tDc77Y9HFoA&ab_channel=CreatorbyZmags)                                                                                     | :bookmark_tabs:    |
 | Article | [Towards an animation smoothness metric](https://web.dev/smoothness)                                                                                                                                 | :bookmark_tabs:    |
+| Article | [Faster page loads using server think-time with Early Hints](https://developer.chrome.com/blog/early-hints)                                                                                          | :bookmark_tabs:    |
 
 ## Cumulative Layout Shift
 
