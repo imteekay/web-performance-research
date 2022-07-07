@@ -15,3 +15,4 @@
 | Article | [Death by a thousand useCallbacks](https://royi-codes.vercel.app/thousand-usecallbacks)                                                                               | :bookmark_tabs:     |
 | Article | [New Suspense SSR Architecture in React 18](https://github.com/reactwg/react-18/discussions/37)                                                                       | :bookmark_tabs:     |
 | Article | [SSR, Streaming, and CSS-in-JS](https://shud.in/posts/ssr-streaming-and-css-in-js)                                                                                    | :bookmark_tabs:     |
+| Article | [Reassure: Performance testing companion for React](https://github.com/callstack/reassure)                                                                            | :bookmark_tabs:     |
