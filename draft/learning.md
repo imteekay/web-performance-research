@@ -10,6 +10,10 @@
   - Working with Web Workers / Service Workers
 - [ ] Profiling / Benchmarking
   - Use and test [Tachometer](https://github.com/Polymer/tachometer)
+- [ ] Architecture
+  - [ ] Server Side Rendering
+  - [ ] Client Side Rendering
+  - [ ] Partial / Progressive Hydration
 
 ## Skills
 
