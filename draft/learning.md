@@ -7,7 +7,7 @@
   - Long-Tasks
   - Source maps
 - [ ] Optimizing JavaScript for the main thread
-  - Working with Web Workers
+  - Working with Web Workers / Service Workers
 - [ ] Profiling / Benchmarking
   - Use and test [Tachometer](https://github.com/Polymer/tachometer)
 
