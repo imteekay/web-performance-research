@@ -93,6 +93,32 @@ The application loading time is proportional to the number and the size of the d
 
 WIP
 
+## Rendering Architectures
+
+- server side rendering (SSR)
+  - generate the page on runtime
+- SSR with hydration: rendering on the server (SSR) with client side rendering (CSR)
+- pre-rendering
+  - render HTML at build time
+  - no ssr overhead (what are the SSR overhead here?)
+  - only for static content
+- client side rendering (CSR)
+- streaming SSR
+- progressive hydration (partial hydration)
+  - component-level approach
+  - entire page rendered server-side
+  - pieces of the page are booted-up in order of priority
+  - make the page interactive faster
+    - it doesn't need to hydrate all the pieces/components in the page
+    - using the profiler: you can the cost of hydration (`hydrate`) and the difference between progressive hydration and no use of progressive hydration
+
+### How it works
+
+Client request HTML to the server
+
+- ssr: build the page on runtime
+- pre-rendering: the page was built at build time -> the server respond almost immediately
+
 ### Other: draft
 
 - People are paying more attention
