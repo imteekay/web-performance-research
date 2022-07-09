@@ -97,20 +97,32 @@ WIP
 
 - server side rendering (SSR)
   - generate the page on runtime
+  - FP (First Paint) & FCP (First Contentful Paint) are fast: rendering on the server to avoid sending lots of JavaScript to the client
+  - Reducing the sie of JavaScript sent to the client, it makes TTI (Time to Interactive) faster as the browser needs to parse, evaluate, and execute less JavaScript
 - SSR with hydration: rendering on the server (SSR) with client side rendering (CSR)
+  - The primary downside of SSR with rehydration is that it can have a significant negative impact on Time To Interactive
+  - Hydration: SSR’d pages often look deceptively loaded and interactive, but can’t actually respond to input until the client-side JS is executed and event handlers have been attached.
+- static rendering
+  - render HTML at build time
+  - no ssr overhead (what are the SSR overhead here?)
+  - only for static content
+  - fast First Paint, First Contentful Paint and Time To Interactive
 - pre-rendering
   - render HTML at build time
   - no ssr overhead (what are the SSR overhead here?)
   - only for static content
+  - fast First Paint, First Contentful Paint and Time To Interactive
 - client side rendering (CSR)
 - streaming SSR
-- progressive hydration (partial hydration)
+  - allows you to send HTML in chunks that the browser can progressively render as it's received.
+- progressive hydration
   - component-level approach
   - entire page rendered server-side
   - pieces of the page are booted-up in order of priority
   - make the page interactive faster
     - it doesn't need to hydrate all the pieces/components in the page
     - using the profiler: you can the cost of hydration (`hydrate`) and the difference between progressive hydration and no use of progressive hydration
+  - partial hydration is an extension of the progressive hydration
 
 ### How it works
 
