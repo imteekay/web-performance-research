@@ -14,3 +14,4 @@
 | Article | [Understanding Rendering in the Jamstack](https://bejamas.io/blog/understanding-rendering-in-the-jamstack/)                                                                                       | :bookmark_tabs: |
 | Tweet   | [How to do partial hydration in React](https://twitter.com/iamakulov/status/1437415799514271746)                                                                                                  | :bookmark_tabs: |
 | Tweet   | [Concurrent mode and partial hydration in React](https://twitter.com/dan_abramov/status/1200111677833973760)                                                                                      | :bookmark_tabs: |
+| Article | [Rendering Patterns](https://www.patterns.dev/posts/rendering-patterns)                                                                                                                           | :bookmark_tabs: |
