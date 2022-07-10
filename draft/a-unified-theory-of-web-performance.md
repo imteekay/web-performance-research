@@ -23,6 +23,8 @@ The application loading time is proportional to the number and the size of the d
 
 ### Strategies
 
+The cost of JavaScript is not only the time it takes to load your bundle. The time to parse and execute your JavaScript is just as crucial.
+
 - Removing unused code
 - Compressing the code
 - Compressing images
@@ -102,6 +104,7 @@ WIP
 - SSR with hydration: rendering on the server (SSR) with client side rendering (CSR)
   - The primary downside of SSR with rehydration is that it can have a significant negative impact on Time To Interactive
   - Hydration: SSR’d pages often look deceptively loaded and interactive, but can’t actually respond to input until the client-side JS is executed and event handlers have been attached.
+    - parsing and execution costs a lot in hydration
 - static rendering
   - render HTML at build time
   - no ssr overhead (what are the SSR overhead here?)
@@ -119,6 +122,7 @@ WIP
   - component-level approach
   - entire page rendered server-side
   - pieces of the page are booted-up in order of priority
+  - attach some event handlers to the DOM
   - make the page interactive faster
     - it doesn't need to hydrate all the pieces/components in the page
     - using the profiler: you can the cost of hydration (`hydrate`) and the difference between progressive hydration and no use of progressive hydration
