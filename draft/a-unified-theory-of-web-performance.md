@@ -124,6 +124,13 @@ WIP
     - using the profiler: you can the cost of hydration (`hydrate`) and the difference between progressive hydration and no use of progressive hydration
   - partial hydration is an extension of the progressive hydration
 
+| —         | SSR                                                             | Static SSR                                                      | SSR with Hydration                                           | CSR with Prerendering                            | CSR                                         |
+| --------- | --------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------- |
+| Overview  | The client requests pages and the server responds with the HTML | Page is prerendered to static HTML at build time. JS is removed | The server prerenders pages. The app is booted on the client | Page is prerendered to static HTML at build time | Rendering and booting is done on the client |
+| Rendering | Dynamic HTML                                                    | Static HTML                                                     | Dynamic HTML + JS/DOM                                        | Partial Static HTML, then JS/DOM                 | JS/DOM                                      |
+| Pros      | Fast FCP, TTI                                                   | Fast TTFB, FCP, and TTI                                         | Flexible                                                     | Fast TTFB, flexible                              | Fast TTFB, flexible                         |
+| Cons      | Slow TTFB, Inflexible                                           | Inflexible, Hydration                                           | Slow TTFB, TTI                                               | TTI > FCP                                        | TTI >>> FCP                                 |
+
 ### How it works
 
 Client request HTML to the server
