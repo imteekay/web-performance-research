@@ -6,12 +6,17 @@
   - Performance tab
   - Long-Tasks
   - Source maps
-- [ ] Optimizing JavaScript for the main thread
-  - Working with Web Workers
 - [ ] Profiling / Benchmarking
   - Use and test [Tachometer](https://github.com/Polymer/tachometer)
 
 ## Skills
+
+- [ ] Optimizing JavaScript for the main thread
+  - Working with Web Workers / Service Workers
+- [ ] Architecture
+  - [ ] Server Side Rendering
+  - [ ] Client Side Rendering
+  - [ ] Partial / Progressive Hydration
 
 # Skills
 
