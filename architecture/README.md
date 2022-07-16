@@ -11,3 +11,4 @@
 | Article | [Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement)                                                                                       | :bookmark_tabs: |
 | Article | [Conquering JavaScript Hydration](https://dev.to/ryansolid/conquering-javascript-hydration-a9f)                                                                                                   | :bookmark_tabs: |
 | Article | [From Static to Interactive: Why Resumability is the Best Alternative to Hydration](https://www.builder.io/blog/from-static-to-interactive-why-resumability-is-the-best-alternative-to-hydration) | :bookmark_tabs: |
+| Article | [SPAs: theory versus practice](https://nolanlawson.com/2022/06/27/spas-theory-versus-practice)                                                                                                    | :bookmark_tabs: |
