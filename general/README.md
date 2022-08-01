@@ -48,3 +48,4 @@
 | Video   | [The Path to Performance](https://www.youtube.com/watch?v=23Fp9V7w_8U&ab_channel=KatieKovalcin)                                                                                  | :movie_camera:     |
 | Article | [experiences. Web. frameworks. future. me.](https://igor.dev/posts/experiences-web-frameworks-future-me)                                                                         | :bookmark_tabs:    |
 | Article | [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions)                                                | :bookmark_tabs:    |
+| Article | [Getting Started with Web Performance](https://calibreapp.com/blog/get-started-with-performance)                                                                                 | :bookmark_tabs:    |
