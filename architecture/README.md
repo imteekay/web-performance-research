@@ -19,3 +19,4 @@
 | Article | [what is partial hydration and why is everyone talking about it?](https://ajcwebdev.com/what-is-partial-hydration-and-why-is-everyone-talking-about-it)                                           | :bookmark_tabs: |
 | Tweet   | [Suspense hydration in React](https://twitter.com/iamakulov/status/1537085468327587840)                                                                                                           | :bookmark_tabs: |
 | Video   | [Advanced Rendering Patterns](https://www.youtube.com/watch?v=PN1HgvAOmi8&ab_channel=RealWorldReact)                                                                                              | :bookmark_tabs: |
+| Article | [Conquering JavaScript Hydration](https://dev.to/this-is-learning/conquering-javascript-hydration-a9f)                                                                                            | :bookmark_tabs: |
