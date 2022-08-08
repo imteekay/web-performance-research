@@ -8,3 +8,4 @@
 | Article    | [Doing Differential Serving in 2019](https://calendar.perfplanet.com/2018/doing-differential-serving-in-2019)                                | :bookmark_tabs: |
 | Article    | [Publish, ship, and install modern JavaScript for faster applications](https://web.dev/publish-modern-javascript/)                           | :bookmark_tabs: |
 | Repository | [Awesome Webpack Perf](https://github.com/iamakulov/awesome-webpack-perf)                                                                    | :bookmark_tabs: |
+| Repository | [Faster JavaScript Builds with Metro](https://medium.com/airbnb-engineering/faster-javascript-builds-with-metro-cfc46d617a1f)                | :bookmark_tabs: |
