@@ -17,6 +17,7 @@ Research on Web Performance
 - [Build tools](build-tools)
 - [React](react)
 - [JavaScript](javascript)
+- [Web APIs](web-apis)
 - [CSS](css)
 - [Images](images)
 - [Backend](backend)
