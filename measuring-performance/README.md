@@ -29,6 +29,7 @@
 | Article | [Stress testing site performance](https://fershad.com/writing/stress-testing-site-performance/)                                                                                                 | :bookmark_tabs: |
 | Article | [How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks](https://www.smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks)    | :bookmark_tabs: |
 | Article | [Get Fast, Stay Fast: How To Monitor React Render Performance](https://3perf.com/blog/react-monitoring)                                                                                         | :bookmark_tabs: |
+| Article | [Creating Airbnb’s Page Performance Score](https://medium.com/airbnb-engineering/creating-airbnbs-page-performance-score-5f664be0936)                                                           | :bookmark_tabs: |
 
 ## Benchmark
 
