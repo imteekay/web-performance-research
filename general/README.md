@@ -49,3 +49,4 @@
 | Article | [experiences. Web. frameworks. future. me.](https://igor.dev/posts/experiences-web-frameworks-future-me)                                                                         | :bookmark_tabs:    |
 | Article | [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions)                                                | :bookmark_tabs:    |
 | Article | [Getting Started with Web Performance](https://calibreapp.com/blog/get-started-with-performance)                                                                                 | :bookmark_tabs:    |
+| Article | [The Ultimate Guide to Optimizing JavaScript for Quick Page Loads](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads)                 | :bookmark_tabs:    |
