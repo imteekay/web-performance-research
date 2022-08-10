@@ -51,3 +51,4 @@
 | Article | [Getting Started with Web Performance](https://calibreapp.com/blog/get-started-with-performance)                                                                                 | :bookmark_tabs:    |
 | Article | [The Ultimate Guide to Optimizing JavaScript for Quick Page Loads](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads)                 | :bookmark_tabs:    |
 | Article | [Performance and the Big Picture](https://tannerhodges.com/blog/performance-and-the-big-picture)                                                                                 | :bookmark_tabs:    |
+| Article | [Learning Web Performance](https://tannerhodges.com/blog/learning-web-performance)                                                                                               | :bookmark_tabs:    |
