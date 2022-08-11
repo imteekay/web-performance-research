@@ -1,41 +1,39 @@
 # Case Studies
 
-| Type    | Name                                                                                                                                                                                                   | Status          |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- |
-| Article | [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)                                                                               | :bookmark_tabs: |
-| Video   | [Performance Signup in React & Transactional Apps with Redux](https://www.youtube.com/watch?v=V8oTJ8OZ5S0&ab_channel=NetflixUIEngineering)                                                             | :movie_camera:  |
-| Article | [Making Instagram.com faster: Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)                                                                               | :bookmark_tabs: |
-| Article | [Making Instagram.com faster: Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4)                                                                               | :bookmark_tabs: |
-| Article | [Making Instagram.com faster: Part 3 — cache first](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669)                                                     | :bookmark_tabs: |
-| Article | [Making instagram.com faster: Code size and execution optimizations (Part 4)](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8) | :bookmark_tabs: |
-| Article | [Optimizing the Performance of a React Progressive Web App](https://www.iamtk.co/optimizing-the-performance-of-a-react-progressive-web-app)                                                            | :bookmark_tabs: |
-| Article | [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154?source=search_post---------6)              | :bookmark_tabs: |
-| Article | [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)          | :bookmark_tabs: |
-| Article | [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)                                             | :bookmark_tabs: |
-| Article | [The Road to Great Product Performance: The First Steps](https://lucianohgo.com/posts/the-road-to-great-product-performance-first-steps)                                                               | :bookmark_tabs: |
-| Article | [Zillow: Bigger, Faster, and More Engaging while on a Budget](https://www.zillow.com/tech/bigger-faster-more-engaging-budget/)                                                                         | :bookmark_tabs: |
-| Article | [Gantry: Slack’s Fast-booting Frontend Framework](https://slack.engineering/gantry-slacks-fast-booting-frontend-framework-fb70c8eed2fd)                                                                | :bookmark_tabs: |
-| Article | [A Tinder PWA Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)                                                                 | :bookmark_tabs: |
-| Article | [Treebo: A React PWA Performance Case Study](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)                                         | :bookmark_tabs: |
-| Article | [How Mercado Libre optimized for Web Vitals (TBT/FID)](https://web.dev/how-mercadolibre-optimized-web-vitals/)                                                                                         | :bookmark_tabs: |
-| Article | [Nikkei achieves a new level of quality and performance with their multi-page PWA](https://developers.google.com/web/showcase/2018/nikkei)                                                             | :bookmark_tabs: |
-| Article | [Journey of Improving React App Performance by 10x](https://medium.com/technogise/journey-of-improving-react-app-performance-by-10x-9195d4b483d4)                                                      | :bookmark_tabs: |
-| Article | [Web dev: Case Study](https://web.dev/tags/case-study/)                                                                                                                                                | :bookmark_tabs: |
-| Article | [How we reduced Next.js page size by 3.5x and achieved a 98 Lighthouse score](https://papyrus.dev/@PapyrusBlog/how-we-reduced-next.js-page-size-by-3.5x-and-achieved-a-98-lighthouse-score?)           | :bookmark_tabs: |
-| Article | [Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/)                                                                    | :bookmark_tabs: |
-| Article | [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance)                                                                                                          | :bookmark_tabs: |
-| Article | [How to convince your client to focus on Web Performance: a case study](https://medium.com/@armelpingault/how-to-convince-your-client-to-focus-on-web-performance-a-case-study-35f12385689)            | :bookmark_tabs: |
-| Video   | [Building Performance for the Long Term](https://vimeo.com/showcase/4970467/video/254947097)                                                                                                           | :bookmark_tabs: |
-| Article | [Crafting a high-performance TV user interface using React](https://netflixtechblog.com/crafting-a-high-performance-tv-user-interface-using-react-3350e5a6ad3b)                                        | :bookmark_tabs: |
-| Article | [Improving JavaScript Bundle Performance With Code-Splitting](https://www.smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/)                                                  | :bookmark_tabs: |
-| Article | [Web performance case study: Wikipedia page previews](https://techblog.wikimedia.org/2020/11/23/web-performance-case-study-wikipedia-page-previews)                                                    | :bookmark_tabs: |
-| Article | [Improving Smashing Magazine’s Web Performance: A Case Study](https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study)                                             | :bookmark_tabs: |
-| Article | [Case study: Analyzing Notion app performance](https://3perf.com/blog/notion)                                                                                                                          | :bookmark_tabs: |
-| Article | [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart)                                                                                                              | :bookmark_tabs: |
-| Article | [Case Study Renault Group](https://web.dev/renault)                                                                                                                                                    | :bookmark_tabs: |
-| Video   | [Optimizing Preview Popups](https://www.youtube.com/watch?v=sKvK3x9zdt0&ab_channel=YoavWeiss)                                                                                                          | :bookmark_tabs: |
-| Article | [Improve user experience! How we manage the Core Web Vitals on our Yahoo! JAPAN News website](https://techblog.yahoo.co.jp/entry/2021022230076263/)                                                    | :bookmark_tabs: |
-| Article | [Notion's page load and navigation times just got faster](https://www.notion.so/blog/faster-page-load-navigation)                                                                                      | :bookmark_tabs: |
-| Video   | [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI)                                                                                                   | :bookmark_tabs: |
-| Article | [Quick Performance Audit - Taiwan COVID Vaccination Website](https://fershad.com/writing/quick-performance-audit-taiwan-covid-vaccination-website)                                                     | :bookmark_tabs: |
-| Article | [HughesNet vs Tesla: A Case Study in Field Data vs Lab Data](https://tannerhodges.com/blog/hughesnet-vs-tesla-a-case-study-in-field-data-vs-lab-data)                                                  | :bookmark_tabs: |
+- [A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+- [Performance Signup in React & Transactional Apps with Redux](https://www.youtube.com/watch?v=V8oTJ8OZ5S0&ab_channel=NetflixUIEngineering)
+- [Making Instagram.com faster: Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)
+- [Making Instagram.com faster: Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4)
+- [Making Instagram.com faster: Part 3 — cache first](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669)
+- [Making instagram.com faster: Code size and execution optimizations (Part 4)](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8)
+- [Optimizing the Performance of a React Progressive Web App](https://www.iamtk.co/optimizing-the-performance-of-a-react-progressive-web-app)
+- [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154?source=search_post---------6)
+- [Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
+- [React Performance Fixes on Airbnb Listing Pages](https://medium.com/airbnb-engineering/recent-web-performance-fixes-on-airbnb-listing-pages-6cd8d93df6f4)
+- [The Road to Great Product Performance: The First Steps](https://lucianohgo.com/posts/the-road-to-great-product-performance-first-steps)
+- [Zillow: Bigger, Faster, and More Engaging while on a Budget](https://www.zillow.com/tech/bigger-faster-more-engaging-budget/)
+- [Gantry: Slack’s Fast-booting Frontend Framework](https://slack.engineering/gantry-slacks-fast-booting-frontend-framework-fb70c8eed2fd)
+- [A Tinder PWA Performance Case Study](https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0)
+- [Treebo: A React PWA Performance Case Study](https://medium.com/dev-channel/treebo-a-react-and-preact-progressive-web-app-performance-case-study-5e4f450d5299)
+- [How Mercado Libre optimized for Web Vitals (TBT/FID)](https://web.dev/how-mercadolibre-optimized-web-vitals/)
+- [Nikkei achieves a new level of quality and performance with their multi-page PWA](https://developers.google.com/web/showcase/2018/nikkei)
+- [Journey of Improving React App Performance by 10x](https://medium.com/technogise/journey-of-improving-react-app-performance-by-10x-9195d4b483d4)
+- [Web dev: Case Study](https://web.dev/tags/case-study/)
+- [How we reduced Next.js page size by 3.5x and achieved a 98 Lighthouse score](https://papyrus.dev/@PapyrusBlog/how-we-reduced-next.js-page-size-by-3.5x-and-achieved-a-98-lighthouse-score?)
+- [Making GitHub’s new homepage fast and performant](https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/)
+- [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance)
+- [How to convince your client to focus on Web Performance: a case study](https://medium.com/@armelpingault/how-to-convince-your-client-to-focus-on-web-performance-a-case-study-35f12385689)
+- [Building Performance for the Long Term](https://vimeo.com/showcase/4970467/video/254947097)
+- [Crafting a high-performance TV user interface using React](https://netflixtechblog.com/crafting-a-high-performance-tv-user-interface-using-react-3350e5a6ad3b)
+- [Improving JavaScript Bundle Performance With Code-Splitting](https://www.smashingmagazine.com/2022/02/javascript-bundle-performance-code-splitting/)
+- [Web performance case study: Wikipedia page previews](https://techblog.wikimedia.org/2020/11/23/web-performance-case-study-wikipedia-page-previews)
+- [Improving Smashing Magazine’s Web Performance: A Case Study](https://www.smashingmagazine.com/2014/09/improving-smashing-magazine-performance-case-study)
+- [Case study: Analyzing Notion app performance](https://3perf.com/blog/notion)
+- [Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart)
+- [Case Study Renault Group](https://web.dev/renault)
+- [Optimizing Preview Popups](https://www.youtube.com/watch?v=sKvK3x9zdt0&ab_channel=YoavWeiss)
+- [Improve user experience! How we manage the Core Web Vitals on our Yahoo! JAPAN News website](https://techblog.yahoo.co.jp/entry/2021022230076263/)
+- [Notion's page load and navigation times just got faster](https://www.notion.so/blog/faster-page-load-navigation)
+- [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI)
+- [Quick Performance Audit - Taiwan COVID Vaccination Website](https://fershad.com/writing/quick-performance-audit-taiwan-covid-vaccination-website)
+- [HughesNet vs Tesla: A Case Study in Field Data vs Lab Data](https://tannerhodges.com/blog/hughesnet-vs-tesla-a-case-study-in-field-data-vs-lab-data)
