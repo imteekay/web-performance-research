@@ -1,105 +1,97 @@
 # Core Web Vitals
 
-| Type    | Name                                                                                                                                                                                                 | Status             |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Video   | [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc&ab_channel=GoogleChromeDevelopers)                                                                                        | 🎥                 |
-| Article | [Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)                                                                                                                                   | 📑                 |
-| Article | [Web Vitals patterns](web.dev/patterns/web-vitals-patterns)                                                                                                                                          | 📑                 |
-| Article | [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo)                                                                                                 | 📑                 |
-| Article | [How SPA architectures affect Core Web Vitals](https://web.dev/vitals-spa-faq)                                                                                                                       | 📑                 |
-| Article | [Lighthouse scores as predictors of page-level CrUX data](https://discuss.httparchive.org/t/lighthouse-scores-as-predictors-of-page-level-crux-data/2232)                                            | :white_check_mark: |
-| Article | [Best practices for measuring Web Vitals in the field](https://web.dev/vitals-field-measurement-best-practices/)                                                                                     | 📑                 |
-| Video   | [Exploring the future of Core Web Vitals](https://www.youtube.com/watch?v=iNfz9tg-wyg)                                                                                                               | 📑                 |
-| Article | [How to Improve Core Web Vitals](https://simonhearne.com/2020/core-web-vitals)                                                                                                                       | 📑                 |
-| Article | [Improving Core Web Vitals, A Smashing Magazine Case Study](https://www.smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine)                                                   | :bookmark_tabs:    |
-| Article | [Hands On with the new Responsiveness Metrics](https://calendar.perfplanet.com/2021/hands-on-with-the-new-responsiveness-metrics)                                                                    | :bookmark_tabs:    |
-| Article | [Have Core Web Vitals made the web faster?](https://calendar.perfplanet.com/2021/have-core-web-vitals-made-the-web-faster)                                                                           | :bookmark_tabs:    |
-| Article | [CWV will become a desktop ranking factor in February 2022](https://developers.google.com/search/blog/2021/11/bringing-page-experience-to-desktop)                                                   | :bookmark_tabs:    |
-| Article | [Send feedback to the Google Core Web Vitals Team](https://groups.google.com/g/web-vitals-feedback)                                                                                                  | :bookmark_tabs:    |
-| Article | [Core Web Vitals Changelog](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/speed/metrics_changelog/README.md)                                                                 | :bookmark_tabs:    |
-| Article | [Core Web Vitals Optimizer (proven process & open-source tool)](https://github.com/fabkrum/core-web-vitals-optimizer/blob/main/README.md)                                                            | :bookmark_tabs:    |
-| Article | [How SPA architectures affect Core Web Vitals](https://web.dev/vitals-spa-faq)                                                                                                                       | :bookmark_tabs:    |
-| Article | [Web Vitals patterns](https://web.dev/patterns/web-vitals-patterns)                                                                                                                                  | :bookmark_tabs:    |
-| Article | [Core Web Vitals is a Measurable Ranking Factor](https://www.sistrix.com/blog/core-web-vitals-is-a-measurable-ranking-factor)                                                                        | :bookmark_tabs:    |
-| Video   | [Insight into Core Web Vitals from the Chrome Platform Team](https://www.youtube.com/watch?v=CcHCbFhx2UM)                                                                                            | :bookmark_tabs:    |
-| Article | [Why lab and field data can be different (and what to do about it)](https://web.dev/lab-and-field-data-differences)                                                                                  | :bookmark_tabs:    |
-| Article | [A performance-focused workflow based on Google tools](https://web.dev/vitals-tools-workflow)                                                                                                        | :bookmark_tabs:    |
-| Article | [HTTP Archive: CrUX Report](https://httparchive.org/reports/chrome-ux-report)                                                                                                                        | :bookmark_tabs:    |
-| Article | [Simulating real users in the lab to debug CLS issues](https://dev.to/rick_viscomi/simulating-real-users-in-the-lab-to-debug-cls-issues-3hnp)                                                        | :bookmark_tabs:    |
-| Article | [Towards a better responsiveness metric](https://web.dev/better-responsiveness-metric)                                                                                                               | :bookmark_tabs:    |
-| Article | [The do’s and don’ts of Core Web Vitals](https://contentsquare.com/blog/the-dos-and-donts-of-core-web-vitals-with-iprospect)                                                                         | :bookmark_tabs:    |
-| Article | [More time, tools, and details on the page experience update](https://developers.google.com/search/blog/2021/04/more-details-page-experience)                                                        | :bookmark_tabs:    |
-| Article | [CSS for Web Vitals](https://web.dev/css-web-vitals)                                                                                                                                                 | :bookmark_tabs:    |
-| Article | [Business impact of Core Web Vital optimizations](https://wpostats.com/tags/core%20web%20vitals)                                                                                                     | :bookmark_tabs:    |
-| Article | [What can the HTTP Archive tell us about Largest Contentful Paint?](https://paulcalvano.com/2021-06-07-lcp-httparchive)                                                                              | :bookmark_tabs:    |
-| Article | [Core Web Vitals Tracking via GA4, BigQuery and Google Data Studio](https://bigcommerce.websiteadvantage.com.au/core-web-vitals-ga4-bigquery-data-studio)                                            | :bookmark_tabs:    |
-| Article | [Core Web Vitals – The Final Countdown](https://www.netcentric.biz/insights/2021/05/core-web-vitals.html)                                                                                            | :bookmark_tabs:    |
-| Article | [How to get your page Core Web Vitals from the CrUX API](https://github.com/fabkrum/web-performance-resources/blob/master/crux-page-data.md)                                                         | :bookmark_tabs:    |
-| Video   | [What's new in Web Vitals](https://www.youtube.com/watch?v=XxvHY4wC8Co)                                                                                                                              | :bookmark_tabs:    |
-| Video   | [The business impact of Core Web Vitals](http://youtube.com/watch?v=nPmAE0YjGK0)                                                                                                                     | :bookmark_tabs:    |
-| Video   | [Ask Me Anything - Core Web Vitals](https://www.youtube.com/watch?v=HWm6WNkHs90&t=615s)                                                                                                              | :bookmark_tabs:    |
-| Article | [Optimizing Web Vitals using Lighthouse](https://web.dev/optimize-vitals-lighthouse)                                                                                                                 | :bookmark_tabs:    |
-| Video   | [Measuring Core Web Vitals](https://www.youtube.com/watch?v=9RpREJjoeRI)                                                                                                                             | :bookmark_tabs:    |
-| Article | [More time, tools, and details on the page experience update](https://developers.google.com/search/blog/2021/04/more-details-page-experience)                                                        | :bookmark_tabs:    |
-| Article | [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals)                                                                    | :bookmark_tabs:    |
-| Article | [Debug Web Vitals in the field](https://web.dev/debug-web-vitals-in-the-field)                                                                                                                       | :bookmark_tabs:    |
-| Article | [Cookie Banners and Web Vitals](https://blr.design/blog/cookie-banner-web-vitals)                                                                                                                    | :bookmark_tabs:    |
-| Article | [How to create a competitive analysis dashboard for Core Web Vitals using Google Data Studio](https://www.deepcrawl.com/blog/best-practice/cmpetitive-analysis-core-web-vitals-google-data-studio)   | :bookmark_tabs:    |
-| Article | [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo)                                                                                                 | :bookmark_tabs:    |
-| Article | [Analyzing Web Vitals with WebPageTest](https://calendar.perfplanet.com/2020/analyzing-web-vitals-with-webpagetest)                                                                                  | :bookmark_tabs:    |
-| Article | [How to Improve Core Web Vitals](https://simonhearne.com/2020/core-web-vitals)                                                                                                                       | :bookmark_tabs:    |
-| Video   | [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc)                                                                                                                          | :bookmark_tabs:    |
-| Article | [Web Vitals - Essential metrics for a healthy site](https://web.dev/vitals)                                                                                                                          | :bookmark_tabs:    |
-| Article | [Defining the Core Web Vitals metrics thresholds](https://web.dev/defining-core-web-vitals-thresholds)                                                                                               | :bookmark_tabs:    |
-| Article | [The Science Behind Web Vitals](https://blog.chromium.org/2020/05/the-science-behind-web-vitals.html)                                                                                                | :bookmark_tabs:    |
-| Article | [Evaluating page experience for a better web](https://developers.google.com/search/blog/2020/05/evaluating-page-experience)                                                                          | :bookmark_tabs:    |
-| Video   | [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI) ([Slides](https://www.slideshare.net/AnnieSullivan9/mnitoring-and-metrics-in-chrome-196438420)) | :bookmark_tabs:    |
-| Article | [Feedback wanted: An experimental responsiveness metric](https://web.dev/responsiveness)                                                                                                             | :bookmark_tabs:    |
-| Video   | [Website Performance and Core Web Vitals](https://www.youtube.com/watch?v=tDc77Y9HFoA&ab_channel=CreatorbyZmags)                                                                                     | :bookmark_tabs:    |
-| Article | [Towards an animation smoothness metric](https://web.dev/smoothness)                                                                                                                                 | :bookmark_tabs:    |
-| Article | [Faster page loads using server think-time with Early Hints](https://developer.chrome.com/blog/early-hints)                                                                                          | :bookmark_tabs:    |
+- [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc&ab_channel=GoogleChromeDevelopers)
+- [Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)
+- [Web Vitals patterns](web.dev/patterns/web-vitals-patterns)
+- [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo)
+- [How SPA architectures affect Core Web Vitals](https://web.dev/vitals-spa-faq)
+- [Lighthouse scores as predictors of page-level CrUX data](https://discuss.httparchive.org/t/lighthouse-scores-as-predictors-of-page-level-crux-data/2232)
+- [Best practices for measuring Web Vitals in the field](https://web.dev/vitals-field-measurement-best-practices/)
+- [Exploring the future of Core Web Vitals](https://www.youtube.com/watch?v=iNfz9tg-wyg)
+- [How to Improve Core Web Vitals](https://simonhearne.com/2020/core-web-vitals)
+- [Improving Core Web Vitals, A Smashing Magazine Case Study](https://www.smashingmagazine.com/2021/12/core-web-vitals-case-study-smashing-magazine)
+- [Hands On with the new Responsiveness Metrics](https://calendar.perfplanet.com/2021/hands-on-with-the-new-responsiveness-metrics)
+- [Have Core Web Vitals made the web faster?](https://calendar.perfplanet.com/2021/have-core-web-vitals-made-the-web-faster)
+- [CWV will become a desktop ranking factor in February 2022](https://developers.google.com/search/blog/2021/11/bringing-page-experience-to-desktop)
+- [Send feedback to the Google Core Web Vitals Team](https://groups.google.com/g/web-vitals-feedback)
+- [Core Web Vitals Changelog](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/speed/metrics_changelog/README.md)
+- [Core Web Vitals Optimizer (proven process & open-source tool)](https://github.com/fabkrum/core-web-vitals-optimizer/blob/main/README.md)
+- [How SPA architectures affect Core Web Vitals](https://web.dev/vitals-spa-faq)
+- [Web Vitals patterns](https://web.dev/patterns/web-vitals-patterns)
+- [Core Web Vitals is a Measurable Ranking Factor](https://www.sistrix.com/blog/core-web-vitals-is-a-measurable-ranking-factor)
+- [Insight into Core Web Vitals from the Chrome Platform Team](https://www.youtube.com/watch?v=CcHCbFhx2UM)
+- [Why lab and field data can be different (and what to do about it)](https://web.dev/lab-and-field-data-differences)
+- [A performance-focused workflow based on Google tools](https://web.dev/vitals-tools-workflow)
+- [HTTP Archive: CrUX Report](https://httparchive.org/reports/chrome-ux-report)
+- [Simulating real users in the lab to debug CLS issues](https://dev.to/rick_viscomi/simulating-real-users-in-the-lab-to-debug-cls-issues-3hnp)
+- [Towards a better responsiveness metric](https://web.dev/better-responsiveness-metric)
+- [The do’s and don’ts of Core Web Vitals](https://contentsquare.com/blog/the-dos-and-donts-of-core-web-vitals-with-iprospect)
+- [More time, tools, and details on the page experience update](https://developers.google.com/search/blog/2021/04/more-details-page-experience)
+- [CSS for Web Vitals](https://web.dev/css-web-vitals)
+- [Business impact of Core Web Vital optimizations](https://wpostats.com/tags/core%20web%20vitals)
+- [What can the HTTP Archive tell us about Largest Contentful Paint?](https://paulcalvano.com/2021-06-07-lcp-httparchive)
+- [Core Web Vitals Tracking via GA4, BigQuery and Google Data Studio](https://bigcommerce.websiteadvantage.com.au/core-web-vitals-ga4-bigquery-data-studio)
+- [Core Web Vitals – The Final Countdown](https://www.netcentric.biz/insights/2021/05/core-web-vitals.html)
+- [How to get your page Core Web Vitals from the CrUX API](https://github.com/fabkrum/web-performance-resources/blob/master/crux-page-data.md)
+- [What's new in Web Vitals](https://www.youtube.com/watch?v=XxvHY4wC8Co)
+- [The business impact of Core Web Vitals](http://youtube.com/watch?v=nPmAE0YjGK0)
+- [Ask Me Anything - Core Web Vitals](https://www.youtube.com/watch?v=HWm6WNkHs90&t=615s)
+- [Optimizing Web Vitals using Lighthouse](https://web.dev/optimize-vitals-lighthouse)
+- [Measuring Core Web Vitals](https://www.youtube.com/watch?v=9RpREJjoeRI)
+- [More time, tools, and details on the page experience update](https://developers.google.com/search/blog/2021/04/more-details-page-experience)
+- [An In-Depth Guide To Measuring Core Web Vitals](https://www.smashingmagazine.com/2021/04/complete-guide-measure-core-web-vitals)
+- [Debug Web Vitals in the field](https://web.dev/debug-web-vitals-in-the-field)
+- [Cookie Banners and Web Vitals](https://blr.design/blog/cookie-banner-web-vitals)
+- [How to create a competitive analysis dashboard for Core Web Vitals using Google Data Studio](https://www.deepcrawl.com/blog/best-practice/cmpetitive-analysis-core-web-vitals-google-data-studio)
+- [Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo)
+- [Analyzing Web Vitals with WebPageTest](https://calendar.perfplanet.com/2020/analyzing-web-vitals-with-webpagetest)
+- [How to Improve Core Web Vitals](https://simonhearne.com/2020/core-web-vitals)
+- [Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc)
+- [Web Vitals - Essential metrics for a healthy site](https://web.dev/vitals)
+- [Defining the Core Web Vitals metrics thresholds](https://web.dev/defining-core-web-vitals-thresholds)
+- [The Science Behind Web Vitals](https://blog.chromium.org/2020/05/the-science-behind-web-vitals.html)
+- [Evaluating page experience for a better web](https://developers.google.com/search/blog/2020/05/evaluating-page-experience)
+- [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI) ([Slides](https://www.slideshare.net/AnnieSullivan9/mnitoring-and-metrics-in-chrome-196438420))
+- [Feedback wanted: An experimental responsiveness metric](https://web.dev/responsiveness)
+- [Website Performance and Core Web Vitals](https://www.youtube.com/watch?v=tDc77Y9HFoA&ab_channel=CreatorbyZmags)
+- [Towards an animation smoothness metric](https://web.dev/smoothness)
+- [Faster page loads using server think-time with Early Hints](https://developer.chrome.com/blog/early-hints)
 
 ## Cumulative Layout Shift
 
-| Type    | Name                                                                                                                                                                                                                    | Status          |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| Article | [How I removed website layout shift using a predeploy script](https://levelup.gitconnected.com/improving-cumulative-layout-shift-on-pre-deploy-stage-1636fb1386cc)                                                      | :bookmark_tabs: |
-| Article | [Measuring Cumulative Layout Shift](https://requestmetrics.com/web-performance/cumulative-layout-shift)                                                                                                                 | :bookmark_tabs: |
-| Article | [How To Fix Cumulative Layout Shift (CLS) Issues](https://www.smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/)                                                                                  | :bookmark_tabs: |
-| Article | [Cumulative Layout Shift in the Real World](https://nicj.net/cumulative-layout-shift-in-the-real-world)                                                                                                                 | :bookmark_tabs: |
-| Article | [Cumulative Layout Shift in Practice](https://nicj.net/cumulative-layout-shift-in-practice)                                                                                                                             | :bookmark_tabs: |
-| Article | [CLS at BuzzFeed — Part 1: Raising The Floor](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-1-8b7ead2381dd)                                                                              | :bookmark_tabs: |
-| Article | [CLS at BuzzFeed — Part 2: Getting Help From Real Users](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-2-2a846adeb097)                                                                   | :bookmark_tabs: |
-| Article | [CLS at BuzzFeed — Part 3: Dealing with the unpredictable](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-2-2a846adeb097)                                                                 | :bookmark_tabs: |
-| Article | [Prevent unwanted Layout Shifts caused by Scrollbars with the scrollbar-gutter CSS property](https://www.bram.us/2021/07/23/pevent-unwanted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/) | :bookmark_tabs: |
-| Article | [Improving Cumulative Layout Shift at Telegraph Media Group](https://web.dev/telegraph/)                                                                                                                                | :bookmark_tabs: |
-| Article | [How To Fix Cumulative Layout Shift (CLS) Issues](https://www.smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/)                                                                                  | :bookmark_tabs: |
-| Article | [Cumulative Layout Shift: Measure and Avoid Visual Instability](https://calibreapp.com/blog/cumulative-layout-shift)                                                                                                    | :bookmark_tabs: |
-| Article | [The Almost-Complete Guide to Cumulative Layout Shift](https://jessbpeck.com/posts/completecls/)                                                                                                                        | :bookmark_tabs: |
-| Article | [Diving Into the New Cumulative Layout Shift](https://blog.webpagetest.org/posts/understanding-the-new-cumulative-layout-shift/)                                                                                        | :bookmark_tabs: |
-| Article | [Evolving the CLS metric](https://web.dev/evolving-cls/)                                                                                                                                                                | :bookmark_tabs: |
-| Article | [Cumulative Layout Shift in Practice](https://nicj.net/cumulative-layout-shift-in-practice/)                                                                                                                            | :bookmark_tabs: |
-| Article | [Cumulative Layout Shift in the Real World](https://nicj.net/cumulative-layout-shift-in-the-real-world/)                                                                                                                | :bookmark_tabs: |
-| Article | [Cumulative Layout Shift Study of Over 1 Million Websites](https://www.seoclarity.net/blog/core-web-vitals-study)                                                                                                       | :bookmark_tabs: |
-| Article | [Debug layout shifts](https://web.dev/debug-layout-shifts/)                                                                                                                                                             | :bookmark_tabs: |
-| Article | [Debugging CLS](https://docs.google.com/document/d/1H-LiSW_oUzugtu_YLXAzxgJkiEcr4bU3qpw84zFUsCQ/edit?resourcekey=0-pKSNORFdLG9lgpOKwSwXFA#heading=h.b9ipz2aa3niy)                                                       | :bookmark_tabs: |
-| Video   | [Understanding Cumulative Layout Shift](https://www.youtube.com/watch?v=zIJuY-JCjqw)                                                                                                                                    | :bookmark_tabs: |
+- [How I removed website layout shift using a predeploy script](https://levelup.gitconnected.com/improving-cumulative-layout-shift-on-pre-deploy-stage-1636fb1386cc)
+- [Measuring Cumulative Layout Shift](https://requestmetrics.com/web-performance/cumulative-layout-shift)
+- [How To Fix Cumulative Layout Shift (CLS) Issues](https://www.smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/)
+- [Cumulative Layout Shift in the Real World](https://nicj.net/cumulative-layout-shift-in-the-real-world)
+- [Cumulative Layout Shift in Practice](https://nicj.net/cumulative-layout-shift-in-practice)
+- [CLS at BuzzFeed — Part 1: Raising The Floor](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-1-8b7ead2381dd)
+- [CLS at BuzzFeed — Part 2: Getting Help From Real Users](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-2-2a846adeb097)
+- [CLS at BuzzFeed — Part 3: Dealing with the unpredictable](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-2-2a846adeb097)
+- [Prevent unwanted Layout Shifts caused by Scrollbars with the scrollbar-gutter CSS property](https://www.bram.us/2021/07/23/pevent-unwanted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/)
+- [Improving Cumulative Layout Shift at Telegraph Media Group](https://web.dev/telegraph/)
+- [How To Fix Cumulative Layout Shift (CLS) Issues](https://www.smashingmagazine.com/2021/06/how-to-fix-cumulative-layout-shift-issues/)
+- [Cumulative Layout Shift: Measure and Avoid Visual Instability](https://calibreapp.com/blog/cumulative-layout-shift)
+- [The Almost-Complete Guide to Cumulative Layout Shift](https://jessbpeck.com/posts/completecls/)
+- [Diving Into the New Cumulative Layout Shift](https://blog.webpagetest.org/posts/understanding-the-new-cumulative-layout-shift/)
+- [Evolving the CLS metric](https://web.dev/evolving-cls/)
+- [Cumulative Layout Shift in Practice](https://nicj.net/cumulative-layout-shift-in-practice/)
+- [Cumulative Layout Shift in the Real World](https://nicj.net/cumulative-layout-shift-in-the-real-world/)
+- [Cumulative Layout Shift Study of Over 1 Million Websites](https://www.seoclarity.net/blog/core-web-vitals-study)
+- [Debug layout shifts](https://web.dev/debug-layout-shifts/)
+- [Debugging CLS](https://docs.google.com/document/d/1H-LiSW_oUzugtu_YLXAzxgJkiEcr4bU3qpw84zFUsCQ/edit?resourcekey=0-pKSNORFdLG9lgpOKwSwXFA#heading=h.b9ipz2aa3niy)
+- [Understanding Cumulative Layout Shift](https://www.youtube.com/watch?v=zIJuY-JCjqw)
 
 ## Largest Contentful Paint
 
-| Type    | Name                                                                                                                | Status          |
-| ------- | ------------------------------------------------------------------------------------------------------------------- | --------------- |
-| Article | [Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint)           | :bookmark_tabs: |
-| Video   | [This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)                                           | :bookmark_tabs: |
-| Article | [Case Study Vodafone: A 31% improvement in LCP increased sales by 8%](https://web.dev/vodafone/)                    | :bookmark_tabs: |
-| Article | [Investigating LCP: Largest Contentful Paint](https://www.youtube.com/watch?v=diAc65p15ag)                          | :bookmark_tabs: |
-| Video   | [How to improve Largest Contentful Paint for a better page experience](https://www.youtube.com/watch?v=480m72yjZv8) | :bookmark_tabs: |
-| Article | [Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint)          | :bookmark_tabs: |
+- [Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint)
+- [This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)
+- [Case Study Vodafone: A 31% improvement in LCP increased sales by 8%](https://web.dev/vodafone/)
+- [Investigating LCP: Largest Contentful Paint](https://www.youtube.com/watch?v=diAc65p15ag)
+- [How to improve Largest Contentful Paint for a better page experience](https://www.youtube.com/watch?v=480m72yjZv8)
+- [Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint)
 
 ## First Input Delay
 
-| Type    | Name                                                                                                                   | Status          |
-| ------- | ---------------------------------------------------------------------------------------------------------------------- | --------------- |
-| Article | [First Input Delay (FID)](https://web.dev/fid)                                                                         | :bookmark_tabs: |
-| Article | [Improving responsiveness in text inputs](https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/) | :bookmark_tabs: |
-| Article | [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)                                              | :bookmark_tabs: |
+- [First Input Delay (FID)](https://web.dev/fid)
+- [Improving responsiveness in text inputs](https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/)
+- [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)

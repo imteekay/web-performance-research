@@ -1,55 +1,53 @@
 # General
 
-| Type    | Name                                                                                                                                                                             | Status             |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Article | [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)                                                  | :bookmark_tabs:    |
-| Article | [Chrome’s Paint Flashing Tool](https://engineering.entelo.com/chromes-paint-flashing-tool-b5c880849635)                                                                          | :bookmark_tabs:    |
-| Video   | [Improving Page Performance in Modern Web Apps](https://www.youtube.com/watch?v=p_8oR9GFRvQ)                                                                                     | :bookmark_tabs:    |
-| Video   | [Speed Essentials: Key Techniques for Fast Websites](https://www.youtube.com/watch?v=reztLS3vomE)                                                                                | :movie_camera:     |
-| Video   | [Improving Page Performance in Modern Web Apps](https://vimeo.com/254858694)                                                                                                     | :bookmark_tabs:    |
-| Article | [Building the DOM faster: speculative parsing, async, defer and preload](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/) | :bookmark_tabs:    |
-| Article | [Improving React Runtime Performance](https://medium.com/quintoandar-tech-blog/improving-react-runtime-performance-dec0a5a4ffda)                                                 | :bookmark_tabs:    |
-| Article | [Building the DOM faster](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)                                                | :bookmark_tabs:    |
-| Article | [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)                                     | :bookmark_tabs:    |
-| Article | [Fast load times](https://web.dev/fast/)                                                                                                                                         | :bookmark_tabs:    |
-| Video   | [Demystifying Speed Tooling](https://www.youtube.com/watch?v=mLjxXPHuIJo)                                                                                                        | :movie_camera:     |
-| Article | [Monitoring Your Core Web Vital (Performance) Metrics](https://requestmetrics.com/web-performance/monitoring-core-web-vital)                                                     | :bookmark_tabs:    |
-| Article | [Loading Performance Overview](https://developers.google.com/web/fundamentals/performance/get-started)                                                                           | :bookmark_tabs:    |
-| Article | [Flame Graphs](https://www.brendangregg.com/flamegraphs.html)                                                                                                                    | :bookmark_tabs:    |
-| Article | [Fast load times](https://web.dev/fast/)                                                                                                                                         | :bookmark_tabs:    |
-| Article | [Small Bundles, Fast Pages: What To Do With Too Much JavaScript](https://calibreapp.com/blog/bundle-size-optimization)                                                           | :bookmark_tabs:    |
-| Article | [Web Performance: Trends and Insights from 4 Top Performance Experts](https://cloudinary.com/products/media_optimizer/web-performance-guide)                                     | :bookmark_tabs:    |
-| Video   | [Top 10 performance pitfalls](https://www.youtube.com/watch?v=Lh9q3h2khlc)                                                                                                       | :movie_camera:     |
-| Article | [How to Eliminate Render-Blocking Resources: a Deep Dive](https://sia.codes/posts/render-blocking-resources/)                                                                    | :bookmark_tabs:    |
-| Article | [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)                                                                            | :bookmark_tabs:    |
-| Article | [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance)                                                                                    | :bookmark_tabs:    |
-| Article | [5 Common Mistakes Teams Make When Tracking Performance](https://calibreapp.com/blog/common-mistakes-in-tracking-speed)                                                          | :bookmark_tabs:    |
-| Article | [Are your JavaScript long tasks frustrating users?](https://www.speedcurve.com/blog/javascript-long-tasks/)                                                                      | :bookmark_tabs:    |
-| Article | [My Challenge to the Web Performance Community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)                                                | :white_check_mark: |
-| Article | [Optimize SPA bundle size to speed up application loading](https://medium.com/miro-engineering/optimize-spa-bundle-size-to-speed-up-application-loading-c988cef57257)            | :white_check_mark: |
-| Article | [A Unified Theory of Web Performance](https://calendar.perfplanet.com/2021/a-unified-theory-of-web-performance/)                                                                 | :white_check_mark: |
-| Article | [Web Perf 101](https://3perf.com/talks/web-perf-101)                                                                                                                             | :bookmark_tabs:    |
-| Article | [3Perf Guides](https://3perf.com/content)                                                                                                                                        | :bookmark_tabs:    |
-| Video   | [Fantastic Frontend Performance Tricks & Why We Do Them](https://www.youtube.com/watch?v=pSCHN4oU2JQ&ab_channel=estellevw)                                                       | :movie_camera:     |
-| Video   | [The Bright Future of Web Performance](https://www.youtube.com/watch?v=Jz3Fu1o356g&ab_channel=WebConferencesAmsterdam)                                                           | :movie_camera:     |
-| Article | [Fixing Performance Regressions Before they Happen](https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe)                                  | :bookmark_tabs:    |
-| Video   | [Javascript Performance in Extreme Environments](https://www.youtube.com/watch?v=Mk-t189JSe0)                                                                                    | :movie_camera:     |
-| Video   | [When JavaScript Bytes](https://www.youtube.com/watch?v=GvUGN0AIfDE)                                                                                                             | :movie_camera:     |
-| Video   | [Deep dive into third-party performance](https://www.youtube.com/watch?v=uXv9JFvrnwo)                                                                                            | :movie_camera:     |
-| Video   | [Common Mistakes That Degrade Frontend Performance](https://www.youtube.com/watch?v=uVrp_A7rj_I)                                                                                 | :movie_camera:     |
-| Article | [The why of website optimisation: Increase site conversions](https://fershad.com/writing/website-optimisation-increase-conversions-engagement/)                                  | :bookmark_tabs:    |
-| Article | [The why of website optimisation: Reduce operational costs](https://fershad.com/writing/website-optimisation-reduce-operational-costs/)                                          | :bookmark_tabs:    |
-| Article | [The why of website optimisation: Better search ranking](https://fershad.com/writing/website-optimisation-improve-search-ranking/)                                               | :bookmark_tabs:    |
-| Article | [The why of website optimisation: Help the planet](https://fershad.com/writing/website-optimisation-reduce-environmental-impact/)                                                | :bookmark_tabs:    |
-| Article | [The why of website optimisation: Better user experience](https://fershad.com/writing/website-optimisation-better-user-experience/)                                              | :bookmark_tabs:    |
-| Article | [Optimizing third-party script loading in Next.js](https://web.dev/script-component)                                                                                             | :bookmark_tabs:    |
-| Video   | [Inclusive Design is Fast by Default](https://www.youtube.com/watch?v=MiXy2x6flww)                                                                                               | :movie_camera:     |
-| Video   | [The Psychology of Speed](https://www.youtube.com/watch?v=7i_yQyHdxUo)                                                                                                           | :movie_camera:     |
-| Video   | [The Path to Performance](https://www.youtube.com/watch?v=23Fp9V7w_8U&ab_channel=KatieKovalcin)                                                                                  | :movie_camera:     |
-| Article | [experiences. Web. frameworks. future. me.](https://igor.dev/posts/experiences-web-frameworks-future-me)                                                                         | :bookmark_tabs:    |
-| Article | [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions)                                                | :bookmark_tabs:    |
-| Article | [Getting Started with Web Performance](https://calibreapp.com/blog/get-started-with-performance)                                                                                 | :bookmark_tabs:    |
-| Article | [The Ultimate Guide to Optimizing JavaScript for Quick Page Loads](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads)                 | :bookmark_tabs:    |
-| Article | [Performance and the Big Picture](https://tannerhodges.com/blog/performance-and-the-big-picture)                                                                                 | :bookmark_tabs:    |
-| Article | [Learning Web Performance](https://tannerhodges.com/blog/learning-web-performance)                                                                                               | :bookmark_tabs:    |
-| Article | [A Management Maturity Model for Performance](https://infrequently.org/2022/05/performance-management-maturity)                                                                  | :bookmark_tabs:    |
+- [Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+- [Chrome’s Paint Flashing Tool](https://engineering.entelo.com/chromes-paint-flashing-tool-b5c880849635)
+- [Improving Page Performance in Modern Web Apps](https://www.youtube.com/watch?v=p_8oR9GFRvQ)
+- [Speed Essentials: Key Techniques for Fast Websites](https://www.youtube.com/watch?v=reztLS3vomE)
+- [Improving Page Performance in Modern Web Apps](https://vimeo.com/254858694)
+- [Building the DOM faster: speculative parsing, async, defer and preload](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)
+- [Improving React Runtime Performance](https://medium.com/quintoandar-tech-blog/improving-react-runtime-performance-dec0a5a4ffda)
+- [Building the DOM faster](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)
+- [Maybe you don't need Rust and WASM to speed up your JS](https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html)
+- [Fast load times](https://web.dev/fast/)
+- [Demystifying Speed Tooling](https://www.youtube.com/watch?v=mLjxXPHuIJo)
+- [Monitoring Your Core Web Vital (Performance) Metrics](https://requestmetrics.com/web-performance/monitoring-core-web-vital)
+- [Loading Performance Overview](https://developers.google.com/web/fundamentals/performance/get-started)
+- [Flame Graphs](https://www.brendangregg.com/flamegraphs.html)
+- [Fast load times](https://web.dev/fast/)
+- [Small Bundles, Fast Pages: What To Do With Too Much JavaScript](https://calibreapp.com/blog/bundle-size-optimization)
+- [Web Performance: Trends and Insights from 4 Top Performance Experts](https://cloudinary.com/products/media_optimizer/web-performance-guide)
+- [Top 10 performance pitfalls](https://www.youtube.com/watch?v=Lh9q3h2khlc)
+- [How to Eliminate Render-Blocking Resources: a Deep Dive](https://sia.codes/posts/render-blocking-resources/)
+- [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
+- [The Impact of Web Performance](https://simplified.dev/performance/impact-of-web-performance)
+- [5 Common Mistakes Teams Make When Tracking Performance](https://calibreapp.com/blog/common-mistakes-in-tracking-speed)
+- [Are your JavaScript long tasks frustrating users?](https://www.speedcurve.com/blog/javascript-long-tasks/)
+- [My Challenge to the Web Performance Community](https://philipwalton.com/articles/my-challenge-to-the-web-performance-community/)
+- [Optimize SPA bundle size to speed up application loading](https://medium.com/miro-engineering/optimize-spa-bundle-size-to-speed-up-application-loading-c988cef57257)
+- [A Unified Theory of Web Performance](https://calendar.perfplanet.com/2021/a-unified-theory-of-web-performance/)
+- [Web Perf 101](https://3perf.com/talks/web-perf-101)
+- [3Perf Guides](https://3perf.com/content)
+- [Fantastic Frontend Performance Tricks & Why We Do Them](https://www.youtube.com/watch?v=pSCHN4oU2JQ&ab_channel=estellevw)
+- [The Bright Future of Web Performance](https://www.youtube.com/watch?v=Jz3Fu1o356g&ab_channel=WebConferencesAmsterdam)
+- [Fixing Performance Regressions Before they Happen](https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe)
+- [Javascript Performance in Extreme Environments](https://www.youtube.com/watch?v=Mk-t189JSe0)
+- [When JavaScript Bytes](https://www.youtube.com/watch?v=GvUGN0AIfDE)
+- [Deep dive into third-party performance](https://www.youtube.com/watch?v=uXv9JFvrnwo)
+- [Common Mistakes That Degrade Frontend Performance](https://www.youtube.com/watch?v=uVrp_A7rj_I)
+- [The why of website optimisation: Increase site conversions](https://fershad.com/writing/website-optimisation-increase-conversions-engagement/)
+- [The why of website optimisation: Reduce operational costs](https://fershad.com/writing/website-optimisation-reduce-operational-costs/)
+- [The why of website optimisation: Better search ranking](https://fershad.com/writing/website-optimisation-improve-search-ranking/)
+- [The why of website optimisation: Help the planet](https://fershad.com/writing/website-optimisation-reduce-environmental-impact/)
+- [The why of website optimisation: Better user experience](https://fershad.com/writing/website-optimisation-better-user-experience/)
+- [Optimizing third-party script loading in Next.js](https://web.dev/script-component)
+- [Inclusive Design is Fast by Default](https://www.youtube.com/watch?v=MiXy2x6flww)
+- [The Psychology of Speed](https://www.youtube.com/watch?v=7i_yQyHdxUo)
+- [The Path to Performance](https://www.youtube.com/watch?v=23Fp9V7w_8U&ab_channel=KatieKovalcin)
+- [experiences. Web. frameworks. future. me.](https://igor.dev/posts/experiences-web-frameworks-future-me)
+- [Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions)
+- [Getting Started with Web Performance](https://calibreapp.com/blog/get-started-with-performance)
+- [The Ultimate Guide to Optimizing JavaScript for Quick Page Loads](https://www.builder.io/blog/the-ultimate-guide-to-optimizing-javascript-for-quick-page-loads)
+- [Performance and the Big Picture](https://tannerhodges.com/blog/performance-and-the-big-picture)
+- [Learning Web Performance](https://tannerhodges.com/blog/learning-web-performance)
+- [A Management Maturity Model for Performance](https://infrequently.org/2022/05/performance-management-maturity)
