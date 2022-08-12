@@ -50,3 +50,4 @@
 - [We spent a week making Trello boards load extremely fast. Here’s how we did it. - Fog Creek Blog](http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/)
 - [Minimizing browser reflow | PageSpeed Insights | Google Developers](https://developers.google.com/speed/articles/reflow?hl=en)
 - [Optimizing Web Content in UIWebViews and Websites on iOS](https://developer.apple.com/videos/wwdc/2012/?id=601)
+- [Accelerated Rendering in Chrome](http://www.html5rocks.com/en/tutorials/speed/layers/)
