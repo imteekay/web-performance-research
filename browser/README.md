@@ -48,3 +48,4 @@
 - [wilsonpage/fastdom](https://github.com/wilsonpage/fastdom)
 - [Rendering: repaint, reflow/relayout, restyle / Stoyan](http://www.phpied.com/rendering-repaint-reflowrelayout-restyle/)
 - [We spent a week making Trello boards load extremely fast. Here’s how we did it. - Fog Creek Blog](http://blog.fogcreek.com/we-spent-a-week-making-trello-boards-load-extremely-fast-heres-how-we-did-it/)
+- [Minimizing browser reflow | PageSpeed Insights | Google Developers](https://developers.google.com/speed/articles/reflow?hl=en)
