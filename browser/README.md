@@ -42,3 +42,4 @@
 - [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a)
 - [Rendering: repaint, reflow/relayout, restyle](https://www.phpied.com/rendering-repaint-reflowrelayout-restyle)
 - [Get to know your browser's performance profiler](https://blog.atomrc.dev/p/js-performance-profiling)
+- [Scrolling performance](https://web.dev/speed-scrolling)
