@@ -15,3 +15,5 @@
 - [SSR, Streaming, and CSS-in-JS](https://shud.in/posts/ssr-streaming-and-css-in-js)
 - [Reassure: Performance testing companion for React](https://github.com/callstack/reassure)
 - [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
+- [How to write performant React code: rules, patterns, do's and don'ts](https://www.developerway.com/posts/how-to-write-performant-react-code)
+- [React Performance – 13 Ways to Optimize Performance of your React App](https://www.simform.com/blog/react-performance)
