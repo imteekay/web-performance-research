@@ -28,6 +28,7 @@
 - [How To Use Google CrUX To Analyze And Compare The Performance Of JS Frameworks](https://www.smashingmagazine.com/2022/05/google-crux-analysis-comparison-performance-javascript-frameworks)
 - [Get Fast, Stay Fast: How To Monitor React Render Performance](https://3perf.com/blog/react-monitoring)
 - [Creating Airbnb’s Page Performance Score](https://medium.com/airbnb-engineering/creating-airbnbs-page-performance-score-5f664be0936)
+- [Let’s Turn Real User Data Analysis into a Science](https://www.youtube.com/watch?v=3xWAqTIhDQ0&ab_channel=NYWebPerformanceMeetup)
 
 ## Runtime Performance
 
