@@ -14,3 +14,4 @@
 - [New Suspense SSR Architecture in React 18](https://github.com/reactwg/react-18/discussions/37)
 - [SSR, Streaming, and CSS-in-JS](https://shud.in/posts/ssr-streaming-and-css-in-js)
 - [Reassure: Performance testing companion for React](https://github.com/callstack/reassure)
+- [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
