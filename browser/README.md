@@ -53,3 +53,4 @@
 - [Optimizing Web Content in UIWebViews and Websites on iOS](https://developer.apple.com/videos/wwdc/2012/?id=601)
 - [Accelerated Rendering in Chrome](http://www.html5rocks.com/en/tutorials/speed/layers/)
 - [JavaScript DOM Manipulation Performance](https://www.diva-portal.org/smash/get/diva2:1436661/FULLTEXT01.pdf)
+- [Profiling & Optimizing the runtime performance with the DevTools Performance tab](https://www.iamtk.co/profiling-and-optimizing-the-runtime-performance-with-the-devtools-performance-tab)
