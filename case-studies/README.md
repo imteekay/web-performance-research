@@ -37,3 +37,4 @@
 - [Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI)
 - [Quick Performance Audit - Taiwan COVID Vaccination Website](https://fershad.com/writing/quick-performance-audit-taiwan-covid-vaccination-website)
 - [HughesNet vs Tesla: A Case Study in Field Data vs Lab Data](https://tannerhodges.com/blog/hughesnet-vs-tesla-a-case-study-in-field-data-vs-lab-data)
+- [Core Web Vitals: Theory and practice](https://www.youtube.com/watch?v=8xpjecvxnRM)
