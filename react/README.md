@@ -19,3 +19,4 @@
 - [React Performance – 13 Ways to Optimize Performance of your React App](https://www.simform.com/blog/react-performance)
 - [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
 - [Profiling & Optimizing the runtime performance with the DevTools Performance tab](https://www.iamtk.co/profiling-and-optimizing-the-runtime-performance-with-the-devtools-performance-tab)
+- [Inside Fiber: the in-depth overview you wanted](https://www.youtube.com/watch?v=jMZBhHzD3H8&ab_channel=ReactNext)
