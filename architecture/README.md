@@ -18,4 +18,5 @@
 - [Suspense hydration in React](https://twitter.com/iamakulov/status/1537085468327587840)
 - [Advanced Rendering Patterns](https://www.youtube.com/watch?v=PN1HgvAOmi8&ab_channel=RealWorldReact)
 - [Conquering JavaScript Hydration](https://dev.to/this-is-learning/conquering-javascript-hydration-a9f)
-- [what happens before hydration](https://www.youtube.com/watch?v=PGLwRv64RzM)
+- [What happens before hydration](https://www.youtube.com/watch?v=PGLwRv64RzM)
+- [Stream Away the Wait](https://www.youtube.com/watch?v=gb2DGJB1ZsM&ab_channel=ReactNext)
