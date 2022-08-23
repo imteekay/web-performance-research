@@ -6,3 +6,4 @@
 - [Speed up next-page navigations with prefetching](https://dev.to/addyosmani/speed-up-next-page-navigations-with-prefetching-4285)
 - [Preload, Prefetch And Priorities in Chrome](https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf)
 - [The Art of Predictive Prefetch](https://www.youtube.com/watch?v=UwjzFGCAuLw)
+- [Instant And Consistent Page Load Through Prerendering](https://developers.cyberagent.co.jp/blog/archives/37264/)
