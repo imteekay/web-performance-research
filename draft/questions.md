@@ -24,3 +24,4 @@
 - ​Also playing with Web Components so that things can be islands of style and behaviour within that layour scaffolding.
 - ​+1 about Patrick's question, really curious about the opinions here. Layout shift root cause is definitively not easy sometimes, others ideas?
 - ​We have struggles simulating production environments and accurately measuring performance before going to production. What strategies might there be for measuring performance in QA environments?
+- How many Mbs of JS should the sites start with?
