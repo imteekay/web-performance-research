@@ -68,3 +68,4 @@
 ## Courses
 
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
+- [Setting up DevTools for Performance Testing](https://csswizardry.gumroad.com/l/perfect-devtools)
