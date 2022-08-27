@@ -20,3 +20,4 @@
 - [Conquering JavaScript Hydration](https://dev.to/this-is-learning/conquering-javascript-hydration-a9f)
 - [What happens before hydration](https://www.youtube.com/watch?v=PGLwRv64RzM)
 - [Stream Away the Wait](https://www.youtube.com/watch?v=gb2DGJB1ZsM&ab_channel=ReactNext)
+- [Crafting a high-performance TV user interface using React](https://netflixtechblog.com/crafting-a-high-performance-tv-user-interface-using-react-3350e5a6ad3b)
