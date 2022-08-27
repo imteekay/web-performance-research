@@ -64,3 +64,7 @@
 
 - [Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/GoogleChrome/workbox)
 - [Introduction to Workbox and service workers](https://developer.chrome.com/docs/workbox/service-worker-overview/)
+
+## Courses
+
+- [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
