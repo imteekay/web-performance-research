@@ -39,6 +39,11 @@
 - [A collection of performance tools](https://github.com/unlikelyzero/js-perf-toolkit)
 - [Performance Testing using Playwright](https://www.youtube.com/watch?v=IrK-XDH72bw&ab_channel=NYWebPerformanceMeetup)
 
+## DevTools
+
+- [Chrome DevTools: Performance Tab](https://www.youtube.com/watch?v=LGT4Qe7v0So)
+- [Improving page performance with Chrome DevTools](https://www.youtube.com/watch?v=yRrrL0Mg1pM&ab_channel=UmarHansa)
+
 ## Benchmark
 
 - [Adventures in Microbenchmarking](https://tomdale.net/2017/07/adventures-in-microbenchmarking)
@@ -50,4 +55,3 @@
 - [Treo](https://treo.sh)
 - [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes)
 - [perfsee: a set of tool for measuring and debugging performance of frontend applications](https://github.com/perfsee/perfsee)
-- [Chrome DevTools: Performance Tab](https://www.youtube.com/watch?v=LGT4Qe7v0So)
