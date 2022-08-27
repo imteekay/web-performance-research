@@ -46,3 +46,4 @@
 
 - [Treo](https://treo.sh)
 - [Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes)
+- [perfsee: a set of tool for measuring and debugging performance of frontend applications](https://github.com/perfsee/perfsee)
