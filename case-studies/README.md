@@ -39,3 +39,4 @@
 - [HughesNet vs Tesla: A Case Study in Field Data vs Lab Data](https://tannerhodges.com/blog/hughesnet-vs-tesla-a-case-study-in-field-data-vs-lab-data)
 - [Core Web Vitals: Theory and practice](https://www.youtube.com/watch?v=8xpjecvxnRM)
 - [How Rakuten 24's investment in Core Web Vitals increased revenue per visitor by 53.37% and conversion rate by 33.13%](https://web.dev/rakuten)
+- [How QuintoAndar increased conversion rates and pages per session by improving page performance](https://web.dev/quintoandar)
