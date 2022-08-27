@@ -58,6 +58,7 @@
 - [Cache Control](https://www.youtube.com/watch?v=fccw0kmsG6g&ab_channel=ReactNext)
 - [Cache your fonts, images & pages - Unpacking the Workbox](https://www.youtube.com/watch?v=utxTqssjp-o&ab_channel=GoogleChromeDevelopers)
 - [How to eliminate render blocking resources](https://www.debugbear.com/blog/render-blocking-resources)
+- [60 fps on the mobile web](https://engineering.flipboard.com/2015/02/mobile-web)
 
 ## Service Workers
 
