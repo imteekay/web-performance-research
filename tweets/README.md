@@ -11,3 +11,4 @@
 - [Use Map over object](https://twitter.com/Steve8708/status/1508502291170484224)
 - [Image performance cheatsheet](https://twitter.com/Steve8708/status/1506281613746917394)
 - [Frontend performance tips to keep top of mind](https://twitter.com/Steve8708/status/1549501457140830208)
+- [Spotify Performance Profiling](https://twitter.com/iamakulov/status/1522008502398554113)
