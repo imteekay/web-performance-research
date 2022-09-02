@@ -65,6 +65,7 @@
 
 - [Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/GoogleChrome/workbox)
 - [Introduction to Workbox and service workers](https://developer.chrome.com/docs/workbox/service-worker-overview/)
+- [Boost Your Site Performance with Partytown](https://www.youtube.com/watch?v=AsZXN8SYoa4&ab_channel=Builder)
 
 ## Courses
 
