@@ -52,3 +52,7 @@
 - [Learning Web Performance](https://tannerhodges.com/blog/learning-web-performance)
 - [A Management Maturity Model for Performance](https://infrequently.org/2022/05/performance-management-maturity)
 - [State of Web Performance August 2022](https://www.youtube.com/watch?v=DlG41ik4jKU&ab_channel=ThisDotMedia)
+
+## Why matters
+
+- [What Is Site-Speed and Why Should I Care?](https://csswizardry.com/downloads/csswizardry.com-site-speed.pdf)
