@@ -18,18 +18,18 @@
 - [How to write performant React code: rules, patterns, do's and don'ts](https://www.developerway.com/posts/how-to-write-performant-react-code)
 - [React Performance – 13 Ways to Optimize Performance of your React App](https://www.simform.com/blog/react-performance)
 - [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
-- [Profiling & Optimizing the runtime performance with the DevTools Performance tab](https://www.iamtk.co/profiling-and-optimizing-the-runtime-performance-with-the-devtools-performance-tab)
 - [Inside Fiber: the in-depth overview you wanted](https://www.youtube.com/watch?v=jMZBhHzD3H8&ab_channel=ReactNext)
 - [Profiling React Apps like a Pro](https://www.youtube.com/watch?v=uZn9tVIISeQ)
 - [React Performance with React Dev Tools](https://www.youtube.com/watch?v=sFvOMc7W7k0&ab_channel=ReactNext)
-- [Performance Profiling a Redux App](https://medium.com/@vcarl/performance-profiling-a-redux-app-c85e67bf84ae)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders)
 
 ## Measuring
 
+- [Profiling & Optimizing the runtime performance with the DevTools Performance tab](https://www.iamtk.co/profiling-and-optimizing-the-runtime-performance-with-the-devtools-performance-tab)
 - [Measuring React app performance](https://www.debugbear.com/blog/measuring-react-app-performance)
 - [Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js/)
 - [Get Fast, Stay Fast: How To Monitor React Render Performance](https://3perf.com/blog/react-monitoring)
+- [Performance Profiling a Redux App](https://medium.com/@vcarl/performance-profiling-a-redux-app-c85e67bf84ae)
 
 ## Courses
 
