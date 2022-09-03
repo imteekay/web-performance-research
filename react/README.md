@@ -25,6 +25,7 @@
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders)
 - [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
 - [React Performance: How to avoid redundant re-renders](https://itnext.io/react-performance-how-to-avoid-redundant-re-renders-6a33618d92a3)
+- [React Rendering Order](https://imkev.dev/react-rendering-order)
 
 ## Measuring
 
