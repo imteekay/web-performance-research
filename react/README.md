@@ -26,6 +26,7 @@
 - [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
 - [React Performance: How to avoid redundant re-renders](https://itnext.io/react-performance-how-to-avoid-redundant-re-renders-6a33618d92a3)
 - [React Rendering Order](https://imkev.dev/react-rendering-order)
+- [Learning the React reconciliation algorithm with performance measures](https://imkev.dev/react-reconciliation-performance-measures)
 
 ## Measuring
 
