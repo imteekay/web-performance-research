@@ -21,6 +21,10 @@
 - [React Performance with React Dev Tools](https://www.youtube.com/watch?v=sFvOMc7W7k0&ab_channel=ReactNext)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders)
 
+## Fiber — reconciliation algorithm
+
+- [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://indepth.dev/posts/1008/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react)
+
 ## Measuring
 
 - [Profiling & Optimizing the runtime performance with the DevTools Performance tab](https://www.iamtk.co/profiling-and-optimizing-the-runtime-performance-with-the-devtools-performance-tab)
