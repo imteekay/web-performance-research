@@ -95,3 +95,7 @@
 - [First Input Delay (FID)](https://web.dev/fid)
 - [Improving responsiveness in text inputs](https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/)
 - [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
+
+## Interaction to Next Paint
+
+- [Interaction to Next Paint by kev](https://imkev.dev/inp)
