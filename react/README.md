@@ -25,6 +25,7 @@
 
 - [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://indepth.dev/posts/1008/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react)
 - [In-depth explanation of state and props update in React](https://indepth.dev/posts/1009/in-depth-explanation-of-state-and-props-update-in-react)
+- [Should you optimize every re-render?](https://imkev.dev/optimizing-rerenders)
 
 ## Measuring
 
