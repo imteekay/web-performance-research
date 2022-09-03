@@ -28,6 +28,7 @@
 
 - [Measuring React app performance](https://www.debugbear.com/blog/measuring-react-app-performance)
 - [Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js/)
+- [Get Fast, Stay Fast: How To Monitor React Render Performance](https://3perf.com/blog/react-monitoring)
 
 ## Courses
 
