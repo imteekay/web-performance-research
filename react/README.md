@@ -1,6 +1,5 @@
 # React
 
-- [How to use the React Profiler to find and fix Performance Problems](https://www.youtube.com/watch?v=00RoZflFE34&ab_channel=BenAwad)
 - [Improved Next.js and Gatsby page load performance with granular chunking](https://web.dev/granular-chunking-nextjs)
 - [Next.js Performance: Making a Fast Framework Even Faster](https://calibreapp.com/blog/nextjs-performance)
 - [How to write performant React code: rules, patterns, do's and don'ts](https://dev.to/adevnadia/how-to-write-performant-react-code-rules-patterns-dos-and-donts-40gk)
@@ -30,6 +29,7 @@
 - [Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js/)
 - [Get Fast, Stay Fast: How To Monitor React Render Performance](https://3perf.com/blog/react-monitoring)
 - [Performance Profiling a Redux App](https://medium.com/@vcarl/performance-profiling-a-redux-app-c85e67bf84ae)
+- [How to use the React Profiler to find and fix Performance Problems](https://www.youtube.com/watch?v=00RoZflFE34&ab_channel=BenAwad)
 
 ## Courses
 
