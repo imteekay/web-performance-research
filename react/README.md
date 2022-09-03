@@ -27,6 +27,7 @@
 ## Measuring
 
 - [Measuring React app performance](https://www.debugbear.com/blog/measuring-react-app-performance)
+- [Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js/)
 
 ## Courses
 
