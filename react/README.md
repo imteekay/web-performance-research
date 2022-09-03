@@ -24,6 +24,10 @@
 - [React Performance with React Dev Tools](https://www.youtube.com/watch?v=sFvOMc7W7k0&ab_channel=ReactNext)
 - [Performance Profiling a Redux App](https://medium.com/@vcarl/performance-profiling-a-redux-app-c85e67bf84ae)
 
+## Measuring
+
+- [Measuring React app performance](https://www.debugbear.com/blog/measuring-react-app-performance)
+
 ## Courses
 
 - [The React Performance Masterclass](https://smashingconf.com/online-workshops/workshops/react-performance-ivan-akulov)
