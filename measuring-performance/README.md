@@ -33,6 +33,7 @@
 - [Measure What You Impact, Not What You Influence](https://csswizardry.com/2022/08/measure-what-you-impact-not-what-you-influence)
 - [Analyze and Improve web performance using devtools & webpagetest](https://www.youtube.com/watch?v=QLenZnWMjLw&ab_channel=NYWebPerformanceMeetup)
 - [Profiling performance with Harry Roberts](https://www.youtube.com/watch?v=dfCdKJC9RLQ)
+- [Measuring Performance with SpeedCurve & WPT](https://www.youtube.com/watch?v=hr9E1D7gRHs&ab_channel=KevinFarrugia)
 
 ## Runtime Performance
 
