@@ -57,3 +57,7 @@
 ## Why matters
 
 - [What Is Site-Speed and Why Should I Care?](https://csswizardry.com/downloads/csswizardry.com-site-speed.pdf)
+
+## Courses
+
+- [Web Performance Masterclass](https://smashingconf.com/online-workshops/workshops/web-performance-harry-roberts)
