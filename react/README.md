@@ -3,7 +3,6 @@
 - [Improved Next.js and Gatsby page load performance with granular chunking](https://web.dev/granular-chunking-nextjs)
 - [Next.js Performance: Making a Fast Framework Even Faster](https://calibreapp.com/blog/nextjs-performance)
 - [How to write performant React code: rules, patterns, do's and don'ts](https://dev.to/adevnadia/how-to-write-performant-react-code-rules-patterns-dos-and-donts-40gk)
-- [React Performance: How to avoid redundant re-renders](https://itnext.io/react-performance-how-to-avoid-redundant-re-renders-6a33618d92a3)
 - [React Hooks and Tips to Avoid Useless Component Render Applied on Lists](https://blog.theodo.com/2022/01/react-list-hooks-avoid-render)
 - [How to write performant React apps with Context](https://dev.to/adevnadia/how-to-write-performant-react-apps-with-context-24cp)
 - [Updating React at Etsy](https://github.com/mq2thez/blog/blob/main/upgrade-react-etsy/preact-vs-react.md)
@@ -13,7 +12,6 @@
 - [New Suspense SSR Architecture in React 18](https://github.com/reactwg/react-18/discussions/37)
 - [SSR, Streaming, and CSS-in-JS](https://shud.in/posts/ssr-streaming-and-css-in-js)
 - [Reassure: Performance testing companion for React](https://github.com/callstack/reassure)
-- [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
 - [How to write performant React code: rules, patterns, do's and don'ts](https://www.developerway.com/posts/how-to-write-performant-react-code)
 - [React Performance – 13 Ways to Optimize Performance of your React App](https://www.simform.com/blog/react-performance)
 - [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
@@ -25,6 +23,8 @@
 - [Should you optimize every re-render?](https://imkev.dev/optimizing-rerenders)
 - [Inside Fiber: the in-depth overview you wanted](https://www.youtube.com/watch?v=jMZBhHzD3H8&ab_channel=ReactNext)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders)
+- [React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
+- [React Performance: How to avoid redundant re-renders](https://itnext.io/react-performance-how-to-avoid-redundant-re-renders-6a33618d92a3)
 
 ## Measuring
 
