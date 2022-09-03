@@ -57,7 +57,7 @@
 - [Towards an animation smoothness metric](https://web.dev/smoothness)
 - [Faster page loads using server think-time with Early Hints](https://developer.chrome.com/blog/early-hints)
 
-## Cumulative Layout Shift
+## Cumulative Layout Shift (CLS)
 
 - [How I removed website layout shift using a predeploy script](https://levelup.gitconnected.com/improving-cumulative-layout-shift-on-pre-deploy-stage-1636fb1386cc)
 - [Measuring Cumulative Layout Shift](https://requestmetrics.com/web-performance/cumulative-layout-shift)
@@ -81,7 +81,7 @@
 - [Debugging CLS](https://docs.google.com/document/d/1H-LiSW_oUzugtu_YLXAzxgJkiEcr4bU3qpw84zFUsCQ/edit?resourcekey=0-pKSNORFdLG9lgpOKwSwXFA#heading=h.b9ipz2aa3niy)
 - [Understanding Cumulative Layout Shift](https://www.youtube.com/watch?v=zIJuY-JCjqw)
 
-## Largest Contentful Paint
+## Largest Contentful Paint (LCP)
 
 - [Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint)
 - [This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)
@@ -90,12 +90,12 @@
 - [How to improve Largest Contentful Paint for a better page experience](https://www.youtube.com/watch?v=480m72yjZv8)
 - [Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint)
 
-## First Input Delay
+## First Input Delay (FID)
 
 - [First Input Delay (FID)](https://web.dev/fid)
 - [Improving responsiveness in text inputs](https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/)
 - [Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
 
-## Interaction to Next Paint
+## Interaction to Next Paint (INP)
 
 - [Interaction to Next Paint by kev](https://imkev.dev/inp)
