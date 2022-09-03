@@ -18,7 +18,6 @@
 - [React Performance – 13 Ways to Optimize Performance of your React App](https://www.simform.com/blog/react-performance)
 - [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
 - [Inside Fiber: the in-depth overview you wanted](https://www.youtube.com/watch?v=jMZBhHzD3H8&ab_channel=ReactNext)
-- [React Performance with React Dev Tools](https://www.youtube.com/watch?v=sFvOMc7W7k0&ab_channel=ReactNext)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders)
 
 ## Fiber — reconciliation algorithm
@@ -36,6 +35,7 @@
 - [Performance Profiling a Redux App](https://medium.com/@vcarl/performance-profiling-a-redux-app-c85e67bf84ae)
 - [How to use the React Profiler to find and fix Performance Problems](https://www.youtube.com/watch?v=00RoZflFE34&ab_channel=BenAwad)
 - [Profiling React Apps like a Pro](https://www.youtube.com/watch?v=uZn9tVIISeQ)
+- [React Performance with React Dev Tools](https://www.youtube.com/watch?v=sFvOMc7W7k0&ab_channel=ReactNext)
 
 ## Courses
 
