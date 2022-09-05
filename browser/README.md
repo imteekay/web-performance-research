@@ -68,6 +68,10 @@
 - [Boost Your Site Performance with Partytown](https://www.youtube.com/watch?v=AsZXN8SYoa4&ab_channel=Builder)
 - [Speed Up Your Site with Workers](https://www.youtube.com/watch?v=yEtT0C4vsRM&ab_channel=Builder)
 
+## Rendering Engines
+
+- [RenderingNG: the new rendering engine of chrome](https://developer.chrome.com/articles/renderingng)
+
 ## Courses
 
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
