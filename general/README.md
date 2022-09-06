@@ -54,6 +54,7 @@
 - [State of Web Performance August 2022](https://www.youtube.com/watch?v=DlG41ik4jKU&ab_channel=ThisDotMedia)
 - [Why performance is hard at scale](https://www.youtube.com/watch?v=_r62DZGyzU4&ab_channel=Builder)
 - [Top 5 Performance Recommendations](https://www.tunetheweb.com/performance/)
+- [🎥 When JavaScript Bytes](https://www.youtube.com/watch?v=JvJ0v5OohNg)
 
 ## Why matters
 
