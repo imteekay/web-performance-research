@@ -60,6 +60,7 @@
 - [How to eliminate render blocking resources](https://www.debugbear.com/blog/render-blocking-resources)
 - [60 fps on the mobile web](https://engineering.flipboard.com/2015/02/mobile-web)
 - [An Introduction to Browser Rendering](https://www.youtube.com/watch?v=n1cKlKM3jYI&ab_channel=UmarHansa)
+- [🎥 Get Your "head" Straight](https://www.youtube.com/watch?v=MHyAOZ45vnU)
 
 ## Service Workers
 
