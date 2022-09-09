@@ -71,6 +71,7 @@
 
 ## Rendering Engines
 
+- [Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s)
 - [RenderingNG: the new rendering engine of chrome](https://developer.chrome.com/articles/renderingng)
 
 ## Courses
