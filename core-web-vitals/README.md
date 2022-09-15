@@ -99,3 +99,4 @@
 ## Interaction to Next Paint (INP)
 
 - [Interaction to Next Paint by kev](https://imkev.dev/inp)
+- [🎥 The state of responsiveness on the web](https://www.youtube.com/watch?v=Mizzbsvv8Os&ab_channel=GoogleChromeDevelopers)
