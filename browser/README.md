@@ -61,6 +61,7 @@
 - [60 fps on the mobile web](https://engineering.flipboard.com/2015/02/mobile-web)
 - [An Introduction to Browser Rendering](https://www.youtube.com/watch?v=n1cKlKM3jYI&ab_channel=UmarHansa)
 - [🎥 Get Your "head" Straight](https://www.youtube.com/watch?v=MHyAOZ45vnU)
+- [📝 How the browser renders a web page? — DOM, CSSOM, and Rendering](https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969)
 
 ## Service Workers
 
