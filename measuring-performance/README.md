@@ -51,6 +51,10 @@
 - [Understanding Paint Performance with Chrome DevTools](https://www.youtube.com/watch?v=8-pkB2vGUKk&ab_channel=UmarHansa)
 - [CPU Flame Graphs](https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
 
+## How to metric
+
+- [How to metric](https://medium.com/@djsmith42/how-to-metric-edafaf959fc7)
+
 ## Benchmark
 
 - [Adventures in Microbenchmarking](https://tomdale.net/2017/07/adventures-in-microbenchmarking)
