@@ -15,7 +15,7 @@
 - [How to write performant React code: rules, patterns, do's and don'ts](https://www.developerway.com/posts/how-to-write-performant-react-code)
 - [React Performance – 13 Ways to Optimize Performance of your React App](https://www.simform.com/blog/react-performance)
 - [21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
-- [DOM as a Second-class Citizen](https://www.youtube.com/watch?v=Zemce4Y1Y-A)
+- [🎥 DOM as a Second-class Citizen](https://www.youtube.com/watch?v=Zemce4Y1Y-A)
 
 ## Fiber — reconciliation algorithm
 
@@ -28,6 +28,7 @@
 - [React Performance: How to avoid redundant re-renders](https://itnext.io/react-performance-how-to-avoid-redundant-re-renders-6a33618d92a3)
 - [React Rendering Order](https://imkev.dev/react-rendering-order)
 - [Learning the React reconciliation algorithm with performance measures](https://imkev.dev/react-reconciliation-performance-measures)
+- [🎥 React Fiber Deep Dive](https://www.youtube.com/watch?v=aS41Y_eyNrU)
 
 ## Measuring
 
