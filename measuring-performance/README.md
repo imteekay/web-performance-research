@@ -50,6 +50,7 @@
 - [Running a performance profile on the YouTube search box](https://www.youtube.com/watch?v=E4KAWf_fKbM&ab_channel=UmarHansa)
 - [Understanding Paint Performance with Chrome DevTools](https://www.youtube.com/watch?v=8-pkB2vGUKk&ab_channel=UmarHansa)
 - [CPU Flame Graphs](https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
+- [🎥 Memory Management Masterclass](https://www.youtube.com/watch?v=LaxbdIyBkL0&ab_channel=GoogleDevelopers)
 
 ## How to metric
 
