@@ -54,7 +54,8 @@
 
 ## How to metric
 
-- [How to metric](https://medium.com/@djsmith42/how-to-metric-edafaf959fc7)
+- [📝 How to metric](https://medium.com/@djsmith42/how-to-metric-edafaf959fc7)
+- [📝 How to read a RUM histogram](https://support.speedcurve.com/docs/how-to-read-a-histogram)
 
 ## Benchmark
 
