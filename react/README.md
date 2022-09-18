@@ -29,6 +29,7 @@
 - [React Rendering Order](https://imkev.dev/react-rendering-order)
 - [Learning the React reconciliation algorithm with performance measures](https://imkev.dev/react-reconciliation-performance-measures)
 - [🎥 React Fiber Deep Dive](https://www.youtube.com/watch?v=aS41Y_eyNrU)
+- [🎥 A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 
 ## Measuring
 
