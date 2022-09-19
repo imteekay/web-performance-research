@@ -38,6 +38,15 @@ The cost of JavaScript is not only the time it takes to load your bundle. The ti
 - Performance is a distribution, not a single number
   - Histogram graphs help understading this distribution
   - A histogram represents the distribution of your users who had a range of experiences when visiting the site
+- metrics path
+  - TTFB: Time to first byte
+    - inital request to a website
+    - dns resolution to a server's IP address
+    - establish connection with the server
+    - secure connection with the server
+    - potential redirects
+    - response
+  - first paint: the first time pixels start to become visible to the user
 - Not all sites and visitors are the same: Web performance is a distribution
   - A static blog may need no JavaScript whatsoever whereas a graphics editor uses quite a lot of it.
   - A 4G visitor may deal with only 50ms of latency and a 2G user could suffer through an entire second per round trip.
