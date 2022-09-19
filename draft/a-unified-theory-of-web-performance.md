@@ -50,6 +50,9 @@ The cost of JavaScript is not only the time it takes to load your bundle. The ti
     - after downloading and reading the HTML file, the browser will download another important files: css, js
     - css and js are render blockers: the browser will stop rendering the page while it loads and evaluates each file
       - images and videos are not render blockers for page rendering
+  - first contentful paint
+    - it's similar to the first paint but it can have a gap with it. e.g. using custom fonts. the browser will hide the text of the page until the custom font is already downloaded
+    - JS: third party scripts are render blockers - ads, trackers, chat widgets, analytics
 - Not all sites and visitors are the same: Web performance is a distribution
   - A static blog may need no JavaScript whatsoever whereas a graphics editor uses quite a lot of it.
   - A 4G visitor may deal with only 50ms of latency and a 2G user could suffer through an entire second per round trip.
