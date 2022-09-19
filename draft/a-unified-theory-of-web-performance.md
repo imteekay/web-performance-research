@@ -53,6 +53,12 @@ The cost of JavaScript is not only the time it takes to load your bundle. The ti
   - first contentful paint
     - it's similar to the first paint but it can have a gap with it. e.g. using custom fonts. the browser will hide the text of the page until the custom font is already downloaded
     - JS: third party scripts are render blockers - ads, trackers, chat widgets, analytics
+  - largest contentful paint
+    - probably the biggest image (and sometimes text) in the viewport
+  - cumulative layout shift
+    - measuring layout stability
+    - 0 is good, 0.1 -> 0.25 needs improvement, above is poor
+    - common: image is a big issue when the browser doesn't know how much space to reserve to the image
 - Not all sites and visitors are the same: Web performance is a distribution
   - A static blog may need no JavaScript whatsoever whereas a graphics editor uses quite a lot of it.
   - A 4G visitor may deal with only 50ms of latency and a 2G user could suffer through an entire second per round trip.
