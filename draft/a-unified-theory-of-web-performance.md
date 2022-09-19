@@ -62,6 +62,10 @@ The cost of JavaScript is not only the time it takes to load your bundle. The ti
   - time to interactive
     - the page can look functional but it's still not.
     - the baseline should be getting interactive in under 5 seconds on a slow 3g connection on a median mobile device
+  - total blocking time
+    - the total amount of time interaction is blocked between FCP and TTI
+  - interaction to next paint
+    - the time it takes a page to visually respond to user interaction
 - Not all sites and visitors are the same: Web performance is a distribution
   - A static blog may need no JavaScript whatsoever whereas a graphics editor uses quite a lot of it.
   - A 4G visitor may deal with only 50ms of latency and a 2G user could suffer through an entire second per round trip.
