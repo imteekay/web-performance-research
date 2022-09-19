@@ -66,6 +66,9 @@ The cost of JavaScript is not only the time it takes to load your bundle. The ti
     - the total amount of time interaction is blocked between FCP and TTI
   - interaction to next paint
     - the time it takes a page to visually respond to user interaction
+    - up to 200ms is good
+  - first input delay
+    - the interaction delay after the first user interaction with the page
 - Not all sites and visitors are the same: Web performance is a distribution
   - A static blog may need no JavaScript whatsoever whereas a graphics editor uses quite a lot of it.
   - A 4G visitor may deal with only 50ms of latency and a 2G user could suffer through an entire second per round trip.
