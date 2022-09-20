@@ -37,6 +37,8 @@ Still a working in progress: [draft](draft/a-unified-theory-of-web-performance.m
 - [Smashing Magazine - Performance](https://www.smashingmagazine.com/category/performance)
 - [Fershad Irani](https://fershad.com/writing/all)
 - [Modern DevTools](https://moderndevtools.com)
+- [Web Performance Slack](https://webperformance.slack.com)
+- [Perf Now Conf](https://perfnow.nl)
 
 ## License
 
