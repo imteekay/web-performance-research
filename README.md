@@ -33,12 +33,20 @@ Still a working in progress: [draft](draft/a-unified-theory-of-web-performance.m
 
 ## Community
 
+- [Web Performance Slack](https://webperformance.slack.com)
+- [Web Performance Working Group](https://www.w3.org/webperf)
+
+### Conferences
+
 - [Conffab - Performance](https://conffab.com/topic/performance)
+- [Perf Now Conf](https://perfnow.nl)
+
+### Blogs
+
+- [TK](https://www.iamtk.co)
 - [Smashing Magazine - Performance](https://www.smashingmagazine.com/category/performance)
 - [Fershad Irani](https://fershad.com/writing/all)
 - [Modern DevTools](https://moderndevtools.com)
-- [Web Performance Slack](https://webperformance.slack.com)
-- [Perf Now Conf](https://perfnow.nl)
 
 ## License
 
