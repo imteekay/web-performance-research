@@ -48,6 +48,14 @@ Still a working in progress: [draft](draft/a-unified-theory-of-web-performance.m
 - [Fershad Irani](https://fershad.com/writing/all)
 - [Modern DevTools](https://moderndevtools.com)
 
+### Podcasts
+
+- [Chasing Waterfalls](https://chasing-waterfalls.simplecast.com)
+- [Planet Performance Podcast](https://podcast.perfplanet.com)
+- [PurePerformance](https://www.spreaker.com/show/pureperformance)
+- [Smashing Podcast](https://podcast.smashingmagazine.com)
+- [Catching Up With Web Performance](https://catchingup.dev)
+
 ## License
 
 [MIT](/LICENSE) © [TK](https://iamtk.co)
