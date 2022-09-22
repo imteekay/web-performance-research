@@ -41,6 +41,8 @@
 - [How to use the React Profiler to find and fix Performance Problems](https://www.youtube.com/watch?v=00RoZflFE34&ab_channel=BenAwad)
 - [Profiling React Apps like a Pro](https://www.youtube.com/watch?v=uZn9tVIISeQ)
 - [React Performance with React Dev Tools](https://www.youtube.com/watch?v=sFvOMc7W7k0&ab_channel=ReactNext)
+- [📝 Measuring JS code performance. Part I: using react-benchmark](https://medium.com/@goooseman/measuring-js-code-performance-part-i-using-a-benchmark-f6fd45a5cea)
+- [📝 Measuring JS code performance. Part II: interaction speed](https://medium.com/@goooseman/measuring-js-code-performance-part-ii-interaction-speed-b18cf2201a84)
 
 ## Courses
 
