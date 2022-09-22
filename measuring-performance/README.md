@@ -64,6 +64,7 @@
 - [Adventures in Microbenchmarking](https://tomdale.net/2017/07/adventures-in-microbenchmarking)
 - [Tachometer](https://github.com/Polymer/tachometer)
 - [tinybench](https://github.com/tinylibs/tinybench)
+- [react-benchmark](https://github.com/Rowno/react-benchmark)
 
 ## Tools
 
