@@ -186,3 +186,25 @@ Client request HTML to the server
 - Test, test, test. Measure, Measure, Measure.
   - JS Profiling API, LongTasks
 - It's not a fixed solution. There's no framework
+
+### Optimizations
+
+- Optimizing files
+  - images
+    - size
+    - format types
+  - fonts
+    - group different fonts in one
+    -
+  - text
+    - minifiers: remove blank spaces
+      - css minifier
+      - cssmin
+      - svgo: optimizing SVG files
+        - cleanup svg files
+      - uglifyJS
+      - UnCSS
+    - Tree Shaking: dead code elimination
+    - compress for transit
+      - Gzip / brotli
+      - network panel: transfer size / actual size
