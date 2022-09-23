@@ -20,6 +20,8 @@ Research on Web Performance
 - [Web APIs](web-apis)
 - [CSS](css)
 - [Images](images)
+- [Fonts](fonts)
+- [Sustainability](sustainability)
 - [Backend](backend)
 - [Architecture](architecture)
 - [Infrastructure](infrastructure)
@@ -44,6 +46,7 @@ Still a working in progress: [draft](draft/a-unified-theory-of-web-performance.m
 ### Blogs
 
 - [TK](https://www.iamtk.co)
+- [Alex Russell](https://infrequently.org)
 - [Smashing Magazine - Performance](https://www.smashingmagazine.com/category/performance)
 - [Fershad Irani](https://fershad.com/writing/all)
 - [Modern DevTools](https://moderndevtools.com)
