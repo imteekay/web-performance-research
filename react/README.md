@@ -47,3 +47,4 @@
 ## Courses
 
 - [The React Performance Masterclass](https://smashingconf.com/online-workshops/workshops/react-performance-ivan-akulov)
+- [🇧🇷 React: otimizando a performance](https://www.alura.com.br/curso-online-react-otimizando-performance)
