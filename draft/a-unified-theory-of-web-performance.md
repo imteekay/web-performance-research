@@ -208,3 +208,18 @@ Client request HTML to the server
     - compress for transit
       - Gzip / brotli
       - network panel: transfer size / actual size
+- initial bytes - TTFP
+  - latency: connection speed and physical distance
+    - Not only the first byte but slow latency influence throughout the network waterfall for every request
+  - DNS resolution, establishing a connection
+    - Fast TTFP: CDNs and Edge providers like cloudflare, aws, netlify, fastly
+  - TLS: securing the connection
+  - After latency, connection, and redirects, it hits the server
+    - Understand different [rendering architectures](##rendering-architectures)
+  - Tips
+    - File distributed on a CDN
+    - Optimize TLS/SSL
+    - Reduce redirects
+    - Reduce dynamic server work time
+      - Static
+      - Caching
