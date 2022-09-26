@@ -15,6 +15,7 @@
 - [Smashing Magazine - Performance](https://www.smashingmagazine.com/category/performance)
 - [Fershad Irani](https://fershad.com/writing/all)
 - [Modern DevTools](https://moderndevtools.com)
+- [Eugenia Zigisova](https://imeugenia.medium.com)
 
 ## Podcasts
 
