@@ -28,36 +28,11 @@ Research on Web Performance
 - [Build tools](build-tools)
 - [Books](books)
 - [Tweets](tweets)
+- [Community](community)
 
 ## A Unified Theory of Web Performance
 
 Still a working in progress: [draft](draft/a-unified-theory-of-web-performance.md).
-
-## Community
-
-- [Web Performance Slack](https://webperformance.slack.com)
-- [Web Performance Working Group](https://www.w3.org/webperf)
-
-### Conferences
-
-- [Conffab - Performance](https://conffab.com/topic/performance)
-- [Perf Now Conf](https://perfnow.nl)
-
-### Blogs
-
-- [TK](https://www.iamtk.co)
-- [Alex Russell](https://infrequently.org)
-- [Smashing Magazine - Performance](https://www.smashingmagazine.com/category/performance)
-- [Fershad Irani](https://fershad.com/writing/all)
-- [Modern DevTools](https://moderndevtools.com)
-
-### Podcasts
-
-- [Chasing Waterfalls](https://chasing-waterfalls.simplecast.com)
-- [Planet Performance Podcast](https://podcast.perfplanet.com)
-- [PurePerformance](https://www.spreaker.com/show/pureperformance)
-- [Smashing Podcast](https://podcast.smashingmagazine.com)
-- [Catching Up With Web Performance](https://catchingup.dev)
 
 ## License
 
