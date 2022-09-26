@@ -12,6 +12,7 @@
 ## Blogs
 
 - [TK](https://www.iamtk.co)
+- [Harry Roberts](https://csswizardry.com)
 - [Alex Russell](https://infrequently.org)
 - [Smashing Magazine - Performance](https://www.smashingmagazine.com/category/performance)
 - [Fershad Irani](https://fershad.com/writing/all)
