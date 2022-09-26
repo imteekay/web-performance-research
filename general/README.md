@@ -39,6 +39,7 @@
 - [📝 Learning Web Performance](https://tannerhodges.com/blog/learning-web-performance)
 - [📝 A Management Maturity Model for Performance](https://infrequently.org/2022/05/performance-management-maturity)
 - [📝 Top 5 Performance Recommendations](https://www.tunetheweb.com/performance/)
+- [📝 Definitions of web terminology](https://kaleidawave.github.io/posts/web-terminology)
 - [🎥 Improving Page Performance in Modern Web Apps](https://www.youtube.com/watch?v=p_8oR9GFRvQ)
 - [🎥 Speed Essentials: Key Techniques for Fast Websites](https://www.youtube.com/watch?v=reztLS3vomE)
 - [🎥 Improving Page Performance in Modern Web Apps](https://vimeo.com/254858694)
