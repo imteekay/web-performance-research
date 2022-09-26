@@ -21,6 +21,7 @@
 - [Ivan Akulov](https://iamakulov.com)
 - [Perf perf perf](https://3perf.com)
 - [Barry Pollard](https://www.tunetheweb.com/blog)
+- [Simon Hearne](https://simonhearne.com)
 
 ## Podcasts
 
