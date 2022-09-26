@@ -223,3 +223,20 @@ Client request HTML to the server
     - Reduce dynamic server work time
       - Static
       - Caching
+- first paint
+  - when the browser receives the HTML, it scan the scripts that need to be downloaded, parsed, and executed before it proceeds with rendering
+    - render blockers: css and javascript will stop rendering the content while load and parse them
+  - unblocking render: async
+    - async: load in paralell and execute the script whenever it arrives
+    - defer: load in parallel and execute the script later, just before domContentLoaded, in the order referenced
+    - defering javascript is one of the most important things to optimize first paint
+      - using defer
+      - using conditional for execution
+      - moving the script to the end of page (end of `<body>`)
+    - inlining code
+      - inlining css
+        - using `<style>`
+        - don't need to go to a server, download, and parse it. It's already in the HTML
+        - don't inline big chunks of code and not too much
+          - inline the CSS necessary for rendering the above-the-fold content
+        - downside: bad for caching
