@@ -46,6 +46,7 @@
 - [📝 Feedback wanted: An experimental responsiveness metric](https://web.dev/responsiveness)
 - [📝 Towards an animation smoothness metric](https://web.dev/smoothness)
 - [📝 Faster page loads using server think-time with Early Hints](https://developer.chrome.com/blog/early-hints)
+- [📝 Element Timing: One true metric to rule them all?](https://www.speedcurve.com/blog/element-timing-one-true-metric)
 - [🎥 Optimize for Core Web Vitals](https://www.youtube.com/watch?v=AQqFZ5t8uNc&ab_channel=GoogleChromeDevelopers)
 - [🎥 Exploring the future of Core Web Vitals](https://www.youtube.com/watch?v=iNfz9tg-wyg)
 - [🎥 Insight into Core Web Vitals from the Chrome Platform Team](https://www.youtube.com/watch?v=CcHCbFhx2UM)
