@@ -17,6 +17,7 @@
 - [Modern DevTools](https://moderndevtools.com)
 - [Eugenia Zigisova](https://imeugenia.medium.com)
 - [Ivan Akulov](https://iamakulov.com)
+- [Perf perf perf](https://3perf.com)
 
 ## Podcasts
 
