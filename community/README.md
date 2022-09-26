@@ -16,6 +16,7 @@
 - [Fershad Irani](https://fershad.com/writing/all)
 - [Modern DevTools](https://moderndevtools.com)
 - [Eugenia Zigisova](https://imeugenia.medium.com)
+- [Ivan Akulov](https://iamakulov.com)
 
 ## Podcasts
 
