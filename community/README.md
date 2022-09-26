@@ -3,10 +3,11 @@
 - [Web Performance Slack](https://webperformance.slack.com)
 - [Web Performance Working Group](https://www.w3.org/webperf)
 
-## Conferences
+## Conferences & Meetups
 
 - [Conffab - Performance](https://conffab.com/topic/performance)
 - [Perf Now Conf](https://perfnow.nl)
+- [New York Web Performance Group](https://www.meetup.com/Web-Performance-NY)
 
 ## Blogs
 
