@@ -58,6 +58,7 @@
 - [🎥 State of Web Performance August 2022](https://www.youtube.com/watch?v=DlG41ik4jKU&ab_channel=ThisDotMedia)
 - [🎥 Why performance is hard at scale](https://www.youtube.com/watch?v=_r62DZGyzU4&ab_channel=Builder)
 - [🎥 When JavaScript Bytes](https://www.youtube.com/watch?v=JvJ0v5OohNg)
+- [🎥 WebBundles – JS Delivery Without the Tradeoffs](https://www.youtube.com/watch?v=ziL_E7WcKLE&ab_channel=LondonWebPerformanceGroup)
 
 ## Why matters
 
