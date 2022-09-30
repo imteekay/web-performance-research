@@ -75,6 +75,7 @@
 
 - [🎥 Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s)
 - [📝 RenderingNG: the new rendering engine of chrome](https://developer.chrome.com/articles/renderingng)
+- [📝 The whole web at maximum FPS: How WebRender gets rid of jank](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank)
 
 ## Courses
 
