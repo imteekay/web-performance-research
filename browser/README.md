@@ -47,6 +47,7 @@
 - [📝 How to eliminate render blocking resources](https://www.debugbear.com/blog/render-blocking-resources)
 - [📝 60 fps on the mobile web](https://engineering.flipboard.com/2015/02/mobile-web)
 - [📝 How the browser renders a web page? — DOM, CSSOM, and Rendering](https://medium.com/jspoint/how-the-browser-renders-a-web-page-dom-cssom-and-rendering-df10531c9969)
+- [📝 WebKit Architecture](http://webkithacks.github.io/webkit_presentations/architecture)
 - [🎥 The main thread is overworked & underpaid](https://www.youtube.com/watch?v=7Rrv9qFMWNM)
 - [🎥 Scheduling On and Off the Main Thread](https://www.youtube.com/watch?v=mDdgfyRB5kg)
 - [🎥 WebAssembly as cross-platform architecture](https://www.youtube.com/watch?v=l2DHjRmgAF8&ab_channel=Nordic.js)
