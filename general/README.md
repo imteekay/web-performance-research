@@ -41,6 +41,7 @@
 - [📝 A Management Maturity Model for Performance](https://infrequently.org/2022/05/performance-management-maturity)
 - [📝 Top 5 Performance Recommendations](https://www.tunetheweb.com/performance/)
 - [📝 Definitions of web terminology](https://kaleidawave.github.io/posts/web-terminology)
+- [📝 From Development to Real Users: How to Create a Web Performance Story](https://engineering.atspotify.com/2022/09/from-development-to-real-users-how-to-create-a-web-performance-story)
 - [🎥 Improving Page Performance in Modern Web Apps](https://www.youtube.com/watch?v=p_8oR9GFRvQ)
 - [🎥 Speed Essentials: Key Techniques for Fast Websites](https://www.youtube.com/watch?v=reztLS3vomE)
 - [🎥 Improving Page Performance in Modern Web Apps](https://vimeo.com/254858694)
