@@ -1,6 +1,7 @@
 # General
 
 - [📝 Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
+- [📝 The ultimate guide to modern web application performance](https://levelup.gitconnected.com/the-ultimate-guide-to-modern-web-application-performance-ec4eec9939)
 - [📝 Chrome’s Paint Flashing Tool](https://engineering.entelo.com/chromes-paint-flashing-tool-b5c880849635)
 - [📝 Building the DOM faster: speculative parsing, async, defer and preload](https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/)
 - [📝 Improving React Runtime Performance](https://medium.com/quintoandar-tech-blog/improving-react-runtime-performance-dec0a5a4ffda)
