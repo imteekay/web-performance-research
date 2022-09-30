@@ -79,6 +79,7 @@
 - [📝 The whole web at maximum FPS: How WebRender gets rid of jank](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank)
 - [🎥 Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s)
 - [🎥 Rendering performance inside out](https://www.youtube.com/watch?v=BfMWAIc0xSU&ab_channel=Front-Trends)
+- [🎥 JavaScript Engines: The Good Parts](https://www.youtube.com/watch?v=5nmpokoRaZI&ab_channel=JSConf)
 
 ## Courses
 
