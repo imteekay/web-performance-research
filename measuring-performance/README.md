@@ -23,6 +23,7 @@
 - [📝 Creating Airbnb’s Page Performance Score](https://medium.com/airbnb-engineering/creating-airbnbs-page-performance-score-5f664be0936)
 - [📝 Why is CrUX data different from my RUM data?](https://web.dev/crux-and-rum-differences)
 - [📝 Measure What You Impact, Not What You Influence](https://csswizardry.com/2022/08/measure-what-you-impact-not-what-you-influence)
+- [📝 Testing Slow Third-Parties with Puppeteer](https://screenspan.net/blog/puppeteer-spof)
 - [🎥 Measuring Real User Performance in the Browser](https://www.youtube.com/watch?v=yrWLi524YLM)
 - [🎥 Crafting Performance Alerting Tools](https://www.youtube.com/watch?v=7CaEESxbu2s&ab_channel=EtsyEng)
 - [🎥 How’s the UX on the Web, Really?](https://vimeo.com/254834890)
