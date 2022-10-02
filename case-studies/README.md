@@ -37,6 +37,7 @@
 - [📝 How QuintoAndar increased conversion rates and pages per session by improving page performance](https://web.dev/quintoandar)
 - [📝 Spotify Performance Profiling](https://twitter.com/iamakulov/status/1522008502398554113)
 - [📝 Analyzing Wikipedia Users' Perceived Quality of Experience](resources/analyzing-wikipedia-users-perceived-quality-of-experience-a-large-scale-study.pdf)
+- [📝 From Development to Real Users: How to Create a Web Performance Story](https://engineering.atspotify.com/2022/09/from-development-to-real-users-how-to-create-a-web-performance-story)
 - [🎥 Building Performance for the Long Term](https://vimeo.com/showcase/4970467/video/254947097)
 - [🎥 Optimizing Preview Popups](https://www.youtube.com/watch?v=sKvK3x9zdt0&ab_channel=YoavWeiss)
 - [🎥 Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI)
