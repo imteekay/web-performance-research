@@ -1,7 +1,7 @@
 # Core Web Vitals
 
 - [📝 Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)
-- [📝 Web Vitals patterns](web.dev/patterns/web-vitals-patterns)
+- [📝 Web Vitals patterns](https://web.dev/patterns/web-vitals-patterns)
 - [📝 Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo)
 - [📝 How SPA architectures affect Core Web Vitals](https://web.dev/vitals-spa-faq)
 - [📝 Lighthouse scores as predictors of page-level CrUX data](https://discuss.httparchive.org/t/lighthouse-scores-as-predictors-of-page-level-crux-data/2232)
