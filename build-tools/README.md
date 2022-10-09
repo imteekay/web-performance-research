@@ -11,3 +11,4 @@
 - [📝 Finding and fixing duplicates in webpack with Inspectpack](https://formidable.com/blog/2018/finding-webpack-duplicates-with-inspectpack-plugin/)
 - [:octocat: Webpack Libs Optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 - [:octocat: Awesome Webpack Perf](https://github.com/iamakulov/awesome-webpack-perf)
+- [📝 How to Improve Webpack Performance](https://medium.com/javascript-in-plain-english/how-to-improve-webpack-performance-7637db26fa5f)
