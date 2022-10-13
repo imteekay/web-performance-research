@@ -1,3 +1,5 @@
+<samp>
+
 # General
 
 - [📝 Front-End Performance Checklist 2021](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
@@ -72,3 +74,5 @@
 - [Web Performance Masterclass](https://smashingconf.com/online-workshops/workshops/web-performance-harry-roberts)
 - [🇧🇷 Performance Web I: otimizando o front-end](https://www.alura.com.br/curso-online-otimizacao-performance-web)
 - [🇧🇷 Performance Web II: Critical Path, HTTP/2 e Resource Hints](https://www.alura.com.br/curso-online-performance-http2-critical-path)
+
+</samp>

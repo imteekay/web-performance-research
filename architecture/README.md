@@ -1,3 +1,5 @@
+<samp>
+
 # Architecture
 
 - [📝 The case of partial hydration (with Next and Preact)](https://medium.com/@luke_schmuke/how-we-achieved-the-best-web-performance-with-partial-hydration-20fab9c808d5)
@@ -21,3 +23,5 @@
 - [🎥 Advanced Rendering Patterns](https://www.youtube.com/watch?v=PN1HgvAOmi8&ab_channel=RealWorldReact)
 - [🎥 What happens before hydration](https://www.youtube.com/watch?v=PGLwRv64RzM)
 - [🎥 Stream Away the Wait](https://www.youtube.com/watch?v=gb2DGJB1ZsM&ab_channel=ReactNext)
+
+</samp>

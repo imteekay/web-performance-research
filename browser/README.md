@@ -1,3 +1,5 @@
+<samp>
+
 # Browser
 
 - [📝 Browser Performance](https://www.kuniga.me/blog/2020/03/28/browser-performance.html)
@@ -90,3 +92,5 @@
 - [Browser Rendering Optimization](https://classroom.udacity.com/courses/ud860)
 - [Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
 - [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
+
+</samp>

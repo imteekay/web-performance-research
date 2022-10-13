@@ -1,3 +1,5 @@
+<samp>
+
 # Images
 
 - [🎥 Image compression deep-dive](https://www.youtube.com/watch?v=F1kYBnY6mwg)
@@ -24,3 +26,5 @@
 - [🛠 WebPonize](https://webponize.org)
 - [🛠 squoosh](https://squoosh.app)
 - [🛠 Cloudinary](https://cloudinary.com)
+
+</samp>

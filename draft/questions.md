@@ -1,3 +1,5 @@
+<samp>
+
 # Questions
 
 - ​IMO, in general Web Perf: things will go as slow as the users with the highest business value will tolerate. Business will spend any gains in perf budget
@@ -25,3 +27,5 @@
 - ​+1 about Patrick's question, really curious about the opinions here. Layout shift root cause is definitively not easy sometimes, others ideas?
 - ​We have struggles simulating production environments and accurately measuring performance before going to production. What strategies might there be for measuring performance in QA environments?
 - How many Mbs of JS should the sites start with?
+
+</samp>

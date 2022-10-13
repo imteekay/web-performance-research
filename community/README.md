@@ -1,3 +1,5 @@
+<samp>
+
 # Community
 
 - [Web Performance Slack](https://webperformance.slack.com)
@@ -30,3 +32,5 @@
 - [PurePerformance](https://www.spreaker.com/show/pureperformance)
 - [Smashing Podcast](https://podcast.smashingmagazine.com)
 - [Catching Up With Web Performance](https://catchingup.dev)
+
+</samp>

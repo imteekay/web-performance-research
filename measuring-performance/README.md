@@ -1,3 +1,5 @@
+<samp>
+
 # Measuring Performance
 
 - [📝 Core Web Vitals Dashboard On Google Analytics](https://calendar.perfplanet.com/2021/core-web-vitals-dashboard-on-google-analytics)
@@ -75,3 +77,5 @@
 - [🛠 perfsee: a set of tool for measuring and debugging performance of frontend applications](https://github.com/perfsee/perfsee)
 - [🛠 speedscope](https://github.com/jlfwong/speedscope)
 - [🛠 boomerang](https://github.com/akamai/boomerang)
+
+</samp>

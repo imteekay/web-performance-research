@@ -1,3 +1,5 @@
+<samp>
+
 # Performance Budget
 
 - [📝 Chrome’s Paint Flashing Tool](https://engineering.entelo.com/chromes-paint-flashing-tool-b5c880849635)
@@ -19,3 +21,5 @@
 - [🛠 Performance Budget Calculator](https://www.performancebudget.io)
 - [🛠 Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com)
 - [🛠 Browser Calories](https://browserdiet.com/calories)
+
+</samp>

@@ -1,3 +1,5 @@
+<samp>
+
 # A Unified Theory of Web Performance
 
 - Page Load
@@ -240,3 +242,5 @@ Client request HTML to the server
         - don't inline big chunks of code and not too much
           - inline the CSS necessary for rendering the above-the-fold content
         - downside: bad for caching
+
+</samp>

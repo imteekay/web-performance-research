@@ -1,3 +1,5 @@
+<samp>
+
 # React
 
 - [📝 Improved Next.js and Gatsby page load performance with granular chunking](https://web.dev/granular-chunking-nextjs)
@@ -49,3 +51,5 @@
 
 - [The React Performance Masterclass](https://smashingconf.com/online-workshops/workshops/react-performance-ivan-akulov)
 - [🇧🇷 React: otimizando a performance](https://www.alura.com.br/curso-online-react-otimizando-performance)
+
+</samp>

@@ -1,3 +1,5 @@
+<samp>
+
 # Core Web Vitals
 
 - [📝 Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)
@@ -106,3 +108,5 @@
 ## Total Blocking Time
 
 - [📝 Total Blocking Time: A Short and Sweet Guide for Happier Users](https://calibreapp.com/blog/total-blocking-time)
+
+</samp>

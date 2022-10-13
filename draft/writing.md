@@ -1,3 +1,5 @@
+<samp>
+
 # Writing
 
 - Benchmarking is science, and you should treat it with the seriousness of a scientific endeavor.
@@ -20,3 +22,5 @@
   - most of the developers are just pushing new features out
   - first principles: html, css, js, how browsers rendering things
 - browser be more agressive on third party libraries
+
+</samp>

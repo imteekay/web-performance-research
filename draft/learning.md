@@ -1,3 +1,5 @@
+<samp>
+
 # Learning
 
 ## how to measure react code performance
@@ -55,3 +57,5 @@ Skills from job listings:
 - Be curious and stay up to date with web performance topics
 - Be an active member of the web performance community inside and outside of the company
 - Benchmarking, measurement, statistical analysis, reporting
+
+</samp>
