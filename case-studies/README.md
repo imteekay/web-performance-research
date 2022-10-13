@@ -1,3 +1,5 @@
+<samp>
+
 # Case Studies
 
 - [📝 A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
@@ -43,3 +45,5 @@
 - [🎥 Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI)
 - [🎥 Core Web Vitals: Theory and practice](https://www.youtube.com/watch?v=8xpjecvxnRM)
 - [🎥 Performance Signup in React & Transactional Apps with Redux](https://www.youtube.com/watch?v=V8oTJ8OZ5S0&ab_channel=NetflixUIEngineering)
+
+</samp>

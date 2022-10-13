@@ -1,3 +1,5 @@
+<samp>
+
 # Web Performance Research
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -37,3 +39,5 @@ Still a working in progress: [draft](draft/a-unified-theory-of-web-performance.m
 ## License
 
 [MIT](/LICENSE) © [TK](https://iamtk.co)
+
+</samp>

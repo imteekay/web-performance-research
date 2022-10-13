@@ -1,3 +1,5 @@
+<samp>
+
 # Tweets
 
 - [The most important problems in Web Perf](https://twitter.com/amilajack/status/1478062246072754179)
@@ -13,3 +15,5 @@
 - [Frontend performance tips to keep top of mind](https://twitter.com/Steve8708/status/1549501457140830208)
 - [Spotify Performance Profiling](https://twitter.com/iamakulov/status/1522008502398554113)
 - [React 18 Concurrency](https://twitter.com/iamakulov/status/1566716820601466880)
+
+</samp>

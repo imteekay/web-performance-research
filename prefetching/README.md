@@ -1,3 +1,5 @@
+<samp>
+
 # Prefetching
 
 - [📝 `<link rel=”prefetch/preload”>` in webpack](https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c)
@@ -11,3 +13,5 @@
 ## Tools
 
 - [🛠 Faster subsequent page-loads by prefetching in-viewport links during idle time](https://github.com/GoogleChromeLabs/quicklink)
+
+</samp>
