@@ -26,6 +26,7 @@
 - [📝 Why is CrUX data different from my RUM data?](https://web.dev/crux-and-rum-differences)
 - [📝 Measure What You Impact, Not What You Influence](https://csswizardry.com/2022/08/measure-what-you-impact-not-what-you-influence)
 - [📝 Testing Slow Third-Parties with Puppeteer](https://screenspan.net/blog/puppeteer-spof)
+- [📝 How to read a WebPageTest Connection View chart](https://nooshu.com/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart)
 - [🎥 Measuring Real User Performance in the Browser](https://www.youtube.com/watch?v=yrWLi524YLM)
 - [🎥 Crafting Performance Alerting Tools](https://www.youtube.com/watch?v=7CaEESxbu2s&ab_channel=EtsyEng)
 - [🎥 How’s the UX on the Web, Really?](https://vimeo.com/254834890)
