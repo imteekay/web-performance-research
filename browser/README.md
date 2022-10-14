@@ -75,6 +75,7 @@
 - [📝 How Partytown Eliminates Website Bloat From Third-Party Scripts](https://www.smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps)
 - [🎥 Boost Your Site Performance with Partytown](https://www.youtube.com/watch?v=AsZXN8SYoa4&ab_channel=Builder)
 - [🎥 Speed Up Your Site with Workers](https://www.youtube.com/watch?v=yEtT0C4vsRM&ab_channel=Builder)
+- [🛠 Partytown](https://partytown.builder.io)
 
 ## Rendering Engines
 
