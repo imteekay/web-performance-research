@@ -67,11 +67,12 @@
 - [🎥 An Introduction to Browser Rendering](https://www.youtube.com/watch?v=n1cKlKM3jYI&ab_channel=UmarHansa)
 - [🎥 Get Your "head" Straight](https://www.youtube.com/watch?v=MHyAOZ45vnU)
 
-## Service Workers
+## Service Workers / Workers
 
 - [📝 Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/GoogleChrome/workbox)
 - [📝 Introduction to Workbox and service workers](https://developer.chrome.com/docs/workbox/service-worker-overview/)
 - [📝 Service worker caching and HTTP caching](https://web.dev/service-worker-caching-and-http-caching)
+- [📝 How Partytown Eliminates Website Bloat From Third-Party Scripts](https://www.smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps)
 - [🎥 Boost Your Site Performance with Partytown](https://www.youtube.com/watch?v=AsZXN8SYoa4&ab_channel=Builder)
 - [🎥 Speed Up Your Site with Workers](https://www.youtube.com/watch?v=yEtT0C4vsRM&ab_channel=Builder)
 
