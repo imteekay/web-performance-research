@@ -106,6 +106,9 @@ The cost of JavaScript is not only the time it takes to load your bundle. The ti
     - Web Worker can’t manipulate the DOM (doesn't have acces to the dom, document, window, parent)
     - can use three different workers: shared workers, service workers, and dedicated workers
     - can be used to prefetch data and improve data loading time
+- Downloading and executing JS:
+  - JavaScript may not be executed as soon as downloading finishes. Notice the small gap in your example. With defer it might be delayed much longer. Even with async the main thread might be busy and might take a bit to get to that script.
+  - CPU time is only when JS is running. But if it has an async call (e.g. a fetch call) then the total end to end execution time could be larger than “CPU time”.
 
 ### Core Web Vitals
 
