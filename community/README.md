@@ -24,6 +24,7 @@
 - [Perf perf perf](https://3perf.com)
 - [Barry Pollard](https://www.tunetheweb.com/blog)
 - [Simon Hearne](https://simonhearne.com)
+- [Medhat Dawoud](https://medhatdawoud.net)
 
 ## Podcasts
 
