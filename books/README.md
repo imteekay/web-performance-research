@@ -15,6 +15,7 @@
 - [📚 Performance Optimized React Applications](https://leanpub.com/performance-optimized-react-applications)
 - [📚 High Performance Mobile Web](https://www.oreilly.com/library/view/high-performance-mobile/9781491912546)
 - [📚 JPEG Series](https://www.amazon.com.br/JPEG-K-R-Rao/dp/8770225931)
-- [📚 Web Browser Engineering](http://browser.engineering)
+- [📚 Web Browser Engineering](https://browser.engineering)
+- [📚 Time Is Money](https://www.oreilly.com/library/view/time-is-money/9781491928783/g)
 
 </samp>
