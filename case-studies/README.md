@@ -41,6 +41,7 @@
 - [📝 Analyzing Wikipedia Users' Perceived Quality of Experience](resources/analyzing-wikipedia-users-perceived-quality-of-experience-a-large-scale-study.pdf)
 - [📝 From Development to Real Users: How to Create a Web Performance Story](https://engineering.atspotify.com/2022/09/from-development-to-real-users-how-to-create-a-web-performance-story)
 - [📝 Building a Better Web - Part 1: A faster YouTube on web](https://web.dev/better-youtube-web-part1)
+- [📝 Speed Matters, But It Isn’t Everything](https://engineering.indeedblog.com/blog/2022/01/speed-matters)
 - [🎥 Building Performance for the Long Term](https://vimeo.com/showcase/4970467/video/254947097)
 - [🎥 Optimizing Preview Popups](https://www.youtube.com/watch?v=sKvK3x9zdt0&ab_channel=YoavWeiss)
 - [🎥 Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI)
