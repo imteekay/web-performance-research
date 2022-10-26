@@ -80,6 +80,7 @@ The cost of JavaScript is not only the time it takes to load your bundle. The ti
   - Phone device: iPhone 5, Samsung, etc
   - Operating System
   - Browser
+  - Site context (consent popin, A/B tests, ...)
 - Not all metrics are equally important
   - Common metrics: TTI, FID, LCP, TBT, CLS, Speed Index, custom metrics
   - For Netflix TV UI, key input responsiveness, memory usage and TTI are more critical, and for Wikipedia, first/last visual changes and CPU time spent metrics are more important.
