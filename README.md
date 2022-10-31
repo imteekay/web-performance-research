@@ -31,6 +31,7 @@ Research on Web Performance
 - [Books](books)
 - [Tweets](tweets)
 - [Community](community)
+- [Career](career)
 
 ## A Unified Theory of Web Performance
 
