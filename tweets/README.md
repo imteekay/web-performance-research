@@ -15,5 +15,6 @@
 - [Frontend performance tips to keep top of mind](https://twitter.com/Steve8708/status/1549501457140830208)
 - [Spotify Performance Profiling](https://twitter.com/iamakulov/status/1522008502398554113)
 - [React 18 Concurrency](https://twitter.com/iamakulov/status/1566716820601466880)
+- [React Perf: Causal Case Study](https://twitter.com/iamakulov/status/1600169184360398851)
 
 </samp>
