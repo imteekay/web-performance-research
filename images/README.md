@@ -18,6 +18,7 @@
 - [📝 Responsive Images Done Right: A Guide To <picture> And srcset](https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/)
 - [📝 Can I use WebP](https://caniuse.com/webp)
 - [📝 Can I use AVIF](https://caniuse.com/avif)
+- [📝 Reduce Image Sizes by Removing Metadata](https://calendar.perfplanet.com/2022/reduce-image-sizes-by-removing-metadata)
 
 ## Tools
 
