@@ -65,6 +65,7 @@
 - [📝 How to read a RUM histogram](https://support.speedcurve.com/docs/how-to-read-a-histogram)
 - [📝 What is Real User Monitoring? RUM explained](https://raygun.com/learn/what-is-real-user-monitoring)
 - [📝 Synthetic vs. real user monitoring](https://support.speedcurve.com/docs/synthetic-vs-real-user-monitoring-rum)
+- [📝 Faster data visualizations](https://calendar.perfplanet.com/2022/faster-data-visualizations)
 
 ## Benchmark
 
