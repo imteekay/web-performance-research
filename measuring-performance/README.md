@@ -29,6 +29,7 @@
 - [📝 How to read a WebPageTest Connection View chart](https://nooshu.com/blog/2019/12/30/how-to-read-a-wpt-connection-view-chart)
 - [📝 Measuring web performance, How fast is fast?](https://medhatdawoud.net/blog/measuring-web-performance)
 - [📝 Noise Canceling RUM](https://calendar.perfplanet.com/2022/noise-canceling-rum)
+- [📝 Make sense of flame charts in Performance Tab by example](https://calendar.perfplanet.com/2022/make-sense-of-flame-charts-in-performance-tab-by-example)
 - [🎥 Measuring Real User Performance in the Browser](https://www.youtube.com/watch?v=yrWLi524YLM)
 - [🎥 Crafting Performance Alerting Tools](https://www.youtube.com/watch?v=7CaEESxbu2s&ab_channel=EtsyEng)
 - [🎥 How’s the UX on the Web, Really?](https://vimeo.com/254834890)
