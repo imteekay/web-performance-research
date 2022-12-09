@@ -52,6 +52,7 @@
 - [📝 WebKit Architecture](http://webkithacks.github.io/webkit_presentations/architecture)
 - [📝 Modern Multi-Process Browser Architecture](https://helgeklein.com/blog/modern-multi-process-browser-architecture)
 - [📝 What makes the web slow? browser's bottleneck](https://medhatdawoud.net/blog/what-makes-the-web-slow)
+- [📝 So you heard of Client-Hints and you think you got time, right? Wrong](https://calendar.perfplanet.com/2022/so-you-heard-of-client-hints-and-you-think-you-got-time-right-wrong)
 - [🎥 The main thread is overworked & underpaid](https://www.youtube.com/watch?v=7Rrv9qFMWNM)
 - [🎥 Scheduling On and Off the Main Thread](https://www.youtube.com/watch?v=mDdgfyRB5kg)
 - [🎥 WebAssembly as cross-platform architecture](https://www.youtube.com/watch?v=l2DHjRmgAF8&ab_channel=Nordic.js)
