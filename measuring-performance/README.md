@@ -31,6 +31,7 @@
 - [📝 Noise Canceling RUM](https://calendar.perfplanet.com/2022/noise-canceling-rum)
 - [📝 Make sense of flame charts in Performance Tab by example](https://calendar.perfplanet.com/2022/make-sense-of-flame-charts-in-performance-tab-by-example)
 - [📝 Visualize your resources with a free treemap tool](https://calendar.perfplanet.com/2022/visualize-your-resources-with-a-free-treemap-tool)
+- [📝 An Introduction to the RUM Archive](https://calendar.perfplanet.com/2022/an-introduction-to-the-rum-archive)
 - [🎥 Measuring Real User Performance in the Browser](https://www.youtube.com/watch?v=yrWLi524YLM)
 - [🎥 Crafting Performance Alerting Tools](https://www.youtube.com/watch?v=7CaEESxbu2s&ab_channel=EtsyEng)
 - [🎥 How’s the UX on the Web, Really?](https://vimeo.com/254834890)
