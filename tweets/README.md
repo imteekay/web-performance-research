@@ -17,5 +17,6 @@
 - [React 18 Concurrency](https://twitter.com/iamakulov/status/1566716820601466880)
 - [React Perf: Causal Case Study](https://twitter.com/iamakulov/status/1600169184360398851)
 - [Things I found in a slow React website today](https://twitter.com/nomsternom/status/1601587970792132608)
+- [Another reason for not declaring React components inside other components](https://twitter.com/asidorenko_/status/1605313331740418051)
 
 </samp>
