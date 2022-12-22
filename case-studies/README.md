@@ -46,6 +46,7 @@
 - [📝 NDTV achieved a 55% improvement in LCP by optimizing for Core Web Vitals](https://web.dev/ndtv)
 - [📝 How CLS optimizations increased Yahoo! JAPAN News's page views per session by 15%](https://web.dev/yahoo-japan-news)
 - [📝 Agrofy: A 70% improvement in LCP correlated to a 76% reduction in load abandonment](https://web.dev/agrofy)
+- [📝 REI: FCP and LCP improvements](https://engineering.rei.com/web-performance/catch-the-wheel.html)
 - [🎥 Building Performance for the Long Term](https://vimeo.com/showcase/4970467/video/254947097)
 - [🎥 Optimizing Preview Popups](https://www.youtube.com/watch?v=sKvK3x9zdt0&ab_channel=YoavWeiss)
 - [🎥 Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI)
