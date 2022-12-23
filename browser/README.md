@@ -80,6 +80,7 @@
 - [📝 Setting up Cloudflare Workers for web performance optimisation and testing](https://nooshu.com/blog/2021/03/14/setting-up-cloudflare-workers-for-web-performance-optimisation-and-testing)
 - [📝 Cloudflare Worker recipes for frontend performance testing](https://nooshu.com/blog/2021/03/02/cloudflare-worker-recipes-for-frontend-performance-testing)
 - [📝 Get off the main thread with an inline web worker: an example](https://calendar.perfplanet.com/2022/get-off-the-main-thread-with-an-inline-web-worker-an-example)
+- [📝 Making the Web Faster with Service Workers and Performance Research](https://calendar.perfplanet.com/2022/making-the-web-faster-with-service-workers-and-performance-research)
 - [🎥 Boost Your Site Performance with Partytown](https://www.youtube.com/watch?v=AsZXN8SYoa4&ab_channel=Builder)
 - [🎥 Speed Up Your Site with Workers](https://www.youtube.com/watch?v=yEtT0C4vsRM&ab_channel=Builder)
 - [🛠 Partytown](https://partytown.builder.io)
