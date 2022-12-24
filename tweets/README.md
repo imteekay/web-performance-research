@@ -18,5 +18,6 @@
 - [React Perf: Causal Case Study](https://twitter.com/iamakulov/status/1600169184360398851)
 - [Things I found in a slow React website today](https://twitter.com/nomsternom/status/1601587970792132608)
 - [Another reason for not declaring React components inside other components](https://twitter.com/asidorenko_/status/1605313331740418051)
+- [Blank page with an embedded tweet. How bad can it be?](https://twitter.com/mhevery/status/1606438382561026049)
 
 </samp>
