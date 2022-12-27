@@ -11,5 +11,6 @@
 - [📝 Style performance and concurrent rendering](https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering)
 - [📝 Performance comparison of css-in-js libraries](https://github.com/geeky-biz/css-in-js-benchmark)
 - [📝 Airbnb’s Trip to Linaria](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12)
+- [📝 Future of runtime CSS-in-JS](https://github.com/emotion-js/emotion/discussions/2827)
 
 </samp>
