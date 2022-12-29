@@ -19,5 +19,6 @@
 - [Things I found in a slow React website today](https://twitter.com/nomsternom/status/1601587970792132608)
 - [Another reason for not declaring React components inside other components](https://twitter.com/asidorenko_/status/1605313331740418051)
 - [Blank page with an embedded tweet. How bad can it be?](https://twitter.com/mhevery/status/1606438382561026049)
+- [ChromeDevTools Long Tasks](https://twitter.com/jebbacca/status/1608472228265345024)
 
 </samp>
