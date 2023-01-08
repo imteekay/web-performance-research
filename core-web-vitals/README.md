@@ -91,6 +91,7 @@
 - [📝 Case Study Vodafone: A 31% improvement in LCP increased sales by 8%](https://web.dev/vodafone/)
 - [📝 Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint)
 - [📝 LCP(FE)](https://calendar.perfplanet.com/2022/lcpfe)
+- [📝 Priority Hints and optimizing LCP](https://imkev.dev/fetchpriority-opportunity)
 - [🎥 This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)
 - [🎥 Investigating LCP: Largest Contentful Paint](https://www.youtube.com/watch?v=diAc65p15ag)
 - [🎥 How to improve Largest Contentful Paint for a better page experience](https://www.youtube.com/watch?v=480m72yjZv8)
