@@ -48,6 +48,7 @@
 - [📝 A Performance Maturity Matrix](https://calendar.perfplanet.com/2022/a-performance-maturity-matrix)
 - [📝 Best practices for tags and tag managers](https://web.dev/tag-best-practices)
 - [📝 An HTML-first Mental Model](https://calendar.perfplanet.com/2022/an-html-first-mental-model)
+- [📝 Gantry: Slack’s Fast-booting Frontend Framework](https://slack.engineering/gantry-slacks-fast-booting-frontend-framework)
 - [🎥 Improving Page Performance in Modern Web Apps](https://www.youtube.com/watch?v=p_8oR9GFRvQ)
 - [🎥 Speed Essentials: Key Techniques for Fast Websites](https://www.youtube.com/watch?v=reztLS3vomE)
 - [🎥 Improving Page Performance in Modern Web Apps](https://vimeo.com/254858694)
