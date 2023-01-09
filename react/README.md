@@ -21,6 +21,7 @@
 - [📝 Mobile Performance of Next.js Sites](https://calendar.perfplanet.com/2022/mobile-performance-of-next-js-sites)
 - [📝 React Concurrency, Explained](https://3perf.com/talks/react-concurrency)
 - [🎥 DOM as a Second-class Citizen](https://www.youtube.com/watch?v=Zemce4Y1Y-A)
+- [🎥 React 18 Concurrency, Explained](https://www.youtube.com/watch?v=i-_6wyohduo&ab_channel=SmashingMagazine)
 
 ## Rendering Architecture: Fiber / Signal
 
