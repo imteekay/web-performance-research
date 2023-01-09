@@ -19,6 +19,7 @@
 - [📝 21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
 - [📝 Optimize Data Fetching](https://medhatdawoud.net/blog/optimize-data-fetching)
 - [📝 Mobile Performance of Next.js Sites](https://calendar.perfplanet.com/2022/mobile-performance-of-next-js-sites)
+- [📝 React Concurrency, Explained](https://3perf.com/talks/react-concurrency)
 - [🎥 DOM as a Second-class Citizen](https://www.youtube.com/watch?v=Zemce4Y1Y-A)
 
 ## Rendering Architecture: Fiber / Signal
