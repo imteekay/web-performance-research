@@ -94,6 +94,7 @@
 - [📝 LCP(FE)](https://calendar.perfplanet.com/2022/lcpfe)
 - [📝 Optimizing resource loading with Priority Hints](https://web.dev/priority-hints)
 - [📝 Priority Hints and optimizing LCP](https://imkev.dev/fetchpriority-opportunity)
+- [📝 Dynamic LCP Priority: Learning from Past Visits](https://philipwalton.com/articles/dynamic-lcp-priority)
 - [🎥 This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)
 - [🎥 Investigating LCP: Largest Contentful Paint](https://www.youtube.com/watch?v=diAc65p15ag)
 - [🎥 How to improve Largest Contentful Paint for a better page experience](https://www.youtube.com/watch?v=480m72yjZv8)
