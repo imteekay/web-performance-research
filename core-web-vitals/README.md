@@ -3,7 +3,6 @@
 # Core Web Vitals
 
 - [📝 Our top Core Web Vitals recommendations for 2023](https://web.dev/top-cwv-2023)
-- [📝 Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)
 - [📝 Web Vitals patterns](https://web.dev/patterns/web-vitals-patterns)
 - [📝 Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo)
 - [📝 How SPA architectures affect Core Web Vitals](https://web.dev/vitals-spa-faq)
@@ -89,6 +88,7 @@
 
 ## Largest Contentful Paint (LCP)
 
+- [📝 Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)
 - [📝 Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint)
 - [📝 Case Study Vodafone: A 31% improvement in LCP increased sales by 8%](https://web.dev/vodafone/)
 - [📝 Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint)
