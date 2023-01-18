@@ -55,6 +55,7 @@
 - [📝 So you heard of Client-Hints and you think you got time, right? Wrong](https://calendar.perfplanet.com/2022/so-you-heard-of-client-hints-and-you-think-you-got-time-right-wrong)
 - [📝 Fast is good, instant is better!](https://calendar.perfplanet.com/2022/fast-is-good-instant-is-better)
 - [📝 Prerender pages in Chrome for instant page navigations](https://developer.chrome.com/blog/prerender-pages)
+- [📝 Add the Priority Hints changes to the html spec](https://github.com/whatwg/html/pull/8470)
 - [🎥 The main thread is overworked & underpaid](https://www.youtube.com/watch?v=7Rrv9qFMWNM)
 - [🎥 Scheduling On and Off the Main Thread](https://www.youtube.com/watch?v=mDdgfyRB5kg)
 - [🎥 WebAssembly as cross-platform architecture](https://www.youtube.com/watch?v=l2DHjRmgAF8&ab_channel=Nordic.js)
