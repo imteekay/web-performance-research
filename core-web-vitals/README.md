@@ -2,6 +2,7 @@
 
 # Core Web Vitals
 
+- [📝 Our top Core Web Vitals recommendations for 2023](https://web.dev/top-cwv-2023)
 - [📝 Optimize Largest Contentful Paint](https://web.dev/optimize-lcp/)
 - [📝 Web Vitals patterns](https://web.dev/patterns/web-vitals-patterns)
 - [📝 Everything we know about Core Web Vitals and SEO](https://simonhearne.com/2021/core-web-vitals-seo)
