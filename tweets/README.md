@@ -22,5 +22,6 @@
 - [ChromeDevTools Long Tasks](https://twitter.com/jebbacca/status/1608472228265345024)
 - [React 18 Concurrency, Explained](https://twitter.com/iamakulov/status/1610652344164954114)
 - [Check out the new Priority Hints](https://twitter.com/tunetheweb/status/1615685225106767874)
+- [<img fetchpriority="high">: LCP improvement of ~150ms](https://twitter.com/senthil_hi/status/1589676464215326720)
 
 </samp>
