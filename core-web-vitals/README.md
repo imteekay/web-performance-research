@@ -16,7 +16,6 @@
 - [📝 Send feedback to the Google Core Web Vitals Team](https://groups.google.com/g/web-vitals-feedback)
 - [📝 Core Web Vitals Changelog](https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/speed/metrics_changelog/README.md)
 - [📝 Core Web Vitals Optimizer (proven process & open-source tool)](https://github.com/fabkrum/core-web-vitals-optimizer/blob/main/README.md)
-- [📝 How SPA architectures affect Core Web Vitals](https://web.dev/vitals-spa-faq)
 - [📝 Web Vitals patterns](https://web.dev/patterns/web-vitals-patterns)
 - [📝 Core Web Vitals is a Measurable Ranking Factor](https://www.sistrix.com/blog/core-web-vitals-is-a-measurable-ranking-factor)
 - [📝 Why lab and field data can be different (and what to do about it)](https://web.dev/lab-and-field-data-differences)
