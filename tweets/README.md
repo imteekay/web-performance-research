@@ -23,5 +23,6 @@
 - [React 18 Concurrency, Explained](https://twitter.com/iamakulov/status/1610652344164954114)
 - [Check out the new Priority Hints](https://twitter.com/tunetheweb/status/1615685225106767874)
 - [<img fetchpriority="high">: LCP improvement of ~150ms](https://twitter.com/senthil_hi/status/1589676464215326720)
+- [CSS Selector Performance](https://twitter.com/csswizardry/status/1616906377829433351)
 
 </samp>
