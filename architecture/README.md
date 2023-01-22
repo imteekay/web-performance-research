@@ -22,6 +22,7 @@
 - [📝 Signals: the nitty-gritty](https://calendar.perfplanet.com/2022/signals-the-nitty-gritty)
 - [📝 Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
 - [📝 Rendering Fundamentals](https://beta.nextjs.org/docs/rendering/fundamentals)
+- [📝 Comparing SPAs to SSG and SSR](https://fauna.com/blog/comparing-spas-to-ssg-and-ssr)
 - [🎥 Rendering on the Web: Performance Implications of Application Architecture](https://www.youtube.com/watch?v=k-A2VfuUROg)
 - [🎥 Advanced Rendering Patterns](https://www.youtube.com/watch?v=PN1HgvAOmi8&ab_channel=RealWorldReact)
 - [🎥 What happens before hydration](https://www.youtube.com/watch?v=PGLwRv64RzM)
