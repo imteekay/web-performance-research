@@ -38,6 +38,7 @@
 - [🎥 React Fiber Deep Dive](https://www.youtube.com/watch?v=aS41Y_eyNrU)
 - [🎥 A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 - [🎥 Deep diving on Concurrent React](https://www.youtube.com/watch?v=js7E1VKqIng&ab_channel=ReactIndia)
+- [🎥 Data Fetching with React Server Components](https://www.youtube.com/watch?v=TQQPAU21ZUw&ab_channel=MetaOpenSource)
 
 ## Measuring
 
