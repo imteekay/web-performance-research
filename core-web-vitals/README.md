@@ -95,6 +95,7 @@
 - [📝 Priority Hints and optimizing LCP](https://imkev.dev/fetchpriority-opportunity)
 - [📝 Dynamic LCP Priority: Learning from Past Visits](https://philipwalton.com/articles/dynamic-lcp-priority)
 - [📝 What can the HTTP Archive tell us about Largest Contentful Paint?](https://paulcalvano.com/2021-06-07-lcp-httparchive)
+- [📝 Tip - Use fetchpriority=high to load your LCP hero image sooner](https://addyosmani.com/blog/fetch-priority)
 - [🎥 This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)
 - [🎥 Investigating LCP: Largest Contentful Paint](https://www.youtube.com/watch?v=diAc65p15ag)
 - [🎥 How to improve Largest Contentful Paint for a better page experience](https://www.youtube.com/watch?v=480m72yjZv8)
