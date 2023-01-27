@@ -28,5 +28,6 @@
 - [🎥 Advanced Rendering Patterns](https://www.youtube.com/watch?v=PN1HgvAOmi8&ab_channel=RealWorldReact)
 - [🎥 What happens before hydration](https://www.youtube.com/watch?v=PGLwRv64RzM)
 - [🎥 Stream Away the Wait](https://www.youtube.com/watch?v=gb2DGJB1ZsM&ab_channel=ReactNext)
+- [🎥 Streaming in Next.js](https://www.youtube.com/watch?v=Nl4OwNhh2QI)
 
 </samp>
