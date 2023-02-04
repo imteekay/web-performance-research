@@ -26,5 +26,6 @@
 - [CSS Selector Performance](https://twitter.com/csswizardry/status/1616906377829433351)
 - [The difference between "On Load" and "Document Complete" in WebPageTest](https://twitter.com/stoyanstefanov/status/1617612093594939392)
 - [mobile performance for sites built with Next.js](https://mobile.twitter.com/clark_gunn/status/1593756237874839555/photo/1)
+- [React Time Slicing](https://twitter.com/heyImMapleLeaf/status/1567960223759093760)
 
 </samp>
