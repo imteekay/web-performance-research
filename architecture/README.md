@@ -24,6 +24,7 @@
 - [📝 Rendering Fundamentals](https://beta.nextjs.org/docs/rendering/fundamentals)
 - [📝 Comparing SPAs to SSG and SSR](https://fauna.com/blog/comparing-spas-to-ssg-and-ssr)
 - [📝 Server-Side Rendering: How Resumable Beats Hydration](https://betterprogramming.pub/how-resumable-beats-hydration-f845bfebc31e)
+- [📝 The Benefits of Server Side Rendering Over Client Side Rendering](https://medium.com/walmartglobaltech/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
 - [🎥 Rendering on the Web: Performance Implications of Application Architecture](https://www.youtube.com/watch?v=k-A2VfuUROg)
 - [🎥 Advanced Rendering Patterns](https://www.youtube.com/watch?v=PN1HgvAOmi8&ab_channel=RealWorldReact)
 - [🎥 What happens before hydration](https://www.youtube.com/watch?v=PGLwRv64RzM)
