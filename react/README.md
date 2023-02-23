@@ -35,6 +35,7 @@
 - [📝 Learning the React reconciliation algorithm with performance measures](https://imkev.dev/react-reconciliation-performance-measures)
 - [📝 Signal Boosting](https://preactjs.com/blog/signal-boosting)
 - [📝 Server and Client Components](https://beta.nextjs.org/docs/rendering/server-and-client-components)
+- [📝 The future of rendering in React](https://prateeksurana.me/blog/future-of-rendering-in-react)
 - [🎥 Inside Fiber: the in-depth overview you wanted](https://www.youtube.com/watch?v=jMZBhHzD3H8&ab_channel=ReactNext)
 - [🎥 React Fiber Deep Dive](https://www.youtube.com/watch?v=aS41Y_eyNrU)
 - [🎥 A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
