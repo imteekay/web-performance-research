@@ -28,5 +28,6 @@
 - [mobile performance for sites built with Next.js](https://mobile.twitter.com/clark_gunn/status/1593756237874839555/photo/1)
 - [React Time Slicing](https://twitter.com/heyImMapleLeaf/status/1567960223759093760)
 - [Compile Code — Profiling](https://twitter.com/jebbacca/status/1618615238034874371)
+- [Signals — Reactivity + UI](https://twitter.com/geoffreylitt/status/1632459743636717568)
 
 </samp>
