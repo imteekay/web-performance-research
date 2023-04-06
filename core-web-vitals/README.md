@@ -98,6 +98,7 @@
 - [📝 What can the HTTP Archive tell us about Largest Contentful Paint?](https://paulcalvano.com/2021-06-07-lcp-httparchive)
 - [📝 Tip - Use fetchpriority=high to load your LCP hero image sooner](https://addyosmani.com/blog/fetch-priority)
 - [📝 How to optimize largest contentful paint (LCP) on client side](https://evanxmerz.com/post/how-to-optimize-largest-contentful-paint-lcp-on-client-side)
+- [📝 Improve Largest Contentful Paint (LCP) by removing image transitions](https://performance.shopify.com/blogs/blog/improve-largest-contentful-paint-lcp-by-removing-image-transitions)
 - [🎥 This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)
 - [🎥 Investigating LCP: Largest Contentful Paint](https://www.youtube.com/watch?v=diAc65p15ag)
 - [🎥 How to improve Largest Contentful Paint for a better page experience](https://www.youtube.com/watch?v=480m72yjZv8)
