@@ -20,6 +20,7 @@
 - [📝 Can I use WebP](https://caniuse.com/webp)
 - [📝 Can I use AVIF](https://caniuse.com/avif)
 - [📝 Reduce Image Sizes by Removing Metadata](https://calendar.perfplanet.com/2022/reduce-image-sizes-by-removing-metadata)
+- [📝 The Ultimate Guide to Image Optimisation](https://calibreapp.com/blog/image-optimisation-guide)
 
 ## Tools
 
