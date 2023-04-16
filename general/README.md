@@ -49,6 +49,7 @@
 - [📝 Best practices for tags and tag managers](https://web.dev/tag-best-practices)
 - [📝 An HTML-first Mental Model](https://calendar.perfplanet.com/2022/an-html-first-mental-model)
 - [📝 Gantry: Slack’s Fast-booting Frontend Framework](https://slack.engineering/gantry-slacks-fast-booting-frontend-framework)
+- [📝 Low-Hanging Web Performance Fruits: A Cheat Sheet](https://betterprogramming.pub/low-hanging-web-performance-fruits-a-cheat-sheet-3aa1d338b6c1)
 - [🎥 Improving Page Performance in Modern Web Apps](https://www.youtube.com/watch?v=p_8oR9GFRvQ)
 - [🎥 Speed Essentials: Key Techniques for Fast Websites](https://www.youtube.com/watch?v=reztLS3vomE)
 - [🎥 Improving Page Performance in Modern Web Apps](https://vimeo.com/254858694)
