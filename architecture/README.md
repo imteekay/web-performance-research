@@ -20,9 +20,18 @@
 - [📝 Conquering JavaScript Hydration](https://dev.to/this-is-learning/conquering-javascript-hydration-a9f)
 - [📝 Crafting a high-performance TV user interface using React](https://netflixtechblog.com/crafting-a-high-performance-tv-user-interface-using-react-3350e5a6ad3b)
 - [📝 Signals: the nitty-gritty](https://calendar.perfplanet.com/2022/signals-the-nitty-gritty)
+- [📝 Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
+- [📝 Rendering Fundamentals](https://beta.nextjs.org/docs/rendering/fundamentals)
+- [📝 Comparing SPAs to SSG and SSR](https://fauna.com/blog/comparing-spas-to-ssg-and-ssr)
+- [📝 Server-Side Rendering: How Resumable Beats Hydration](https://betterprogramming.pub/how-resumable-beats-hydration-f845bfebc31e)
+- [📝 The Benefits of Server Side Rendering Over Client Side Rendering](https://medium.com/walmartglobaltech/the-benefits-of-server-side-rendering-over-client-side-rendering-5d07ff2cefe8)
+- [📝 The Future (and the Past) of the Web is Server Side Rendering](https://deno.com/blog/the-future-and-past-is-server-side-rendering)
+- [📝 Rendering Options on the Web: Server, Client, Static](https://thetombomb.com/posts/rendering-options-on-the-web)
+- [📝 Islands Architecture](https://jasonformat.com/islands-architecture)
 - [🎥 Rendering on the Web: Performance Implications of Application Architecture](https://www.youtube.com/watch?v=k-A2VfuUROg)
 - [🎥 Advanced Rendering Patterns](https://www.youtube.com/watch?v=PN1HgvAOmi8&ab_channel=RealWorldReact)
 - [🎥 What happens before hydration](https://www.youtube.com/watch?v=PGLwRv64RzM)
 - [🎥 Stream Away the Wait](https://www.youtube.com/watch?v=gb2DGJB1ZsM&ab_channel=ReactNext)
+- [🎥 Streaming in Next.js](https://www.youtube.com/watch?v=Nl4OwNhh2QI)
 
 </samp>

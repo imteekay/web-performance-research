@@ -12,5 +12,6 @@
 - [📝 Performance comparison of css-in-js libraries](https://github.com/geeky-biz/css-in-js-benchmark)
 - [📝 Airbnb’s Trip to Linaria](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12)
 - [📝 Future of runtime CSS-in-JS](https://github.com/emotion-js/emotion/discussions/2827)
+- [📝 The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance)
 
 </samp>

@@ -22,7 +22,13 @@
 - [ChromeDevTools Long Tasks](https://twitter.com/jebbacca/status/1608472228265345024)
 - [React 18 Concurrency, Explained](https://twitter.com/iamakulov/status/1610652344164954114)
 - [Check out the new Priority Hints](https://twitter.com/tunetheweb/status/1615685225106767874)
-- [<img fetchpriority="high">: LCP improvement of ~150ms](https://twitter.com/senthil_hi/status/1589676464215326720)
+- [img fetchpriority="high": LCP improvement of ~150ms](https://twitter.com/senthil_hi/status/1589676464215326720)
 - [CSS Selector Performance](https://twitter.com/csswizardry/status/1616906377829433351)
+- [The difference between "On Load" and "Document Complete" in WebPageTest](https://twitter.com/stoyanstefanov/status/1617612093594939392)
+- [mobile performance for sites built with Next.js](https://mobile.twitter.com/clark_gunn/status/1593756237874839555/photo/1)
+- [React Time Slicing](https://twitter.com/heyImMapleLeaf/status/1567960223759093760)
+- [Compile Code — Profiling](https://twitter.com/jebbacca/status/1618615238034874371)
+- [Signals — Reactivity + UI](https://twitter.com/geoffreylitt/status/1632459743636717568)
+- [How Wix improved TTFB with 103 Early Hints](https://twitter.com/alonkochba/status/1584418867295965184)
 
 </samp>
