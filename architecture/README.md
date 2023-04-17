@@ -28,6 +28,7 @@
 - [📝 The Future (and the Past) of the Web is Server Side Rendering](https://deno.com/blog/the-future-and-past-is-server-side-rendering)
 - [📝 Rendering Options on the Web: Server, Client, Static](https://thetombomb.com/posts/rendering-options-on-the-web)
 - [📝 Islands Architecture](https://jasonformat.com/islands-architecture)
+- [📝 2023 Web Framework Performance Report](https://astro.build/blog/2023-web-framework-performance-report)
 - [🎥 Rendering on the Web: Performance Implications of Application Architecture](https://www.youtube.com/watch?v=k-A2VfuUROg)
 - [🎥 Advanced Rendering Patterns](https://www.youtube.com/watch?v=PN1HgvAOmi8&ab_channel=RealWorldReact)
 - [🎥 What happens before hydration](https://www.youtube.com/watch?v=PGLwRv64RzM)
