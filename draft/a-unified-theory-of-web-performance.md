@@ -208,7 +208,6 @@ Client request HTML to the server
     - format types
   - fonts
     - group different fonts in one
-    -
   - text
     - minifiers: remove blank spaces
       - css minifier
