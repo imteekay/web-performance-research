@@ -153,7 +153,7 @@ WIP
   - The primary downside of SSR with rehydration is that it can have a significant negative impact on Time To Interactive
   - Hydration: SSR’d pages often look deceptively loaded and interactive, but can’t actually respond to input until the client-side JS is executed and event handlers have been attached.
     - parsing and execution costs a lot in hydration
-- static rendering
+- static rendering: static rendered pages are interactive without the need to execute much client-side JS
   - render HTML at build time
   - no ssr overhead (what are the SSR overhead here?)
   - only for static content
