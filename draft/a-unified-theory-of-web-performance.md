@@ -137,6 +137,14 @@ WIP
 
 ## Rendering Architectures
 
+- client side rendering (CSR)
+  - send a thin layer of HTML and `<script>` tags to download and render JavaScript
+  - the JavaScript downloaded will handle UI: render the UI, add interactivity
+  - LCP can be high as the page in a CSR architecture needs to
+    - download JavaScript files
+    - render the UI
+    - perform the data fetching in the client
+    - render the LCP element
 - server side rendering (SSR)
   - generate the page on runtime
   - FP (First Paint) & FCP (First Contentful Paint) are fast: rendering on the server to avoid sending lots of JavaScript to the client
@@ -155,7 +163,6 @@ WIP
   - no ssr overhead (what are the SSR overhead here?)
   - only for static content
   - fast First Paint, First Contentful Paint and Time To Interactive
-- client side rendering (CSR)
 - streaming SSR
   - allows you to send HTML in chunks that the browser can progressively render as it's received.
 - progressive hydration
