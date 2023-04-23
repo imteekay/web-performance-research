@@ -155,12 +155,12 @@ WIP
     - parsing and execution costs a lot in hydration
 - static rendering: static rendered pages are interactive without the need to execute much client-side JS
   - render HTML at build time
-  - no ssr overhead (what are the SSR overhead here?)
+  - no ssr overhead (hydration)
   - only for static content
   - fast First Paint, First Contentful Paint and Time To Interactive
 - pre-rendering
   - render HTML at build time
-  - no ssr overhead (what are the SSR overhead here?)
+  - no ssr overhead (hydration)
   - only for static content
   - fast First Paint, First Contentful Paint and Time To Interactive
 - streaming SSR
