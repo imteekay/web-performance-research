@@ -92,7 +92,7 @@
 - [📝 Case Study Vodafone: A 31% improvement in LCP increased sales by 8%](https://web.dev/vodafone/)
 - [📝 Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint)
 - [📝 LCP(FE)](https://calendar.perfplanet.com/2022/lcpfe)
-- [📝 Optimizing resource loading with the Fetch Priority API](https://web.dev/fetch-priority/#summary)
+- [📝 Optimizing resource loading with the Fetch Priority API](https://web.dev/fetch-priority)
 - [📝 Priority Hints and optimizing LCP](https://imkev.dev/fetchpriority-opportunity)
 - [📝 Dynamic LCP Priority: Learning from Past Visits](https://philipwalton.com/articles/dynamic-lcp-priority)
 - [📝 What can the HTTP Archive tell us about Largest Contentful Paint?](https://paulcalvano.com/2021-06-07-lcp-httparchive)
