@@ -117,6 +117,7 @@
 - [🎥 The state of responsiveness on the web](https://www.youtube.com/watch?v=Mizzbsvv8Os&ab_channel=GoogleChromeDevelopers)
 - [🎥 Interaction to Next Paint and other Web Vitals [BlinkOn 16]](https://www.youtube.com/watch?v=zQBt64Q-Ijs&ab_channel=BlinkOn)
 - [🎥 Interaction to Next Paint](https://www.youtube.com/watch?v=JXaIFLhRV8Q&ab_channel=CodeSpaceITeducation)
+- [🎥 Digging into Interaction to Next Paint](https://www.youtube.com/watch?v=bDJB-AQDciE)
 
 ## Total Blocking Time
 
