@@ -29,6 +29,7 @@
 - [📝 Rendering Options on the Web: Server, Client, Static](https://thetombomb.com/posts/rendering-options-on-the-web)
 - [📝 Islands Architecture](https://jasonformat.com/islands-architecture)
 - [📝 2023 Web Framework Performance Report](https://astro.build/blog/2023-web-framework-performance-report)
+- [📝 Next.js: The Ultimate Cheat Sheet To Page Rendering](https://guydumais.digital/blog/next-js-the-ultimate-cheat-sheet-to-page-rendering)
 - [🎥 Rendering on the Web: Performance Implications of Application Architecture](https://www.youtube.com/watch?v=k-A2VfuUROg)
 - [🎥 Advanced Rendering Patterns](https://www.youtube.com/watch?v=PN1HgvAOmi8&ab_channel=RealWorldReact)
 - [🎥 What happens before hydration](https://www.youtube.com/watch?v=PGLwRv64RzM)
