@@ -16,6 +16,6 @@
 - [📚 High Performance Mobile Web](https://www.oreilly.com/library/view/high-performance-mobile/9781491912546)
 - [📚 JPEG Series](https://www.amazon.com.br/JPEG-K-R-Rao/dp/8770225931)
 - [📚 Web Browser Engineering](https://browser.engineering)
-- [📚 Time Is Money](https://www.oreilly.com/library/view/time-is-money/9781491928783/g)
+- [📚 Time Is Money: The Business Value of Web Performance](https://www.amazon.com/Time-Money-Business-Value-Performance/dp/1491928743)
 
 </samp>
