@@ -120,6 +120,7 @@
 - [🎥 Interaction to Next Paint and other Web Vitals [BlinkOn 16]](https://www.youtube.com/watch?v=zQBt64Q-Ijs&ab_channel=BlinkOn)
 - [🎥 Interaction to Next Paint](https://www.youtube.com/watch?v=JXaIFLhRV8Q&ab_channel=CodeSpaceITeducation)
 - [🎥 Digging into Interaction to Next Paint](https://www.youtube.com/watch?v=bDJB-AQDciE)
+- [🎥 How to optimize web responsiveness with Interaction to Next Paint](https://www.youtube.com/watch?v=KZ1kxzsJZ5g&ab_channel=GoogleChromeDevelopers)
 
 ## Total Blocking Time
 
