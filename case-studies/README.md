@@ -52,6 +52,7 @@
 - [📝 How Wix improved TTFB with 103 Early Hints](https://web.archive.org/web/20230313110110/https://twitter.com/alonkochba/status/1584418867295965184)
 - [📝 Performance audit of an Italian news website](https://www.giacomodebidda.com/posts/performance-audit-of-an-italian-news-website)
 - [📝 How Carpe achieved record-breaking sales by focusing on performance optimization](https://performance.shopify.com/blogs/blog/how-carpe-achieved-record-breaking-sales-by-focusing-on-performance-optimization)
+- [📝 300ms Faster: Reducing Wikipedia's Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time)
 - [🎥 Building Performance for the Long Term](https://vimeo.com/showcase/4970467/video/254947097)
 - [🎥 Optimizing Preview Popups](https://www.youtube.com/watch?v=sKvK3x9zdt0&ab_channel=YoavWeiss)
 - [🎥 Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI)
