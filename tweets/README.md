@@ -30,5 +30,6 @@
 - [Compile Code — Profiling](https://twitter.com/jebbacca/status/1618615238034874371)
 - [Signals — Reactivity + UI](https://twitter.com/geoffreylitt/status/1632459743636717568)
 - [How Wix improved TTFB with 103 Early Hints](https://twitter.com/alonkochba/status/1584418867295965184)
+- [Investigating Core Web Vital issues](https://twitter.com/tunetheweb/status/1661699095025664004)
 
 </samp>
