@@ -27,7 +27,6 @@ Research on Web Performance
 - [Backend](backend)
 - [Architecture](architecture)
 - [Infrastructure](infrastructure)
-- [Build tools](build-tools)
 - [Books](books)
 - [Tweets](tweets)
 - [Community](community)
