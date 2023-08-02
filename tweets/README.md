@@ -32,5 +32,6 @@
 - [How Wix improved TTFB with 103 Early Hints](https://twitter.com/alonkochba/status/1584418867295965184)
 - [Investigating Core Web Vital issues](https://twitter.com/tunetheweb/status/1661699095025664004)
 - [How I typically test performance](https://twitter.com/iamakulov/status/1661475656050556930)
+- [Google Search Console warning the INP](https://twitter.com/tunetheweb/status/1679085260263366663)
 
 </samp>
