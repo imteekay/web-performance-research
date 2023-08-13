@@ -121,6 +121,7 @@
 - [🎥 Interaction to Next Paint](https://www.youtube.com/watch?v=JXaIFLhRV8Q&ab_channel=CodeSpaceITeducation)
 - [🎥 Digging into Interaction to Next Paint](https://www.youtube.com/watch?v=bDJB-AQDciE)
 - [🎥 How to optimize web responsiveness with Interaction to Next Paint](https://www.youtube.com/watch?v=KZ1kxzsJZ5g&ab_channel=GoogleChromeDevelopers)
+- [🎥 Understanding and Optimizing Interaction to Next Paint (INP)](https://www.youtube.com/watch?v=BoaORHnJYAE)
 
 ## Total Blocking Time
 
