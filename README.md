@@ -2,8 +2,6 @@
 
 # Web Performance Research
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 Research on Web Performance
 
 - [General ideas on web performance](general)
