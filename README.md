@@ -2,8 +2,6 @@
 
 # Web Performance Research
 
-Research on Web Performance
-
 - [General ideas on web performance](general)
 - [Performance Budget](performance-budget)
 - [Measuring Performance](measuring-performance)
