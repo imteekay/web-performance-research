@@ -28,10 +28,6 @@
 - [Community](community)
 - [Career](career)
 
-## A Unified Theory of Web Performance
-
-Still a working in progress: [draft](draft/a-unified-theory-of-web-performance.md).
-
 ## License
 
 [MIT](/LICENSE) © [TK](https://iamtk.co)
