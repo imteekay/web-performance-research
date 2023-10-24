@@ -112,6 +112,7 @@
 
 ## Interaction to Next Paint (INP)
 
+- [📝 Interaction to Next Paint (INP)](https://web.dev/articles/inp)
 - [📝 Interaction to Next Paint by kev](https://imkev.dev/inp)
 - [📝 Breaking up long tasks](https://calendar.perfplanet.com/2022/breaking-up-long-tasks)
 - [📝 Optimize Interaction to Next Paint](https://web.dev/optimize-inp)
