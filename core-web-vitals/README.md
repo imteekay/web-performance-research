@@ -114,6 +114,7 @@
 
 - [📝 Breaking up long tasks](https://calendar.perfplanet.com/2022/breaking-up-long-tasks)
 - [📝 Find slow interactions in the field](https://web.dev/articles/find-slow-interactions-in-the-field)
+- [📝 How do modern frameworks perform on the new INP metric](https://developer.chrome.com/articles/inp-in-frameworks)
 - [📝 How to solve Interaction to Next Paint (INP) issues](https://www.iron-out.io/blog/how-to-solve-interaction-to-next-paint-issues)
 - [📝 Interaction to Next Paint (INP)](https://web.dev/articles/inp)
 - [📝 Interaction to Next Paint by kev](https://imkev.dev/inp)
