@@ -103,6 +103,7 @@
 - [🎥 This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)
 - [🎥 Investigating LCP: Largest Contentful Paint](https://www.youtube.com/watch?v=diAc65p15ag)
 - [🎥 How to improve Largest Contentful Paint for a better page experience](https://www.youtube.com/watch?v=480m72yjZv8)
+- [🎥 How to Fix Largest Contentful Paint](https://www.youtube.com/watch?v=3LVI8-4FrTg&ab_channel=NitroPack)
 
 ## First Input Delay (FID)
 
