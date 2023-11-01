@@ -120,6 +120,7 @@
 - [📝 Interaction to Next Paint (INP)](https://web.dev/articles/inp)
 - [📝 Interaction to Next Paint by kev](https://imkev.dev/inp)
 - [📝 Optimize Interaction to Next Paint](https://web.dev/optimize-inp)
+- [📝 The Fight For The Main Thread](https://www.smashingmagazine.com/2023/10/speedcurve-fight-main-thread)
 - [🎥 The state of responsiveness on the web](https://www.youtube.com/watch?v=Mizzbsvv8Os&ab_channel=GoogleChromeDevelopers)
 - [🎥 Interaction to Next Paint and other Web Vitals [BlinkOn 16]](https://www.youtube.com/watch?v=zQBt64Q-Ijs&ab_channel=BlinkOn)
 - [🎥 Interaction to Next Paint](https://www.youtube.com/watch?v=JXaIFLhRV8Q&ab_channel=CodeSpaceITeducation)
