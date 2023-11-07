@@ -124,6 +124,7 @@
 - [📝 How to Improve Interaction to Next Paint (INP)](https://nitropack.io/blog/post/improve-interaction-to-next-paint-inp)
 - [📝 Optimize long tasks](https://web.dev/articles/optimize-long-tasks)
 - [📝 Script evaluation and long tasks](https://web.dev/articles/script-evaluation-and-long-tasks)
+- [📝 Use web workers to run JavaScript off the browser's main thread](https://web.dev/articles/off-main-thread)
 - [🎥 The state of responsiveness on the web](https://www.youtube.com/watch?v=Mizzbsvv8Os&ab_channel=GoogleChromeDevelopers)
 - [🎥 Interaction to Next Paint and other Web Vitals [BlinkOn 16]](https://www.youtube.com/watch?v=zQBt64Q-Ijs&ab_channel=BlinkOn)
 - [🎥 Interaction to Next Paint](https://www.youtube.com/watch?v=JXaIFLhRV8Q&ab_channel=CodeSpaceITeducation)
