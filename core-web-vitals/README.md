@@ -129,13 +129,14 @@
 - [📝 Avoid large, complex layouts and layout thrashing](https://web.dev/articles/avoid-large-complex-layouts-and-layout-thrashing)
 - [📝 Reduce the scope and complexity of style calculations](https://web.dev/articles/reduce-the-scope-and-complexity-of-style-calculations)
 - [📝 How large DOM sizes affect interactivity, and what you can do about it](https://web.dev/articles/dom-size-and-interactivity)
-- [🎥 The state of responsiveness on the web](https://www.youtube.com/watch?v=Mizzbsvv8Os&ab_channel=GoogleChromeDevelopers)
+- [🎥 Debugging INP](https://www.youtube.com/watch?v=nQByr5Yyclw&ab_channel=HHWebPerformanceMeetup)
+- [🎥 Digging into Interaction to Next Paint](https://www.youtube.com/watch?v=bDJB-AQDciE)
+- [🎥 How to Improve Interaction to Next Paint (INP)](https://www.youtube.com/watch?v=XpSUlncKExc&ab_channel=NitroPack)
+- [🎥 How to optimize web responsiveness with Interaction to Next Paint](https://www.youtube.com/watch?v=KZ1kxzsJZ5g&ab_channel=GoogleChromeDevelopers)
 - [🎥 Interaction to Next Paint and other Web Vitals [BlinkOn 16]](https://www.youtube.com/watch?v=zQBt64Q-Ijs&ab_channel=BlinkOn)
 - [🎥 Interaction to Next Paint](https://www.youtube.com/watch?v=JXaIFLhRV8Q&ab_channel=CodeSpaceITeducation)
-- [🎥 Digging into Interaction to Next Paint](https://www.youtube.com/watch?v=bDJB-AQDciE)
-- [🎥 How to optimize web responsiveness with Interaction to Next Paint](https://www.youtube.com/watch?v=KZ1kxzsJZ5g&ab_channel=GoogleChromeDevelopers)
+- [🎥 The state of responsiveness on the web](https://www.youtube.com/watch?v=Mizzbsvv8Os&ab_channel=GoogleChromeDevelopers)
 - [🎥 Understanding and Optimizing Interaction to Next Paint (INP)](https://www.youtube.com/watch?v=BoaORHnJYAE)
-- [🎥 How to Improve Interaction to Next Paint (INP)](https://www.youtube.com/watch?v=XpSUlncKExc&ab_channel=NitroPack)
 
 ## Total Blocking Time
 
