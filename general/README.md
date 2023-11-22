@@ -71,6 +71,7 @@
 - [🎥 When JavaScript Bytes](https://www.youtube.com/watch?v=JvJ0v5OohNg)
 - [🎥 WebBundles – JS Delivery Without the Tradeoffs](https://www.youtube.com/watch?v=ziL_E7WcKLE&ab_channel=LondonWebPerformanceGroup)
 - [🎥 Web performance optimisations for the harsh conditions](https://www.youtube.com/watch?v=4LN78IeB-bY&ab_channel=WeyWeyWeb)
+- [🎥 The Unbearable Weight of Massive JavaScript](https://www.youtube.com/watch?v=f5felHJiACE&ab_channel=WebConferencesAmsterdam)
 
 ## Why matters
 
