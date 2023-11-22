@@ -52,6 +52,7 @@
 - [📝 Low-Hanging Web Performance Fruits: A Cheat Sheet](https://betterprogramming.pub/low-hanging-web-performance-fruits-a-cheat-sheet-3aa1d338b6c1)
 - [📝 Techniques for Optimizing Web Performance](https://performance.shopify.com/pages/techniques-for-optimizing-web-performance)
 - [📝 Learn Performance](https://web.dev/learn/performance)
+- [📝 Task Attribution Semantics](https://blog.yoav.ws/posts/task_attribution_semantics)
 - [🎥 Improving Page Performance in Modern Web Apps](https://www.youtube.com/watch?v=p_8oR9GFRvQ)
 - [🎥 Speed Essentials: Key Techniques for Fast Websites](https://www.youtube.com/watch?v=reztLS3vomE)
 - [🎥 Improving Page Performance in Modern Web Apps](https://vimeo.com/254858694)
