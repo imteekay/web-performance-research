@@ -129,6 +129,7 @@
 - [📝 Avoid large, complex layouts and layout thrashing](https://web.dev/articles/avoid-large-complex-layouts-and-layout-thrashing)
 - [📝 Reduce the scope and complexity of style calculations](https://web.dev/articles/reduce-the-scope-and-complexity-of-style-calculations)
 - [📝 How large DOM sizes affect interactivity, and what you can do about it](https://web.dev/articles/dom-size-and-interactivity)
+- [📝 7 Ways to Minimize Main Thread Work](https://nitropack.io/blog/post/minimize-main-thread-work)
 - [🎥 Breaking Down Long Tasks](https://www.youtube.com/watch?v=2djPW7us9VI&ab_channel=WebConferencesAmsterdam)
 - [🎥 Debugging INP](https://www.youtube.com/watch?v=nQByr5Yyclw&ab_channel=HHWebPerformanceMeetup)
 - [🎥 Digging into Interaction to Next Paint](https://www.youtube.com/watch?v=bDJB-AQDciE)
