@@ -2,7 +2,7 @@
 
 # Community
 
-- [Planet Perfromance Community](https://community.perfplanet.com/)
+- [Planet Perfromance Community](https://community.perfplanet.com)
 - [Web Performance Slack](https://webperformance.slack.com)
 - [Web Performance Working Group](https://www.w3.org/webperf)
 
