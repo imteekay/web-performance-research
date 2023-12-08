@@ -74,16 +74,16 @@
 
 ## Service Workers / Workers
 
-- [📝 Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/GoogleChrome/workbox)
-- [📝 Introduction to Workbox and service workers](https://developer.chrome.com/docs/workbox/service-worker-overview/)
-- [📝 Service worker caching and HTTP caching](https://web.dev/service-worker-caching-and-http-caching)
-- [📝 How Partytown Eliminates Website Bloat From Third-Party Scripts](https://www.smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps)
-- [📝 Setting up Cloudflare Workers for web performance optimisation and testing](https://nooshu.com/blog/2021/03/14/setting-up-cloudflare-workers-for-web-performance-optimisation-and-testing)
-- [📝 Cloudflare Worker recipes for frontend performance testing](https://nooshu.com/blog/2021/03/02/cloudflare-worker-recipes-for-frontend-performance-testing)
-- [📝 Get off the main thread with an inline web worker: an example](https://calendar.perfplanet.com/2022/get-off-the-main-thread-with-an-inline-web-worker-an-example)
-- [📝 Making the Web Faster with Service Workers and Performance Research](https://calendar.perfplanet.com/2022/making-the-web-faster-with-service-workers-and-performance-research)
 - [🎥 Boost Your Site Performance with Partytown](https://www.youtube.com/watch?v=AsZXN8SYoa4&ab_channel=Builder)
 - [🎥 Speed Up Your Site with Workers](https://www.youtube.com/watch?v=yEtT0C4vsRM&ab_channel=Builder)
+- [📝 Cloudflare Worker recipes for frontend performance testing](https://nooshu.com/blog/2021/03/02/cloudflare-worker-recipes-for-frontend-performance-testing)
+- [📝 Get off the main thread with an inline web worker: an example](https://calendar.perfplanet.com/2022/get-off-the-main-thread-with-an-inline-web-worker-an-example)
+- [📝 How Partytown Eliminates Website Bloat From Third-Party Scripts](https://www.smashingmagazine.com/2022/04/partytown-eliminates-website-bloat-third-party-apps)
+- [📝 Introduction to Workbox and service workers](https://developer.chrome.com/docs/workbox/service-worker-overview/)
+- [📝 Making the Web Faster with Service Workers and Performance Research](https://calendar.perfplanet.com/2022/making-the-web-faster-with-service-workers-and-performance-research)
+- [📝 Service worker caching and HTTP caching](https://web.dev/service-worker-caching-and-http-caching)
+- [📝 Setting up Cloudflare Workers for web performance optimisation and testing](https://nooshu.com/blog/2021/03/14/setting-up-cloudflare-workers-for-web-performance-optimisation-and-testing)
+- [📝 Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/GoogleChrome/workbox)
 - [🛠 Partytown](https://partytown.builder.io)
 
 ## Rendering Engines
