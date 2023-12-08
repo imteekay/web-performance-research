@@ -680,6 +680,11 @@
 - [🛠 speedscope](https://github.com/jlfwong/speedscope)
 - [🛠 Treo](https://treo.sh)
 
+## Memory
+
+- [📝 A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management)
+- [📝 Experiments with the JavaScript Garbage Collector](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
+
 - [Performance Budget](performance-budget)
 - [Prefetching](prefetching)
 - [React](react)
