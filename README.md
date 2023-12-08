@@ -701,7 +701,7 @@
 - [📝 User-centric performance metrics](https://web.dev/user-centric-performance-metrics/)
 - [📝 Web Performance Budgets are more than mere thresholds](https://tobias.is/blogging/web-performance-budgets-as-currency/)
 
-## Tools
+## Performance Budget Tools
 
 - [🛠 Browser Calories](https://browserdiet.com/calories)
 - [🛠 Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com)
