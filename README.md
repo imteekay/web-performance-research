@@ -449,7 +449,7 @@
 
 - [Can I use woff2](https://caniuse.com/woff2)
 
-## Tools
+## Fonts Tools
 
 - [🛠 Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
 - [🛠 glyphhanger](https://github.com/zachleat/glyphhanger)
