@@ -44,16 +44,16 @@
 
 ## Measuring
 
-- [📝 Profiling & Optimizing the runtime performance with the DevTools Performance tab](https://www.iamtk.co/profiling-and-optimizing-the-runtime-performance-with-the-devtools-performance-tab)
-- [📝 Measuring React app performance](https://www.debugbear.com/blog/measuring-react-app-performance)
-- [📝 Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js/)
-- [📝 Get Fast, Stay Fast: How To Monitor React Render Performance](https://3perf.com/blog/react-monitoring)
-- [📝 Performance Profiling a Redux App](https://medium.com/@vcarl/performance-profiling-a-redux-app-c85e67bf84ae)
-- [📝 Measuring JS code performance. Part I: using react-benchmark](https://medium.com/@goooseman/measuring-js-code-performance-part-i-using-a-benchmark-f6fd45a5cea)
-- [📝 Measuring JS code performance. Part II: interaction speed](https://medium.com/@goooseman/measuring-js-code-performance-part-ii-interaction-speed-b18cf2201a84)
 - [🎥 How to use the React Profiler to find and fix Performance Problems](https://www.youtube.com/watch?v=00RoZflFE34&ab_channel=BenAwad)
 - [🎥 Profiling React Apps like a Pro](https://www.youtube.com/watch?v=uZn9tVIISeQ)
 - [🎥 React Performance with React Dev Tools](https://www.youtube.com/watch?v=sFvOMc7W7k0&ab_channel=ReactNext)
+- [📝 Get Fast, Stay Fast: How To Monitor React Render Performance](https://3perf.com/blog/react-monitoring)
+- [📝 Measuring JS code performance. Part I: using react-benchmark](https://medium.com/@goooseman/measuring-js-code-performance-part-i-using-a-benchmark-f6fd45a5cea)
+- [📝 Measuring JS code performance. Part II: interaction speed](https://medium.com/@goooseman/measuring-js-code-performance-part-ii-interaction-speed-b18cf2201a84)
+- [📝 Measuring React app performance](https://www.debugbear.com/blog/measuring-react-app-performance)
+- [📝 Performance Profiling a Redux App](https://medium.com/@vcarl/performance-profiling-a-redux-app-c85e67bf84ae)
+- [📝 Profiling & Optimizing the runtime performance with the DevTools Performance tab](https://www.iamtk.co/profiling-and-optimizing-the-runtime-performance-with-the-devtools-performance-tab)
+- [📝 Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js/)
 
 ## Courses
 
