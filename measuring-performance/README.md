@@ -82,10 +82,10 @@
 
 ## Tools
 
-- [🛠 Treo](https://treo.sh)
 - [📝 Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes)
+- [🛠 boomerang](https://github.com/akamai/boomerang)
 - [🛠 perfsee: a set of tool for measuring and debugging performance of frontend applications](https://github.com/perfsee/perfsee)
 - [🛠 speedscope](https://github.com/jlfwong/speedscope)
-- [🛠 boomerang](https://github.com/akamai/boomerang)
+- [🛠 Treo](https://treo.sh)
 
 </samp>
