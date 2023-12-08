@@ -29,10 +29,10 @@
 
 ## Podcasts
 
+- [Catching Up With Web Performance](https://catchingup.dev)
 - [Chasing Waterfalls](https://chasing-waterfalls.simplecast.com)
 - [Planet Performance Podcast](https://podcast.perfplanet.com)
 - [PurePerformance](https://www.spreaker.com/show/pureperformance)
 - [Smashing Podcast](https://podcast.smashingmagazine.com)
-- [Catching Up With Web Performance](https://catchingup.dev)
 
 </samp>
