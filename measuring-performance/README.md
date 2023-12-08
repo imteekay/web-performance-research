@@ -50,8 +50,8 @@
 
 ## Runtime Performance
 
-- [🛠 A collection of performance tools](https://github.com/unlikelyzero/js-perf-toolkit)
 - [🎥 Performance Testing using Playwright](https://www.youtube.com/watch?v=IrK-XDH72bw&ab_channel=NYWebPerformanceMeetup)
+- [🛠 A collection of performance tools](https://github.com/unlikelyzero/js-perf-toolkit)
 
 ## DevTools
 
