@@ -88,12 +88,12 @@
 
 ## Rendering Engines
 
+- [🎥 JavaScript Engines: The Good Parts](https://www.youtube.com/watch?v=5nmpokoRaZI&ab_channel=JSConf)
+- [🎥 Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s)
+- [🎥 Rendering performance inside out](https://www.youtube.com/watch?v=BfMWAIc0xSU&ab_channel=Front-Trends)
 - [📝 RenderingNG: the new rendering engine of chrome](https://developer.chrome.com/articles/renderingng)
 - [📝 The whole web at maximum FPS: How WebRender gets rid of jank](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank)
 - [📝 Why Web Developers Need to Care about Interactivity](https://philipwalton.com/articles/why-web-developers-need-to-care-about-interactivity/)
-- [🎥 Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s)
-- [🎥 Rendering performance inside out](https://www.youtube.com/watch?v=BfMWAIc0xSU&ab_channel=Front-Trends)
-- [🎥 JavaScript Engines: The Good Parts](https://www.youtube.com/watch?v=5nmpokoRaZI&ab_channel=JSConf)
 
 ## Courses
 
