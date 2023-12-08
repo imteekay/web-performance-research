@@ -185,10 +185,6 @@
 
 - [🎥 Love your cache: Optimize for the second load](https://www.youtube.com/watch?v=tprJYFkv4LU&ab_channel=GoogleChromeDevelopers)
 
-- [Books](books)
-- [Browser](browser)
-- [Build tools](build-tools)
-- [Cache & Memoization](cache-and-memoization)
 - [Career](career)
 - [Case Studies](case-studies)
 - [Community](community)
