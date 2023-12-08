@@ -76,10 +76,10 @@
 
 ## Why matters
 
-- [📝 Why Web Performance](https://iamtk.co/why-web-performance)
-- [📝 What Is Site-Speed and Why Should I Care?](https://csswizardry.com/downloads/csswizardry.com-site-speed.pdf)
 - [📝 How to measure the energy consumption of your frontend application](https://greensoftware.foundation/articles/how-to-measure-the-energy-consumption-of-your-frontend-application)
 - [📝 Relating site speed and business metrics](https://web.dev/site-speed-and-business-metrics)
+- [📝 What Is Site-Speed and Why Should I Care?](https://csswizardry.com/downloads/csswizardry.com-site-speed.pdf)
+- [📝 Why Web Performance](https://iamtk.co/why-web-performance)
 
 ## Courses
 
