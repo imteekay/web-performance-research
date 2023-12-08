@@ -707,7 +707,6 @@
 - [🛠 Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com)
 - [🛠 Performance Budget Calculator](https://www.performancebudget.io)
 
-- [Performance Budget](performance-budget)
 - [Prefetching](prefetching)
 - [React](react)
 - [Sustainability](sustainability)
