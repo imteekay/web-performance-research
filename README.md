@@ -544,7 +544,6 @@
 - [Web Performance Masterclass](https://smashingconf.com/online-workshops/workshops/web-performance-harry-roberts)
 
 - [Images](images)
-- [Images](images)
 - [Infrastructure](infrastructure)
 - [JavaScript](javascript)
 - [Measuring Performance](measuring-performance)
