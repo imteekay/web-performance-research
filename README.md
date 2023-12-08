@@ -445,7 +445,17 @@
 - [📝 The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance)
 - [📝 Why We're Breaking Up with CSS-in-JS](https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b)
 
-- [Fonts](fonts)
+## Fonts
+
+- [Can I use woff2](https://caniuse.com/woff2)
+
+## Tools
+
+- [🛠 Font Squirrel](https://www.fontsquirrel.com/tools/webfont-generator)
+- [🛠 glyphhanger](https://github.com/zachleat/glyphhanger)
+- [🛠 Google Fonts](https://fonts.google.com)
+- [🛠 Variable Fonts](https://v-fonts.com)
+
 - [General ideas on web performance](general)
 - [Images](images)
 - [Images](images)
