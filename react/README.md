@@ -25,22 +25,22 @@
 
 ## Rendering Architecture: Fiber / Signal
 
-- [📝 Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://indepth.dev/posts/1008/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react)
-- [📝 In-depth explanation of state and props update in React](https://indepth.dev/posts/1009/in-depth-explanation-of-state-and-props-update-in-react)
-- [📝 Should you optimize every re-render?](https://imkev.dev/optimizing-rerenders)
-- [📝 Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders)
-- [📝 React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
-- [📝 React Performance: How to avoid redundant re-renders](https://itnext.io/react-performance-how-to-avoid-redundant-re-renders-6a33618d92a3)
-- [📝 React Rendering Order](https://imkev.dev/react-rendering-order)
-- [📝 Learning the React reconciliation algorithm with performance measures](https://imkev.dev/react-reconciliation-performance-measures)
-- [📝 Signal Boosting](https://preactjs.com/blog/signal-boosting)
-- [📝 Server and Client Components](https://beta.nextjs.org/docs/rendering/server-and-client-components)
-- [📝 The future of rendering in React](https://prateeksurana.me/blog/future-of-rendering-in-react)
+- [🎥 A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
+- [🎥 Data Fetching with React Server Components](https://www.youtube.com/watch?v=TQQPAU21ZUw&ab_channel=MetaOpenSource)
+- [🎥 Deep diving on Concurrent React](https://www.youtube.com/watch?v=js7E1VKqIng&ab_channel=ReactIndia)
 - [🎥 Inside Fiber: the in-depth overview you wanted](https://www.youtube.com/watch?v=jMZBhHzD3H8&ab_channel=ReactNext)
 - [🎥 React Fiber Deep Dive](https://www.youtube.com/watch?v=aS41Y_eyNrU)
-- [🎥 A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
-- [🎥 Deep diving on Concurrent React](https://www.youtube.com/watch?v=js7E1VKqIng&ab_channel=ReactIndia)
-- [🎥 Data Fetching with React Server Components](https://www.youtube.com/watch?v=TQQPAU21ZUw&ab_channel=MetaOpenSource)
+- [📝 In-depth explanation of state and props update in React](https://indepth.dev/posts/1009/in-depth-explanation-of-state-and-props-update-in-react)
+- [📝 Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://indepth.dev/posts/1008/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react)
+- [📝 Learning the React reconciliation algorithm with performance measures](https://imkev.dev/react-reconciliation-performance-measures)
+- [📝 React Performance: How to avoid redundant re-renders](https://itnext.io/react-performance-how-to-avoid-redundant-re-renders-6a33618d92a3)
+- [📝 React re-renders guide: everything, all at once](https://www.developerway.com/posts/react-re-renders-guide)
+- [📝 React Rendering Order](https://imkev.dev/react-rendering-order)
+- [📝 Server and Client Components](https://beta.nextjs.org/docs/rendering/server-and-client-components)
+- [📝 Should you optimize every re-render?](https://imkev.dev/optimizing-rerenders)
+- [📝 Signal Boosting](https://preactjs.com/blog/signal-boosting)
+- [📝 The future of rendering in React](https://prateeksurana.me/blog/future-of-rendering-in-react)
+- [📝 Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders)
 
 ## Measuring
 
