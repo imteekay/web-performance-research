@@ -252,7 +252,6 @@
 - [📝 Web performance case study: Wikipedia page previews](https://techblog.wikimedia.org/2020/11/23/web-performance-case-study-wikipedia-page-previews)
 - [📝 Zillow: Bigger, Faster, and More Engaging while on a Budget](https://www.zillow.com/tech/bigger-faster-more-engaging-budget/)
 
-- [Case Studies](case-studies)
 - [Community](community)
 - [Core Web Vitals](core-web-vitals)
 - [CSS](css)
