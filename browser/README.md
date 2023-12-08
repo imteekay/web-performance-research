@@ -97,11 +97,11 @@
 
 ## Courses
 
-- [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
-- [Setting up DevTools for Performance Testing](https://csswizardry.gumroad.com/l/perfect-devtools)
-- [Modern DevTools](https://moderndevtools.com)
 - [Browser Rendering Optimization](https://classroom.udacity.com/courses/ud860)
-- [Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
 - [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
+- [Modern DevTools](https://moderndevtools.com)
+- [Setting up DevTools for Performance Testing](https://csswizardry.gumroad.com/l/perfect-devtools)
+- [Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
+- [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 
 </samp>
