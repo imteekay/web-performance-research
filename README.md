@@ -781,7 +781,13 @@
 - [🇧🇷 React: otimizando a performance](https://www.alura.com.br/curso-online-react-otimizando-performance)
 - [The React Performance Masterclass](https://smashingconf.com/online-workshops/workshops/react-performance-ivan-akulov)
 
-- [Sustainability](sustainability)
+## Sustainability
+
+- [📝 Core Web Vitals meets sustainability](https://ecoping.earth/blog/core-web-vitals-and-sustainability)
+- [📝 How Improving Website Performance Can Help Save The Planet](https://www.smashingmagazine.com/2019/01/save-planet-improving-website-performance)
+- [📝 Web Performance + Ecological Impact](https://bullhorncreative.com/blog/web-performance-ecological-impact)
+- [📝 Website performance and the planet](https://blog.webpagetest.org/posts/website-performance-and-the-planet)
+
 - [Tweets](tweets)
 - [UX](ux)
 - [Web APIs](web-apis)
