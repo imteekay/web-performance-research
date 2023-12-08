@@ -672,7 +672,7 @@
 - [🛠 Tachometer](https://github.com/Polymer/tachometer)
 - [🛠 tinybench](https://github.com/tinylibs/tinybench)
 
-## Tools
+## Measure Tools
 
 - [📝 Web Performance Recipes With Puppeteer](https://addyosmani.com/blog/puppeteer-recipes)
 - [🛠 boomerang](https://github.com/akamai/boomerang)
