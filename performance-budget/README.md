@@ -18,8 +18,8 @@
 
 ## Tools
 
-- [🛠 Performance Budget Calculator](https://www.performancebudget.io)
-- [🛠 Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com)
 - [🛠 Browser Calories](https://browserdiet.com/calories)
+- [🛠 Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com)
+- [🛠 Performance Budget Calculator](https://www.performancebudget.io)
 
 </samp>
