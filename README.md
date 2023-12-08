@@ -181,6 +181,10 @@
 - [:octocat: Webpack Libs Optimizations](https://github.com/GoogleChromeLabs/webpack-libs-optimizations)
 - [:octocat: Awesome Webpack Perf](https://github.com/iamakulov/awesome-webpack-perf)
 
+## Cache & Memoization
+
+- [🎥 Love your cache: Optimize for the second load](https://www.youtube.com/watch?v=tprJYFkv4LU&ab_channel=GoogleChromeDevelopers)
+
 - [Books](books)
 - [Browser](browser)
 - [Build tools](build-tools)
