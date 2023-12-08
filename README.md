@@ -543,7 +543,6 @@
 - [🇧🇷 Performance Web II: Critical Path, HTTP/2 e Resource Hints](https://www.alura.com.br/curso-online-performance-http2-critical-path)
 - [Web Performance Masterclass](https://smashingconf.com/online-workshops/workshops/web-performance-harry-roberts)
 
-- [General ideas on web performance](general)
 - [Images](images)
 - [Images](images)
 - [Infrastructure](infrastructure)
