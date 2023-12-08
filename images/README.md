@@ -25,11 +25,11 @@
 
 ## Tools
 
-- [🛠 Optimage](https://optimage.app)
-- [🛠 ImageOptim](https://imageoptim.com)
-- [🛠 WebPonize](https://webponize.org)
-- [🛠 squoosh](https://squoosh.app)
 - [🛠 Cloudinary](https://cloudinary.com)
 - [🛠 Compress-Or-Die](https://compress-or-die.com/)
+- [🛠 ImageOptim](https://imageoptim.com)
+- [🛠 Optimage](https://optimage.app)
+- [🛠 squoosh](https://squoosh.app)
+- [🛠 WebPonize](https://webponize.org)
 
 </samp>
