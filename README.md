@@ -252,7 +252,41 @@
 - [📝 Web performance case study: Wikipedia page previews](https://techblog.wikimedia.org/2020/11/23/web-performance-case-study-wikipedia-page-previews)
 - [📝 Zillow: Bigger, Faster, and More Engaging while on a Budget](https://www.zillow.com/tech/bigger-faster-more-engaging-budget/)
 
-- [Community](community)
+## Community
+
+- [Planet Perfromance Community](https://community.perfplanet.com)
+- [Web Performance Slack](https://webperformance.slack.com)
+- [Web Performance Working Group](https://www.w3.org/webperf)
+
+## Conferences & Meetups
+
+- [Conffab - Performance](https://conffab.com/topic/performance)
+- [New York Web Performance Group](https://www.meetup.com/Web-Performance-NY)
+- [Perf Now Conf](https://perfnow.nl)
+
+## Blogs
+
+- [TK](https://www.iamtk.co)
+- [Harry Roberts](https://csswizardry.com)
+- [Alex Russell](https://infrequently.org)
+- [Smashing Magazine - Performance](https://www.smashingmagazine.com/category/performance)
+- [Fershad Irani](https://fershad.com/writing/all)
+- [Modern DevTools](https://moderndevtools.com)
+- [Eugenia Zigisova](https://imeugenia.medium.com)
+- [Ivan Akulov](https://iamakulov.com)
+- [Perf perf perf](https://3perf.com)
+- [Barry Pollard](https://www.tunetheweb.com/blog)
+- [Simon Hearne](https://simonhearne.com)
+- [Medhat Dawoud](https://medhatdawoud.net)
+
+## Podcasts
+
+- [Catching Up With Web Performance](https://catchingup.dev)
+- [Chasing Waterfalls](https://chasing-waterfalls.simplecast.com)
+- [Planet Performance Podcast](https://podcast.perfplanet.com)
+- [PurePerformance](https://www.spreaker.com/show/pureperformance)
+- [Smashing Podcast](https://podcast.smashingmagazine.com)
+
 - [Core Web Vitals](core-web-vitals)
 - [CSS](css)
 - [Fonts](fonts)
