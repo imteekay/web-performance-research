@@ -55,15 +55,15 @@
 
 ## DevTools
 
-- [📝 CPU Flame Graphs](https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
-- [📝 Network Throttling in Chrome DevTools](https://www.debugbear.com/blog/chrome-devtools-network-throttling)
 - [🎥 Chrome DevTools: Performance Tab](https://www.youtube.com/watch?v=LGT4Qe7v0So)
+- [🎥 Exploring the Frontend Performance of the National Rail Website with Chrome DevTools](https://www.youtube.com/watch?v=WRwxOonOYK0&ab_channel=UmarHansa)
 - [🎥 Improving page performance with Chrome DevTools](https://www.youtube.com/watch?v=yRrrL0Mg1pM&ab_channel=UmarHansa)
 - [🎥 Making images lazy load with Chrome DevTools](https://www.youtube.com/watch?v=D_M7LvDvlSg&ab_channel=UmarHansa)
-- [🎥 Exploring the Frontend Performance of the National Rail Website with Chrome DevTools](https://www.youtube.com/watch?v=WRwxOonOYK0&ab_channel=UmarHansa)
+- [🎥 Memory Management Masterclass](https://www.youtube.com/watch?v=LaxbdIyBkL0&ab_channel=GoogleDevelopers)
 - [🎥 Running a performance profile on the YouTube search box](https://www.youtube.com/watch?v=E4KAWf_fKbM&ab_channel=UmarHansa)
 - [🎥 Understanding Paint Performance with Chrome DevTools](https://www.youtube.com/watch?v=8-pkB2vGUKk&ab_channel=UmarHansa)
-- [🎥 Memory Management Masterclass](https://www.youtube.com/watch?v=LaxbdIyBkL0&ab_channel=GoogleDevelopers)
+- [📝 CPU Flame Graphs](https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
+- [📝 Network Throttling in Chrome DevTools](https://www.debugbear.com/blog/chrome-devtools-network-throttling)
 
 ## How to metric
 
