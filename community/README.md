@@ -9,8 +9,8 @@
 ## Conferences & Meetups
 
 - [Conffab - Performance](https://conffab.com/topic/performance)
-- [Perf Now Conf](https://perfnow.nl)
 - [New York Web Performance Group](https://www.meetup.com/Web-Performance-NY)
+- [Perf Now Conf](https://perfnow.nl)
 
 ## Blogs
 
