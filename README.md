@@ -38,7 +38,10 @@
 - [📝 what is partial hydration and why is everyone talking about it?](https://ajcwebdev.com/what-is-partial-hydration-and-why-is-everyone-talking-about-it)
 - [📝 Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
 
-- [Backend](backend)
+## Backend
+
+- [📝 Everything You Know About Latency Is Wrong](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong)
+
 - [Books](books)
 - [Browser](browser)
 - [Build tools](build-tools)
