@@ -193,7 +193,6 @@
 - [Web Performance Engineer (w/m/d) - Remote or Hamburg at Bagend](<jobs/baqend-web-performance-engineer-(w_m_d)-Remote-or-Hamburg.pdf>)
 - [Software Engineer (L4) - UI Rendering & Performance at Netflix](<jobs/netflix-software-engineer-(L4)-UI-Rendering-&-Performance.pdf>)
 
-- [Career](career)
 - [Case Studies](case-studies)
 - [Community](community)
 - [Core Web Vitals](core-web-vitals)
