@@ -849,7 +849,12 @@
 - [📝 Towards an animation smoothness metric](https://web.dev/smoothness)
 - [📝 True Lies Of Optimistic User Interfaces](https://www.smashingmagazine.com/2016/11/true-lies-of-optimistic-user-interfaces)
 
-- [Web APIs](web-apis)
+## Web APIs
+
+- [📝 Every Transition is a Page Transition?](https://www.oddbird.net/2022/06/29/shared-elements)
+- [📝 Speed Up Resource Loading with Priority Hints and fetchpriority](https://nitropack.io/blog/post/priority-hints)
+- [📝 Tracking CPU with Long Tasks API](https://calendar.perfplanet.com/2017/tracking-cpu-with-long-tasks-api)
+- [📝 Web Performance APIs Appreciation Post](https://calendar.perfplanet.com/2022/web-performance-apis-appreciation-post)
 
 ## License
 
