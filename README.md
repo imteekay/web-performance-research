@@ -610,6 +610,7 @@
 - [📝 A step by step guide to monitoring the competition with the Chrome UX Report](https://dev.to/chromiumdev/a-step-by-step-guide-to-monitoring-the-competition-with-the-chrome-ux-report-4k1o)
 - [📝 An Introduction to the RUM Archive](https://calendar.perfplanet.com/2022/an-introduction-to-the-rum-archive)
 - [📝 Analyze runtime performance](https://developer.chrome.com/docs/devtools/evaluate-performance)
+- [📝 Benchmarking, Profiling, and Optimizing JavaScript libraries](https://calendar.perfplanet.com/2023/benchmarking-profiling-and-optimizing-javascript-libraries)
 - [📝 Complete guide to understand and measure the performance of your website](https://bejamas.io/blog/guide-to-web-performance)
 - [📝 Core Web Vitals Dashboard On Google Analytics](https://calendar.perfplanet.com/2021/core-web-vitals-dashboard-on-google-analytics)
 - [📝 Creating Airbnb’s Page Performance Score](https://medium.com/airbnb-engineering/creating-airbnbs-page-performance-score-5f664be0936)
