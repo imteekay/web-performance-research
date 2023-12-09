@@ -424,6 +424,7 @@
 - [📝 Optimize long tasks](https://web.dev/articles/optimize-long-tasks)
 - [📝 Reduce the scope and complexity of style calculations](https://web.dev/articles/reduce-the-scope-and-complexity-of-style-calculations)
 - [📝 Script evaluation and long tasks](https://web.dev/articles/script-evaluation-and-long-tasks)
+- [📝 Sluggish CATs: Category Pages Have the Worst Responsiveness (INP) on e-Commerce Sites](https://calendar.perfplanet.com/2023/sluggish-category-pages-worst-inp-ecommerce)
 - [📝 The Fight For The Main Thread](https://www.smashingmagazine.com/2023/10/speedcurve-fight-main-thread)
 - [📝 Use web workers to run JavaScript off the browser's main thread](https://web.dev/articles/off-main-thread)
 
