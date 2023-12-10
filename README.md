@@ -155,18 +155,6 @@
 - [📝 The whole web at maximum FPS: How WebRender gets rid of jank](https://hacks.mozilla.org/2017/10/the-whole-web-at-maximum-fps-how-webrender-gets-rid-of-jank)
 - [📝 Why Web Developers Need to Care about Interactivity](https://philipwalton.com/articles/why-web-developers-need-to-care-about-interactivity/)
 
-## Courses
-
-- [🇧🇷 Performance Web I: otimizando o front-end](https://www.alura.com.br/curso-online-otimizacao-performance-web)
-- [🇧🇷 Performance Web II: Critical Path, HTTP/2 e Resource Hints](https://www.alura.com.br/curso-online-performance-http2-critical-path)
-- [Browser Rendering Optimization](https://classroom.udacity.com/courses/ud860)
-- [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
-- [Modern DevTools](https://moderndevtools.com)
-- [Setting up DevTools for Performance Testing](https://csswizardry.gumroad.com/l/perfect-devtools)
-- [Web Performance Masterclass](https://smashingconf.com/online-workshops/workshops/web-performance-harry-roberts)
-- [Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
-- [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
-
 ## Build tools
 
 - [📝 Webpack Tree Shaking](https://webpack.js.org/guides/tree-shaking/#clarifying-tree-shaking-and-sideeffects)
@@ -281,6 +269,18 @@
 - [Barry Pollard](https://www.tunetheweb.com/blog)
 - [Simon Hearne](https://simonhearne.com)
 - [Medhat Dawoud](https://medhatdawoud.net)
+
+### Courses
+
+- [🇧🇷 Performance Web I: otimizando o front-end](https://www.alura.com.br/curso-online-otimizacao-performance-web)
+- [🇧🇷 Performance Web II: Critical Path, HTTP/2 e Resource Hints](https://www.alura.com.br/curso-online-performance-http2-critical-path)
+- [Browser Rendering Optimization](https://classroom.udacity.com/courses/ud860)
+- [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
+- [Modern DevTools](https://moderndevtools.com)
+- [Setting up DevTools for Performance Testing](https://csswizardry.gumroad.com/l/perfect-devtools)
+- [Web Performance Masterclass](https://smashingconf.com/online-workshops/workshops/web-performance-harry-roberts)
+- [Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
+- [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 
 ### Podcasts
 
