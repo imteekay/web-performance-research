@@ -2,6 +2,8 @@
 
 # Web Performance Research
 
+This repository is a compilation of resources I consumed over time to gain knowledge and do my own research on web performance.
+
 ## Table of Contents
 
 - [Architecture](#architecture)
