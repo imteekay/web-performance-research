@@ -665,7 +665,7 @@
 - [📝 Synthetic vs. real user monitoring](https://support.speedcurve.com/docs/synthetic-vs-real-user-monitoring-rum)
 - [📝 What is Real User Monitoring? RUM explained](https://raygun.com/learn/what-is-real-user-monitoring)
 
-## Benchmark
+### Benchmark
 
 - [🛠 Adventures in Microbenchmarking](https://tomdale.net/2017/07/adventures-in-microbenchmarking)
 - [🛠 react-benchmark](https://github.com/Rowno/react-benchmark)
