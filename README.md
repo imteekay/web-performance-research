@@ -157,10 +157,13 @@
 
 ## Courses
 
+- [🇧🇷 Performance Web I: otimizando o front-end](https://www.alura.com.br/curso-online-otimizacao-performance-web)
+- [🇧🇷 Performance Web II: Critical Path, HTTP/2 e Resource Hints](https://www.alura.com.br/curso-online-performance-http2-critical-path)
 - [Browser Rendering Optimization](https://classroom.udacity.com/courses/ud860)
 - [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
 - [Modern DevTools](https://moderndevtools.com)
 - [Setting up DevTools for Performance Testing](https://csswizardry.gumroad.com/l/perfect-devtools)
+- [Web Performance Masterclass](https://smashingconf.com/online-workshops/workshops/web-performance-harry-roberts)
 - [Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
 
@@ -537,12 +540,6 @@
 - [📝 Relating site speed and business metrics](https://web.dev/site-speed-and-business-metrics)
 - [📝 What Is Site-Speed and Why Should I Care?](https://csswizardry.com/downloads/csswizardry.com-site-speed.pdf)
 - [📝 Why Web Performance](https://iamtk.co/why-web-performance)
-
-## Courses
-
-- [🇧🇷 Performance Web I: otimizando o front-end](https://www.alura.com.br/curso-online-otimizacao-performance-web)
-- [🇧🇷 Performance Web II: Critical Path, HTTP/2 e Resource Hints](https://www.alura.com.br/curso-online-performance-http2-critical-path)
-- [Web Performance Masterclass](https://smashingconf.com/online-workshops/workshops/web-performance-harry-roberts)
 
 ## Images
 
