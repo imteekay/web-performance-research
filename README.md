@@ -641,6 +641,7 @@
 - [📝 Visualize your resources with a free treemap tool](https://calendar.perfplanet.com/2022/visualize-your-resources-with-a-free-treemap-tool)
 - [📝 Web Performance Calendar meets RUM](https://calendar.perfplanet.com/2022/web-performance-calendar-meets-rum)
 - [📝 Why is CrUX data different from my RUM data?](https://web.dev/crux-and-rum-differences)
+- [📝 Wikipedia’s Worldwide Web: CPU benchmark](https://calendar.perfplanet.com/2023/wikipedias-worldwide-web-cpu-benchmark)
 
 ## Runtime Performance
 
