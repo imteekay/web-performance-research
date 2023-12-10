@@ -132,7 +132,7 @@
 - [📝 When should you be using Web Workers?](https://surma.dev/things/when-workers)
 - [📝 wilsonpage/fastdom](https://github.com/wilsonpage/fastdom)
 
-## Service Workers / Workers
+### Service Workers / Workers
 
 - [🎥 Boost Your Site Performance with Partytown](https://www.youtube.com/watch?v=AsZXN8SYoa4&ab_channel=Builder)
 - [🎥 Speed Up Your Site with Workers](https://www.youtube.com/watch?v=yEtT0C4vsRM&ab_channel=Builder)
@@ -146,7 +146,7 @@
 - [📝 Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/GoogleChrome/workbox)
 - [🛠 Partytown](https://partytown.builder.io)
 
-## Rendering Engines
+### Rendering Engines
 
 - [🎥 JavaScript Engines: The Good Parts](https://www.youtube.com/watch?v=5nmpokoRaZI&ab_channel=JSConf)
 - [🎥 Life of a Pixel](https://www.youtube.com/watch?v=K2QHdgAKP-s)
