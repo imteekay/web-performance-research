@@ -348,7 +348,7 @@
 - [📝 What goes into making a new Web Vital metric](https://calendar.perfplanet.com/2022/making-a-new-web-vital-metric)
 - [📝 Why lab and field data can be different (and what to do about it)](https://web.dev/lab-and-field-data-differences)
 
-## Cumulative Layout Shift (CLS)
+### Cumulative Layout Shift (CLS)
 
 - [🎥 Understanding Cumulative Layout Shift](https://www.youtube.com/watch?v=zIJuY-JCjqw)
 - [📝 CLS at BuzzFeed — Part 1: Raising The Floor](https://tech.buzzfeed.com/improving-cumulative-layout-shift-at-buzzfeed-part-1-8b7ead2381dd)
@@ -372,7 +372,7 @@
 - [📝 Prevent unwanted Layout Shifts caused by Scrollbars with the scrollbar-gutter CSS property](https://www.bram.us/2021/07/23/pevent-unwanted-layout-shifts-caused-by-scrollbars-with-the-scrollbar-gutter-css-property/)
 - [📝 The Almost-Complete Guide to Cumulative Layout Shift](https://jessbpeck.com/posts/completecls/)
 
-## Largest Contentful Paint (LCP)
+### Largest Contentful Paint (LCP)
 
 - [🎥 How to Fix Largest Contentful Paint](https://www.youtube.com/watch?v=3LVI8-4FrTg&ab_channel=NitroPack)
 - [🎥 How to improve Largest Contentful Paint for a better page experience](https://www.youtube.com/watch?v=480m72yjZv8)
@@ -392,13 +392,13 @@
 - [📝 Understanding How Browsers Identify the LCP Element](https://murshidmuzamil.com/blog/understanding-lcp-browsers)
 - [📝 What can the HTTP Archive tell us about Largest Contentful Paint?](https://paulcalvano.com/2021-06-07-lcp-httparchive)
 
-## First Input Delay (FID)
+### First Input Delay (FID)
 
 - [📝 First Input Delay (FID)](https://web.dev/fid)
 - [📝 Idle Until Urgent](https://philipwalton.com/articles/idle-until-urgent/)
 - [📝 Improving responsiveness in text inputs](https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/)
 
-## Interaction to Next Paint (INP)
+### Interaction to Next Paint (INP)
 
 - [🎥 Breaking Down Long Tasks](https://www.youtube.com/watch?v=2djPW7us9VI&ab_channel=WebConferencesAmsterdam)
 - [🎥 Debugging INP](https://www.youtube.com/watch?v=nQByr5Yyclw&ab_channel=HHWebPerformanceMeetup)
@@ -428,7 +428,7 @@
 - [📝 The Fight For The Main Thread](https://www.smashingmagazine.com/2023/10/speedcurve-fight-main-thread)
 - [📝 Use web workers to run JavaScript off the browser's main thread](https://web.dev/articles/off-main-thread)
 
-## Total Blocking Time
+### Total Blocking Time
 
 - [📝 Total Blocking Time: A Short and Sweet Guide for Happier Users](https://calibreapp.com/blog/total-blocking-time)
 
