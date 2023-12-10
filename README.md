@@ -2,6 +2,54 @@
 
 # Web Performance Research
 
+- [Architecture](#architecture)
+- [Backend](#backend)
+- [Browser](#browser)
+  - [Service Workers / WorkersService Workers / Workers](#service-workers--workers)
+  - [Rendering Engines](#rendering-engines)
+- [Build tools](#build-tools)
+- [Cache & Memoization](#cache--memoization)
+- [Career](#career)
+- [Case Studies](#case-studies)
+- [Community](#community)
+  - [Books](#books)
+  - [Blogs](#blogs)
+  - [Conferences & Meetups](#conferences--meetups)
+- [Core Web Vitals](#core-web-vitals)
+  - [Cumulative Layout Shift (CLS)](#cumulative-layout-shift-cls)
+  - [Largest Contentful Paint (LCP)](#cumulative-layout-shift-cls)
+  - [First Input Delay (FID)](#first-input-delay-fid)
+  - [Interaction to Next Paint (INP)](#interaction-to-next-paint-inp)
+  - [Total Blocking Time](#total-blocking-time)
+- [CSS](#css)
+- [Fonts](#fonts)
+  - [Fonts Tools](#fonts-tools)
+- [General](#general)
+  - [Why it matters](#why-matters)
+- [Images](#images)
+  - [Images Tools](#images-tools)
+- [Infrastructure](#infrastructure)
+- [JavaScript](#javascript)
+- [Measuring Performance](#measuring-performance)
+  - [Runtime Performance](#runtime-performance)
+  - [DevTools](#devtools)
+  - [How to metric](#how-to-metric)
+  - [Benchmark](#benchmark)
+  - [Measure Tools](#measure-tools)
+  - [Memory Management](#memory-management)
+- [Performance Budget](#performance-budget)
+  - [Performance Budget Tools](#performance-budget-tools)
+- [Prefetching](#prefetching)
+  - [Prefetching Tools](#prefetching-tools)
+- [Web Frameworks](#web-frameworks)
+  - [React](#react)
+  - [Rendering Architecture: Fiber / Signal](#rendering-architecture-fiber--signal)
+  - [Measuring React](#measuring-react)
+- [Sustainability](#sustainability)
+- [Tweets](#tweets)
+- [UX](#ux)
+- [Web APIs](#web-apis)
+
 ## Architecture
 
 - [🎥 Advanced Rendering Patterns](https://www.youtube.com/watch?v=PN1HgvAOmi8&ab_channel=RealWorldReact)
@@ -536,7 +584,7 @@
 - [📝 Why Performance Matters?](https://medhatdawoud.net/blog/why-performance-matters)
 - [📝 Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions)
 
-### Why matters
+### Why it matters
 
 - [📝 How to measure the energy consumption of your frontend application](https://greensoftware.foundation/articles/how-to-measure-the-energy-consumption-of-your-frontend-application)
 - [📝 Relating site speed and business metrics](https://web.dev/site-speed-and-business-metrics)
@@ -723,7 +771,9 @@
 
 - [🛠 Faster subsequent page-loads by prefetching in-viewport links during idle time](https://github.com/GoogleChromeLabs/quicklink)
 
-## React
+## Web Frameworks
+
+### React
 
 - [🎥 DOM as a Second-class Citizen](https://www.youtube.com/watch?v=Zemce4Y1Y-A)
 - [🎥 React 18 Concurrency, Explained](https://www.youtube.com/watch?v=i-_6wyohduo&ab_channel=SmashingMagazine)
