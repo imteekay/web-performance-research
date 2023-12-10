@@ -2,6 +2,8 @@
 
 # Web Performance Research
 
+## Table of Contents
+
 - [Architecture](#architecture)
 - [Backend](#backend)
 - [Browser](#browser)
