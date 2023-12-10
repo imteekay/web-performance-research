@@ -763,7 +763,7 @@
 - [📝 The future of rendering in React](https://prateeksurana.me/blog/future-of-rendering-in-react)
 - [📝 Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders)
 
-## Measuring
+### Measuring React
 
 - [🎥 How to use the React Profiler to find and fix Performance Problems](https://www.youtube.com/watch?v=00RoZflFE34&ab_channel=BenAwad)
 - [🎥 Profiling React Apps like a Pro](https://www.youtube.com/watch?v=uZn9tVIISeQ)
