@@ -231,12 +231,6 @@
 - [Web Performance Slack](https://webperformance.slack.com)
 - [Web Performance Working Group](https://www.w3.org/webperf)
 
-### Conferences & Meetups
-
-- [Conffab - Performance](https://conffab.com/topic/performance)
-- [New York Web Performance Group](https://www.meetup.com/Web-Performance-NY)
-- [Perf Now Conf](https://perfnow.nl)
-
 ### Books
 
 - [📚 Hands-On JavaScript High Performance](https://www.amazon.com.br/Hands-JavaScript-High-Performance-WebAssembly-ebook/dp/B082T14XFZ)
@@ -269,6 +263,12 @@
 - [Barry Pollard](https://www.tunetheweb.com/blog)
 - [Simon Hearne](https://simonhearne.com)
 - [Medhat Dawoud](https://medhatdawoud.net)
+
+### Conferences & Meetups
+
+- [Conffab - Performance](https://conffab.com/topic/performance)
+- [New York Web Performance Group](https://www.meetup.com/Web-Performance-NY)
+- [Perf Now Conf](https://perfnow.nl)
 
 ### Courses
 
