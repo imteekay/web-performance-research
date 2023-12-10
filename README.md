@@ -717,7 +717,7 @@
 - [📝 Webpack Prefetching/Preloading modules](https://webpack.js.org/guides/code-splitting/#prefetchingpreloading-modules)
 - [🛠 preload-webpack-plugin](https://github.com/GoogleChromeLabs/preload-webpack-plugin)
 
-## Prefetching Tools
+### Prefetching Tools
 
 - [🛠 Faster subsequent page-loads by prefetching in-viewport links during idle time](https://github.com/GoogleChromeLabs/quicklink)
 
