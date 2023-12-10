@@ -685,7 +685,7 @@
 - [📝 A crash course in memory management](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management)
 - [📝 Experiments with the JavaScript Garbage Collector](https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3)
 
-### Performance Budget
+## Performance Budget
 
 - [🎥 Core Web Vitals - Measure what matters](https://www.youtube.com/watch?v=wGT9s6NW6hg&ab_channel=GoogleChromeDevelopers)
 - [🎥 The Cost Of JavaScript](https://www.youtube.com/watch?v=63I-mEuSvGA)
@@ -701,7 +701,7 @@
 - [📝 User-centric performance metrics](https://web.dev/user-centric-performance-metrics/)
 - [📝 Web Performance Budgets are more than mere thresholds](https://tobias.is/blogging/web-performance-budgets-as-currency/)
 
-## Performance Budget Tools
+### Performance Budget Tools
 
 - [🛠 Browser Calories](https://browserdiet.com/calories)
 - [🛠 Performance Budget Calculator](https://perf-budget-calculator.firebaseapp.com)
