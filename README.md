@@ -274,10 +274,12 @@
 
 - [🇧🇷 Performance Web I: otimizando o front-end](https://www.alura.com.br/curso-online-otimizacao-performance-web)
 - [🇧🇷 Performance Web II: Critical Path, HTTP/2 e Resource Hints](https://www.alura.com.br/curso-online-performance-http2-critical-path)
+- [🇧🇷 React: otimizando a performance](https://www.alura.com.br/curso-online-react-otimizando-performance)
 - [Browser Rendering Optimization](https://classroom.udacity.com/courses/ud860)
 - [JavaScript and the DOM](https://classroom.udacity.com/courses/ud117)
 - [Modern DevTools](https://moderndevtools.com)
 - [Setting up DevTools for Performance Testing](https://csswizardry.gumroad.com/l/perfect-devtools)
+- [The React Performance Masterclass](https://smashingconf.com/online-workshops/workshops/react-performance-ivan-akulov)
 - [Web Performance Masterclass](https://smashingconf.com/online-workshops/workshops/web-performance-harry-roberts)
 - [Website Performance Optimization](https://classroom.udacity.com/courses/ud884)
 - [Website Performance Optimization](https://www.udacity.com/course/website-performance-optimization--ud884)
@@ -775,11 +777,6 @@
 - [📝 Performance Profiling a Redux App](https://medium.com/@vcarl/performance-profiling-a-redux-app-c85e67bf84ae)
 - [📝 Profiling & Optimizing the runtime performance with the DevTools Performance tab](https://www.iamtk.co/profiling-and-optimizing-the-runtime-performance-with-the-devtools-performance-tab)
 - [📝 Profiling React.js Performance](https://addyosmani.com/blog/profiling-react-js/)
-
-## Courses
-
-- [🇧🇷 React: otimizando a performance](https://www.alura.com.br/curso-online-react-otimizando-performance)
-- [The React Performance Masterclass](https://smashingconf.com/online-workshops/workshops/react-performance-ivan-akulov)
 
 ## Sustainability
 
