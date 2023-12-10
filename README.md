@@ -564,7 +564,7 @@
 - [📝 Responsive Images Done Right: A Guide To <picture> And srcset](https://www.smashingmagazine.com/2014/05/responsive-images-done-right-guide-picture-srcset/)
 - [📝 The Ultimate Guide to Image Optimisation](https://calibreapp.com/blog/image-optimisation-guide)
 
-## Images Tools
+### Images Tools
 
 - [🛠 Cloudinary](https://cloudinary.com)
 - [🛠 Compress-Or-Die](https://compress-or-die.com/)
