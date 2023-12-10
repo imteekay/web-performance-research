@@ -645,7 +645,7 @@
 - [🎥 Performance Testing using Playwright](https://www.youtube.com/watch?v=IrK-XDH72bw&ab_channel=NYWebPerformanceMeetup)
 - [🛠 A collection of performance tools](https://github.com/unlikelyzero/js-perf-toolkit)
 
-## DevTools
+### DevTools
 
 - [🎥 Chrome DevTools: Performance Tab](https://www.youtube.com/watch?v=LGT4Qe7v0So)
 - [🎥 Exploring the Frontend Performance of the National Rail Website with Chrome DevTools](https://www.youtube.com/watch?v=WRwxOonOYK0&ab_channel=UmarHansa)
