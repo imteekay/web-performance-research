@@ -258,13 +258,13 @@
 - [Web Performance Slack](https://webperformance.slack.com)
 - [Web Performance Working Group](https://www.w3.org/webperf)
 
-## Conferences & Meetups
+### Conferences & Meetups
 
 - [Conffab - Performance](https://conffab.com/topic/performance)
 - [New York Web Performance Group](https://www.meetup.com/Web-Performance-NY)
 - [Perf Now Conf](https://perfnow.nl)
 
-## Blogs
+### Blogs
 
 - [TK](https://www.iamtk.co)
 - [Harry Roberts](https://csswizardry.com)
@@ -279,7 +279,7 @@
 - [Simon Hearne](https://simonhearne.com)
 - [Medhat Dawoud](https://medhatdawoud.net)
 
-## Podcasts
+### Podcasts
 
 - [Catching Up With Web Performance](https://catchingup.dev)
 - [Chasing Waterfalls](https://chasing-waterfalls.simplecast.com)
