@@ -657,7 +657,7 @@
 - [📝 CPU Flame Graphs](https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
 - [📝 Network Throttling in Chrome DevTools](https://www.debugbear.com/blog/chrome-devtools-network-throttling)
 
-## How to metric
+### How to metric
 
 - [📝 Faster data visualizations](https://calendar.perfplanet.com/2022/faster-data-visualizations)
 - [📝 How to metric](https://medium.com/@djsmith42/how-to-metric-edafaf959fc7)
