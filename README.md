@@ -744,7 +744,7 @@
 - [📝 SSR, Streaming, and CSS-in-JS](https://shud.in/posts/ssr-streaming-and-css-in-js)
 - [📝 Updating React at Etsy](https://github.com/mq2thez/blog/blob/main/upgrade-react-etsy/preact-vs-react.md)
 
-## Rendering Architecture: Fiber / Signal
+### Rendering Architecture: Fiber / Signal
 
 - [🎥 A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 - [🎥 Data Fetching with React Server Components](https://www.youtube.com/watch?v=TQQPAU21ZUw&ab_channel=MetaOpenSource)
