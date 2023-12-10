@@ -531,7 +531,7 @@
 - [📝 Why Performance Matters?](https://medhatdawoud.net/blog/why-performance-matters)
 - [📝 Why Your Cached JavaScript Is Still Slow and Incurs Performance Overhead](https://www.webperf.tips/tip/cached-js-misconceptions)
 
-## Why matters
+### Why matters
 
 - [📝 How to measure the energy consumption of your frontend application](https://greensoftware.foundation/articles/how-to-measure-the-energy-consumption-of-your-frontend-application)
 - [📝 Relating site speed and business metrics](https://web.dev/site-speed-and-business-metrics)
