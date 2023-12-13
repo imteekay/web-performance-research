@@ -245,6 +245,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 How Rakuten 24's investment in Core Web Vitals increased revenue per visitor by 53.37% and conversion rate by 33.13%](https://web.dev/rakuten)
 - [📝 How Sunday Citizen improved conversions by focusing on performance](https://performance.shopify.com/blogs/blog/how-sunday-citizen-improved-conversions-by-focusing-on-performance)
 - [📝 How to convince your client to focus on Web Performance: a case study](https://medium.com/@armelpingault/how-to-convince-your-client-to-focus-on-web-performance-a-case-study-35f12385689)
+- [📝 How Trendyol reduced INP by 50%, resulting in a 1% uplift on click-through rate](https://web.dev/case-studies/trendyol-inp)
 - [📝 How We Improved React Loading Times by 70% with Next.js](https://www.causal.app/blog/next-js)
 - [📝 How we reduced Next.js page size by 3.5x and achieved a 98 Lighthouse score](https://papyrus.dev/@PapyrusBlog/how-we-reduced-next.js-page-size-by-3.5x-and-achieved-a-98-lighthouse-score?)
 - [📝 How Wix improved TTFB with 103 Early Hints](https://web.archive.org/web/20230313110110/https://twitter.com/alonkochba/status/1584418867295965184)
