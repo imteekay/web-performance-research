@@ -468,6 +468,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [🎥 The state of responsiveness on the web](https://www.youtube.com/watch?v=Mizzbsvv8Os&ab_channel=GoogleChromeDevelopers)
 - [🎥 Understanding and Optimizing Interaction to Next Paint (INP)](https://www.youtube.com/watch?v=BoaORHnJYAE)
 - [📝 7 Ways to Minimize Main Thread Work](https://nitropack.io/blog/post/minimize-main-thread-work)
+- [📝 Analysis of INP performance using real-world RUMvision data](https://calendar.perfplanet.com/2023/inp-performance-analysis-rumvision-data)
 - [📝 Avoid large, complex layouts and layout thrashing](https://web.dev/articles/avoid-large-complex-layouts-and-layout-thrashing)
 - [📝 Breaking up long tasks](https://calendar.perfplanet.com/2022/breaking-up-long-tasks)
 - [📝 Client-side rendering of HTML and interactivity](https://web.dev/articles/client-side-rendering-of-html-and-interactivity)
