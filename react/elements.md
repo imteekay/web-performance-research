@@ -1,6 +1,6 @@
 # Elements, children as props, and re-renders
 
-The Component
+## The Component
 
 ```js
 const App = () => {
@@ -14,7 +14,7 @@ const App = () => {
 };
 ```
 
-With the scrollable feature
+## With the scrollable feature
 
 ```js
 const MainScrollableArea = () => {
@@ -35,7 +35,9 @@ const MainScrollableArea = () => {
 };
 ```
 
-With the Element as an optimization
+## With the Element as an optimization
+
+Because the slow components are not part of the same component that re-renders, they are outside the re-rendered component, that way they will be intacted, without the unnecessary re-render.
 
 ```js
 const App = () => {
