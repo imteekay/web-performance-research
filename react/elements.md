@@ -2,6 +2,8 @@
 
 ## The Component
 
+A component with many slow children components
+
 ```js
 const App = () => {
   return (
