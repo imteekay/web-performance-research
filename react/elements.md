@@ -18,6 +18,8 @@ const App = () => {
 
 ## With the scrollable feature
 
+Re-rendering all slow children components
+
 ```js
 const MainScrollableArea = () => {
   const [position, setPosition] = useState(300);
