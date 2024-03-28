@@ -115,3 +115,19 @@ const ScrollableWithMovingBlock = ({ children }) => {
 - A component re-renders when its element object changes, as determined by Object.is comparison of it before and after re-render.
 - When elements are passed as props to a component, and this component triggers a re-render through a state update, elements that are passed as props won't re-render.
 - "children" are just props and behave like any other prop when they are passed via JSX nesting syntax:
+
+# Configuration concerns with elements as props
+
+```js
+const App = () => {
+  const [isDialogOpen, setIsDialogOpen] = useState(false);
+
+  // when is this one going to be rendered?
+  const footer = <Footer />;
+
+  return isDialogOpen ? <ModalDialog footer={footer} /> : null;
+};
+```
+
+- `footer` will be created as an element and stored in memory.
+- This Footer will actually be rendered only when it ends up in the return object of one of the components, not sooner.
