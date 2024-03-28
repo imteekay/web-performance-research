@@ -73,3 +73,36 @@ const ScrollableWithMovingBlock = ({ content }) => {
   );
 };
 ```
+
+## Element as children
+
+Instead of having a content prop, use the special children prop to pass children components
+
+```js
+const App = () => {
+  return (
+    <ScrollableWithMovingBlock>
+      <VerySlowComponent />
+      <BunchOfStuff />
+      <OtherStuffAlsoComplicated />
+    </ScrollableWithMovingBlock>
+  );
+};
+```
+
+```js
+const ScrollableWithMovingBlock = ({ children }) => {
+  const [position, setPosition] = useState(300);
+  const onScroll = (e) => {
+    const calculated = getPosition(e.target.scrollTop);
+    setPosition(calculated);
+  };
+
+  return (
+    <div className="scrollable-block" onScroll={onScroll}>
+      <MovingBlock position={position} />
+      {children}
+    </div>
+  );
+};
+```
