@@ -159,3 +159,4 @@ Learnings:
 - Try to find the root cause of the re-render before adding `useCallback` or `useMemo`
 - Using memoization won't stop the re-render but just only stop recreating functions
 - Memoize a prop only if passing a function reference as a prop (stable reference)
+- Avoid passing custom hooks functions as props to other components: any state change in the custom hook will make it re-render, update the reference and re-render the children components
