@@ -131,3 +131,25 @@ const App = () => {
 
 - `footer` will be created as an element and stored in memory.
 - This Footer will actually be rendered only when it ends up in the return object of one of the components, not sooner.
+
+# Memoization with useMemo, useCallback and React.memo
+
+Comparing values in JS
+
+```js
+const a = 1;
+const b = 1;
+
+a === b; // true
+```
+
+Comparing objects in JS:
+
+```js
+const a = { id: 1 };
+const b = { id: 1 };
+
+a === b; // false
+```
+
+When comparing objects, we are not comparing values, we are comparing references.
