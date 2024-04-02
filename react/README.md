@@ -157,6 +157,14 @@ When comparing objects, we are not comparing values, we are comparing references
 Learnings:
 
 - Try to find the root cause of the re-render before adding `useCallback` or `useMemo`
-- Using memoization won't stop the re-render but just only stop recreating functions
-- Memoize a prop only if passing a function reference as a prop (stable reference)
-- Avoid passing custom hooks functions as props to other components: any state change in the custom hook will make it re-render, update the reference and re-render the children components
+- The inline function passed as an argument to either useMemo or useCallback will be re-created on every re-render. useCallback memoizes that function itself, useMemo memoizes the result of its execution.
+  - Using memoization won't stop the re-render but just only stop recreating functions
+- Memoize a prop only if passing a function reference as a prop (stable reference). Only makes sense when:
+  - This component is wrapped in React.memo.
+  - This component uses those props as dependencies in any of the hooks.
+  - This component passes those props down to other components, and they have either of the situations from above.
+- Memoizing all props on a component wrapped in React.memo is harder than it seems. Avoid passing non-primitive values that are coming from other props or hooks to it.
+  - Avoid passing custom hooks functions as props to other components: any state change in the custom hook will make it re-render, update the reference and re-render the children components
+  - When memoizing props, remember that "children" is also a non-primitive prop that needs to be memoized.
+- React compares objects/arrays/functions by their reference, not their value. That comparison happens in hooks' dependencies and in props of components wrapped in `React.memo.`
+- If a component is wrapped in React.memo and its re-render is triggered by its parent, then React will not re-render this component if its props haven't changed. In any other case, re-render will proceed as usual.
