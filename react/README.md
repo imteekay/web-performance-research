@@ -168,3 +168,41 @@ Learnings:
   - When memoizing props, remember that "children" is also a non-primitive prop that needs to be memoized.
 - React compares objects/arrays/functions by their reference, not their value. That comparison happens in hooks' dependencies and in props of components wrapped in `React.memo.`
 - If a component is wrapped in React.memo and its re-render is triggered by its parent, then React will not re-render this component if its props haven't changed. In any other case, re-render will proceed as usual.
+
+## Diffing and Reconciliation
+
+- The Virtual DOM is just a giant object with all the components that are supposed to render, all their props, and their children - which are also objects of the same shape. Just a tree
+
+```js
+const Input = () => {
+  return (
+    <>
+      <label htmlFor="input-id">{label}</label>
+      <input type="text" id="input-id" />
+    </>
+  );
+};
+```
+
+The virtual DOM object:
+
+```js
+[
+  {
+    type: "label",
+    // other stuff
+  },
+  {
+    type: "input",
+    // other stuff
+  },
+];
+```
+
+- If the "type" is a string, it generates the HTML element of that type.
+- If the "type" is a function (i.e., our component), it calls it and iterates over the tree that this function returned.
+
+When re-rendering components:
+
+- If "type" is changed, the component will mount the new one.
+- If "type" is the same, the component will be re-rendered.
