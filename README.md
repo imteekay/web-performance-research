@@ -348,6 +348,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 ## Core Web Vitals
 
 - [🎥 Ask Me Anything - Core Web Vitals](https://www.youtube.com/watch?v=HWm6WNkHs90&t=615s)
+- [🎥 Deciphering INP and Core Web Vitals](https://www.youtube.com/watch?v=QdcKuo-N3kU&ab_channel=GoogleSearchCentral)
 - [🎥 Exploring the future of Core Web Vitals](https://www.youtube.com/watch?v=iNfz9tg-wyg)
 - [🎥 Insight into Core Web Vitals from the Chrome Platform Team](https://www.youtube.com/watch?v=CcHCbFhx2UM)
 - [🎥 Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI) ([Slides](https://www.slideshare.net/AnnieSullivan9/mnitoring-and-metrics-in-chrome-196438420))
