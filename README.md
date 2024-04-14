@@ -493,6 +493,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Manually diagnose slow interactions in the lab](https://web.dev/articles/manually-diagnose-slow-interactions-in-the-lab)
 - [📝 Improving INP with React 18 and Suspense](https://vercel.com/blog/improving-interaction-to-next-paint-with-react-18-and-suspense)
 - [📝 Measure And Optimize Interaction to Next Paint (INP)](https://www.debugbear.com/docs/metrics/interaction-to-next-paint)
+- [📝 Preparing For Interaction To Next Paint, A New Web Core Vital](https://www.smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital)
 
 ### Total Blocking Time
 
