@@ -488,6 +488,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 The Fight For The Main Thread](https://www.smashingmagazine.com/2023/10/speedcurve-fight-main-thread)
 - [📝 Use web workers to run JavaScript off the browser's main thread](https://web.dev/articles/off-main-thread)
 - [📝 Web Performance Experts Guide to Mastering Interaction to Next Paint](https://www.rumvision.com/blog/experts-guide-to-mastering-interaction-to-next-paint)
+- [📝 Debugging Interaction to Next Paint (INP)](https://www.speedcurve.com/blog/debugging-interaction-to-next-paint-inp)
 
 ### Total Blocking Time
 
