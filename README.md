@@ -491,6 +491,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Web Performance Experts Guide to Mastering Interaction to Next Paint](https://www.rumvision.com/blog/experts-guide-to-mastering-interaction-to-next-paint)
 - [📝 Debugging Interaction to Next Paint (INP)](https://www.speedcurve.com/blog/debugging-interaction-to-next-paint-inp)
 - [📝 Manually diagnose slow interactions in the lab](https://web.dev/articles/manually-diagnose-slow-interactions-in-the-lab)
+- [📝 Improving INP with React 18 and Suspense](https://vercel.com/blog/improving-interaction-to-next-paint-with-react-18-and-suspense)
 
 ### Total Blocking Time
 
