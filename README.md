@@ -468,6 +468,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [🎥 Interaction to Next Paint](https://www.youtube.com/watch?v=JXaIFLhRV8Q&ab_channel=CodeSpaceITeducation)
 - [🎥 The state of responsiveness on the web](https://www.youtube.com/watch?v=Mizzbsvv8Os&ab_channel=GoogleChromeDevelopers)
 - [🎥 Understanding and Optimizing Interaction to Next Paint (INP)](https://www.youtube.com/watch?v=BoaORHnJYAE)
+- [🎥 Digging into Interaction to Next Paint](https://www.youtube.com/watch?v=bDJB-AQDciE&ab_channel=NYWebPerformanceMeetup)
 - [📝 7 Ways to Minimize Main Thread Work](https://nitropack.io/blog/post/minimize-main-thread-work)
 - [📝 Analysis of INP performance using real-world RUMvision data](https://calendar.perfplanet.com/2023/inp-performance-analysis-rumvision-data)
 - [📝 Avoid large, complex layouts and layout thrashing](https://web.dev/articles/avoid-large-complex-layouts-and-layout-thrashing)
