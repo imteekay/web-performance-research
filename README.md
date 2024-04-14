@@ -245,6 +245,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 How PubTech's Consent Management Platform reduced INP on their customers' websites by up to 64%, while also improving ad viewability by up to 1.5%](https://web.dev/case-studies/pubconsent-inp)
 - [📝 How QuintoAndar increased conversion rates and pages per session by improving page performance](https://web.dev/quintoandar)
 - [📝 How Rakuten 24's investment in Core Web Vitals increased revenue per visitor by 53.37% and conversion rate by 33.13%](https://web.dev/rakuten)
+- [📝 How redBus improved their website's Interaction to Next Paint (INP) and increased sales by 7%](https://web.dev/case-studies/redbus-inp)
 - [📝 How Sunday Citizen improved conversions by focusing on performance](https://performance.shopify.com/blogs/blog/how-sunday-citizen-improved-conversions-by-focusing-on-performance)
 - [📝 How to convince your client to focus on Web Performance: a case study](https://medium.com/@armelpingault/how-to-convince-your-client-to-focus-on-web-performance-a-case-study-35f12385689)
 - [📝 How Trendyol reduced INP by 50%, resulting in a 1% uplift on click-through rate](https://web.dev/case-studies/trendyol-inp)
