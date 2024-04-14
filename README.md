@@ -241,6 +241,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 How Carpe achieved record-breaking sales by focusing on performance optimization](https://performance.shopify.com/blogs/blog/how-carpe-achieved-record-breaking-sales-by-focusing-on-performance-optimization)
 - [📝 How CLS optimizations increased Yahoo! JAPAN News's page views per session by 15%](https://web.dev/yahoo-japan-news)
 - [📝 How Mercado Libre optimized for Web Vitals (TBT/FID)](https://web.dev/how-mercadolibre-optimized-web-vitals)
+- [📝 How PubTech's Consent Management Platform reduced INP on their customers' websites by up to 64%, while also improving ad viewability by up to 1.5%](https://web.dev/case-studies/pubconsent-inp)
 - [📝 How QuintoAndar increased conversion rates and pages per session by improving page performance](https://web.dev/quintoandar)
 - [📝 How Rakuten 24's investment in Core Web Vitals increased revenue per visitor by 53.37% and conversion rate by 33.13%](https://web.dev/rakuten)
 - [📝 How Sunday Citizen improved conversions by focusing on performance](https://performance.shopify.com/blogs/blog/how-sunday-citizen-improved-conversions-by-focusing-on-performance)
