@@ -505,6 +505,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 ## CSS
 
 - [📝 Airbnb’s Trip to Linaria](https://medium.com/airbnb-engineering/airbnbs-trip-to-linaria-dc169230bd12)
+- [📝 CSS-in-JS to Tailwind: 36% better web vitals](https://sophiabits.com/blog/css-in-js-to-tailwind-better-web-vitals)
 - [📝 Future of runtime CSS-in-JS](https://github.com/emotion-js/emotion/discussions/2827)
 - [📝 Inlining critical CSS](https://imkev.dev/inlining-critical-css)
 - [📝 Loading CSS - Performance Cheatsheet](https://imkev.dev/loading-css)
