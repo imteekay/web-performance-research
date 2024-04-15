@@ -512,7 +512,6 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Performance comparison of css-in-js libraries](https://github.com/geeky-biz/css-in-js-benchmark)
 - [📝 PurgeCSS](https://purgecss.com)
 - [📝 Real-world CSS vs. CSS-in-JS performance comparison](https://pustelto.com/blog/css-vs-css-in-js-perf)
-- [📝 Real-world CSS vs. CSS-in-JS performance comparison](https://pustelto.com/blog/css-vs-css-in-js-perf)
 - [📝 Reduce bundle size via one-letter css classname hash strategy](https://dev.to/denisx/reduce-bundle-size-via-one-letter-css-classname-hash-strategy-10g6)
 - [📝 Style performance and concurrent rendering](https://nolanlawson.com/2022/10/22/style-performance-and-concurrent-rendering)
 - [📝 The truth about CSS selector performance](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance)
