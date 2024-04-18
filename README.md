@@ -797,6 +797,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [🎥 React 18 Concurrency, Explained](https://www.youtube.com/watch?v=i-_6wyohduo&ab_channel=SmashingMagazine)
 - [📝 21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
 - [📝 Death by a thousand useCallbacks](https://royi-codes.vercel.app/thousand-usecallbacks)
+- [📝 How does React 18 work inside?](https://dev.to/ktmouk/how-does-react-18-work-inside-1c8l)
 - [📝 How to write performant React apps with Context](https://dev.to/adevnadia/how-to-write-performant-react-apps-with-context-24cp)
 - [📝 How to write performant React code: rules, patterns, do's and don'ts](https://dev.to/adevnadia/how-to-write-performant-react-code-rules-patterns-dos-and-donts-40gk)
 - [📝 How to write performant React code: rules, patterns, do's and don'ts](https://www.developerway.com/posts/how-to-write-performant-react-code)
