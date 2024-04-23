@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { StopPropagation } from "./StopPropagation";
 
 const Child = () => {
   return <div style={{ border: "1px solid" }}>child</div>;
@@ -22,11 +23,19 @@ const Parent = ({ children }) => {
 
 const App = () => {
   return (
-    <div className="App">
-      <Parent>
-        <Child />
-      </Parent>
-    </div>
+    <>
+      <div className="App">
+        <Parent>
+          <Child />
+        </Parent>
+      </div>
+
+      <hr />
+
+      <StopPropagation />
+
+      <hr />
+    </>
   );
 };
 
