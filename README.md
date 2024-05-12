@@ -816,6 +816,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 SSR, Streaming, and CSS-in-JS](https://shud.in/posts/ssr-streaming-and-css-in-js)
 - [📝 Updating React at Etsy](https://github.com/mq2thez/blog/blob/main/upgrade-react-etsy/preact-vs-react.md)
 - [📚 Advanced React](https://www.advanced-react.com)
+- [🛠 eslint-plugin-react-perf](https://github.com/cvazac/eslint-plugin-react-perf)
 
 ### Rendering Architecture: Fiber / Signal
 
