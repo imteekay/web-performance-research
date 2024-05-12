@@ -225,6 +225,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [🎥 Lessons learned from performance monitoring in Chrome](https://www.youtube.com/watch?v=ctavZT87syI)
 - [🎥 Optimizing Preview Popups](https://www.youtube.com/watch?v=sKvK3x9zdt0&ab_channel=YoavWeiss)
 - [🎥 Performance Signup in React & Transactional Apps with Redux](https://www.youtube.com/watch?v=V8oTJ8OZ5S0&ab_channel=NetflixUIEngineering)
+- [🎥 Several Components are Rendering: Client Performance at Slack-Scale](https://www.infoq.com/presentations/slack-front-performance)
 - [📝 300ms Faster: Reducing Wikipedia's Total Blocking Time](https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time)
 - [📝 A Netflix Web Performance Case Study](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 - [📝 A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154?source=search_post---------6)
