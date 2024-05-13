@@ -891,6 +891,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [useCallback and useMemo: no perf effect](https://twitter.com/ProvablyFlarnie/status/1504223109439651841)
 - [Video Compression](https://twitter.com/Greg_GLD/status/1771146684375896472)
 - [Web Performance at Slack](https://twitter.com/zeigenvector/status/1448684941663948801)
+- [React & Redux performance at Slack](https://twitter.com/wordsofteekay/status/1789713542993621165)
 
 ## UX
 
