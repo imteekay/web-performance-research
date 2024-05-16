@@ -536,6 +536,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [🎥 Deep dive into third-party performance](https://www.youtube.com/watch?v=uXv9JFvrnwo)
 - [🎥 Demystifying Speed Tooling](https://www.youtube.com/watch?v=mLjxXPHuIJo)
 - [🎥 Fantastic Frontend Performance Tricks & Why We Do Them](https://www.youtube.com/watch?v=pSCHN4oU2JQ&ab_channel=estellevw)
+- [🎥 From fast loading to instant loading](https://www.youtube.com/watch?v=bSua9vMdrNM&ab_channel=ChromeforDevelopers)
 - [🎥 Improving Page Performance in Modern Web Apps](https://vimeo.com/254858694)
 - [🎥 Improving Page Performance in Modern Web Apps](https://www.youtube.com/watch?v=p_8oR9GFRvQ)
 - [🎥 Inclusive Design is Fast by Default](https://www.youtube.com/watch?v=MiXy2x6flww)
