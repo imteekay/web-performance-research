@@ -267,6 +267,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Nikkei achieves a new level of quality and performance with their multi-page PWA](https://developers.google.com/web/showcase/2018/nikkei)
 - [📝 Notion's page load and navigation times just got faster](https://www.notion.so/blog/faster-page-load-navigation)
 - [📝 Optimizing Core Web Vitals on a Next.js app](https://www.patterns.dev/posts/nextjs-casestudy)
+- [📝 Optimizing INP for a React App & Performance Learnings](https://www.iamtk.co/optimizing-inp-for-a-react-app-and-performance-learnings)
 - [📝 Optimizing the Performance of a React Progressive Web App](https://www.iamtk.co/optimizing-the-performance-of-a-react-progressive-web-app)
 - [📝 Performance audit of an Italian news website](https://www.giacomodebidda.com/posts/performance-audit-of-an-italian-news-website)
 - [📝 Quick Performance Audit - Taiwan COVID Vaccination Website](https://fershad.com/writing/quick-performance-audit-taiwan-covid-vaccination-website)
