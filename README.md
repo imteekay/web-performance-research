@@ -281,6 +281,8 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Twitter Lite and High Performance React Progressive Web Apps at Scale](https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3)
 - [📝 Web dev: Case Study](https://web.dev/tags/case-study)
 - [📝 Web performance case study: Wikipedia page previews](https://techblog.wikimedia.org/2020/11/23/web-performance-case-study-wikipedia-page-previews)
+- [📝 Web Performance Regression Detection (Part 1 of 3)](https://medium.com/pinterest-engineering/web-performance-regression-detection-part-1-of-3-86dcc6d5fce9)
+- [📝 Web Performance Regression Detection (Part 2 of 3)](https://medium.com/pinterest-engineering/web-performance-regression-detection-part-2-of-3-9e0b9d35a11f)
 - [📝 Zillow: Bigger, Faster, and More Engaging while on a Budget](https://www.zillow.com/tech/bigger-faster-more-engaging-budget)
 
 ## Community
