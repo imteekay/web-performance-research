@@ -69,6 +69,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Conquering JavaScript Hydration](https://dev.to/ryansolid/conquering-javascript-hydration-a9f)
 - [📝 Conquering JavaScript Hydration](https://dev.to/this-is-learning/conquering-javascript-hydration-a9f)
 - [📝 Crafting a high-performance TV user interface using React](https://netflixtechblog.com/crafting-a-high-performance-tv-user-interface-using-react-3350e5a6ad3b)
+- [📝 Flexible Architectures for Web Performance](https://www.youtube.com/watch?v=aIfB12cQW9A)
 - [📝 From Static to Interactive: Why Resumability is the Best Alternative to Hydration](https://www.builder.io/blog/from-static-to-interactive-why-resumability-is-the-best-alternative-to-hydration)
 - [📝 How to do partial hydration in React](https://twitter.com/iamakulov/status/1437415799514271746)
 - [📝 Instant Loading Web Apps with an Application Shell Architecture](https://developers.google.com/web/updates/2015/11/app-shell)
@@ -87,7 +88,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 The Future (and the Past) of the Web is Server Side Rendering](https://deno.com/blog/the-future-and-past-is-server-side-rendering)
 - [📝 Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement)
 - [📝 Understanding Rendering in the Jamstack](https://bejamas.io/blog/understanding-rendering-in-the-jamstack)
-- [📝 what is partial hydration and why is everyone talking about it?](https://ajcwebdev.com/what-is-partial-hydration-and-why-is-everyone-talking-about-it)
+- [📝 What is partial hydration and why is everyone talking about it?](https://ajcwebdev.com/what-is-partial-hydration-and-why-is-everyone-talking-about-it)
 - [📝 Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
 
 ## Backend
