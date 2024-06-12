@@ -731,6 +731,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [🎥 Memory Management Masterclass](https://www.youtube.com/watch?v=LaxbdIyBkL0&ab_channel=GoogleDevelopers)
 - [🎥 Running a performance profile on the YouTube search box](https://www.youtube.com/watch?v=E4KAWf_fKbM&ab_channel=UmarHansa)
 - [🎥 Understanding Paint Performance with Chrome DevTools](https://www.youtube.com/watch?v=8-pkB2vGUKk&ab_channel=UmarHansa)
+- [📝 Comprehensive guide to JavaScript performance analysis using Chrome DevTools](https://blog.jiayihu.net/comprenhensive-guide-chrome-performance/)
 - [📝 CPU Flame Graphs](https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
 - [📝 Network Throttling in Chrome DevTools](https://www.debugbear.com/blog/chrome-devtools-network-throttling)
 
