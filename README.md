@@ -485,6 +485,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Breaking up long tasks](https://calendar.perfplanet.com/2022/breaking-up-long-tasks)
 - [📝 Client-side rendering of HTML and interactivity](https://web.dev/articles/client-side-rendering-of-html-and-interactivity)
 - [📝 Debugging Interaction to Next Paint (INP)](https://www.speedcurve.com/blog/debugging-interaction-to-next-paint-inp)
+- [📝 Demystifying INP: New tools and actionable insights](https://vercel.com/blog/demystifying-inp-new-tools-and-actionable-insights)
 - [📝 Find slow interactions in the field](https://web.dev/articles/find-slow-interactions-in-the-field)
 - [📝 Google Chrome web-vitals.js v4 to support LoAF + INP breakdown](https://www.rumvision.com/blog/google-web-vitals-v4-supports-loaf-inp-breakdown)
 - [📝 How do modern frameworks perform on the new INP metric](https://developer.chrome.com/articles/inp-in-frameworks)
