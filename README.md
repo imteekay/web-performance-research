@@ -239,6 +239,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Case study: analyzing the Walmart site performance](https://iamakulov.com/notes/walmart)
 - [📝 Crafting a high-performance TV user interface using React](https://netflixtechblog.com/crafting-a-high-performance-tv-user-interface-using-react-3350e5a6ad3b)
 - [📝 Economic Times quest for fixing INP](https://web.dev/case-studies/economic-times-inp)
+- [📝 Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
 - [📝 From Development to Real Users: How to Create a Web Performance Story](https://engineering.atspotify.com/2022/09/from-development-to-real-users-how-to-create-a-web-performance-story)
 - [📝 Gantry: Slack’s Fast-booting Frontend Framework](https://slack.engineering/gantry-slacks-fast-booting-frontend-framework-fb70c8eed2fd)
 - [📝 How Carpe achieved record-breaking sales by focusing on performance optimization](https://performance.shopify.com/blogs/blog/how-carpe-achieved-record-breaking-sales-by-focusing-on-performance-optimization)
