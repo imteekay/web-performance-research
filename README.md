@@ -492,6 +492,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Google Chrome web-vitals.js v4 to support LoAF + INP breakdown](https://www.rumvision.com/blog/google-web-vitals-v4-supports-loaf-inp-breakdown)
 - [📝 How do modern frameworks perform on the new INP metric](https://developer.chrome.com/articles/inp-in-frameworks)
 - [📝 How large DOM sizes affect interactivity, and what you can do about it](https://web.dev/articles/dom-size-and-interactivity)
+- [📝 How To Improve INP: Yield Patterns](https://kurtextrem.de/posts/improve-inp)
 - [📝 How to Improve Interaction to Next Paint (INP)](https://nitropack.io/blog/post/improve-interaction-to-next-paint-inp)
 - [📝 How to solve Interaction to Next Paint (INP) issues](https://www.iron-out.io/blog/how-to-solve-interaction-to-next-paint-issues)
 - [📝 Improving INP with React 18 and Suspense](https://vercel.com/blog/improving-interaction-to-next-paint-with-react-18-and-suspense)
