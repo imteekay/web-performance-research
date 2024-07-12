@@ -500,6 +500,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Interaction to Next Paint by kev](https://imkev.dev/inp)
 - [📝 Manually diagnose slow interactions in the lab](https://web.dev/articles/manually-diagnose-slow-interactions-in-the-lab)
 - [📝 Measure And Optimize Interaction to Next Paint (INP)](https://www.debugbear.com/docs/metrics/interaction-to-next-paint)
+- [📝 Mobile INP performance: The elephant in the room](https://www.speedcurve.com/blog/core-web-vitals-inp-mobile)
 - [📝 Optimize Interaction to Next Paint](https://web.dev/optimize-inp)
 - [📝 Optimize long tasks](https://web.dev/articles/optimize-long-tasks)
 - [📝 Preparing For Interaction To Next Paint, A New Web Core Vital](https://www.smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital)
