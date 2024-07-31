@@ -477,6 +477,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [🎥 How to optimize web responsiveness with Interaction to Next Paint](https://www.youtube.com/watch?v=KZ1kxzsJZ5g&ab_channel=GoogleChromeDevelopers)
 - [🎥 Interaction to Next Paint and other Web Vitals [BlinkOn 16]](https://www.youtube.com/watch?v=zQBt64Q-Ijs&ab_channel=BlinkOn)
 - [🎥 Interaction to Next Paint](https://www.youtube.com/watch?v=JXaIFLhRV8Q&ab_channel=CodeSpaceITeducation)
+- [🎥 Interaction to Next Paint Revealed: 5 Truths That Will Speed Up Your Site](https://www.youtube.com/watch?v=VpjnUJ9A0HU)
 - [🎥 New field insights for debugging INP](https://www.youtube.com/watch?v=xfjumh8ySRY&ab_channel=ChromeforDevelopers)
 - [🎥 Optimizing INP: A deep dive](https://www.youtube.com/watch?v=cmtfM4emG5k&ab_channel=ChromeforDevelopers)
 - [🎥 The state of responsiveness on the web](https://www.youtube.com/watch?v=Mizzbsvv8Os&ab_channel=GoogleChromeDevelopers)
