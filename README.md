@@ -88,6 +88,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 The Future (and the Past) of the Web is Server Side Rendering](https://deno.com/blog/the-future-and-past-is-server-side-rendering)
 - [📝 Understanding Progressive Enhancement](https://alistapart.com/article/understandingprogressiveenhancement)
 - [📝 Understanding Rendering in the Jamstack](https://bejamas.io/blog/understanding-rendering-in-the-jamstack)
+- [📝 Web Rendering Patterns](https://www.youtube.com/watch?v=5xeuv9c1Fkw)
 - [📝 What is partial hydration and why is everyone talking about it?](https://ajcwebdev.com/what-is-partial-hydration-and-why-is-everyone-talking-about-it)
 - [📝 Why Efficient Hydration in JavaScript Frameworks is so Challenging](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
 
