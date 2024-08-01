@@ -47,7 +47,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
   - [Prefetching Tools](#prefetching-tools)
 - [Web Frameworks](#web-frameworks)
   - [React](#react)
-  - [Rendering Architecture: Fiber / Signal](#rendering-architecture-fiber--signal)
+  - [React Rendering](#react-rendering)
   - [Measuring React](#measuring-react)
 - [Sustainability](#sustainability)
 - [Tweets](#tweets)
@@ -834,7 +834,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📚 Advanced React](https://www.advanced-react.com)
 - [🛠 eslint-plugin-react-perf](https://github.com/cvazac/eslint-plugin-react-perf)
 
-### Rendering Architecture: Fiber / Signal
+### React Rendering
 
 - [🎥 A Cartoon Intro to Fiber](https://www.youtube.com/watch?v=ZCuYPiUIONs)
 - [🎥 Data Fetching with React Server Components](https://www.youtube.com/watch?v=TQQPAU21ZUw&ab_channel=MetaOpenSource)
