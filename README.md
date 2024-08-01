@@ -812,6 +812,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 
 - [🎥 DOM as a Second-class Citizen](https://www.youtube.com/watch?v=Zemce4Y1Y-A)
 - [🎥 React 18 Concurrency, Explained](https://www.youtube.com/watch?v=i-_6wyohduo&ab_channel=SmashingMagazine)
+- [🎥 React Performance Debugging Masterclass](https://gitnation.com/contents/react-performance-debugging-masterclass)
 - [📝 21 Performance Optimization Techniques for React Apps](https://www.codementor.io/blog/react-optimization-5wiwjnf9hj)
 - [📝 Death by a thousand useCallbacks](https://royi-codes.vercel.app/thousand-usecallbacks)
 - [📝 How does React 18 work inside?](https://dev.to/ktmouk/how-does-react-18-work-inside-1c8l)
