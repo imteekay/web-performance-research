@@ -909,6 +909,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [Video Compression](https://twitter.com/Greg_GLD/status/1771146684375896472)
 - [Web Performance at Slack](https://twitter.com/zeigenvector/status/1448684941663948801)
 - [React & Redux performance at Slack](https://twitter.com/wordsofteekay/status/1789713542993621165)
+- [Performance Budget](https://x.com/wordsofteekay/status/1827716913293902078)
 
 ## UX
 
