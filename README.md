@@ -126,6 +126,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Avoiding layout thrashing — Web Fundamentals](https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing)
 - [📝 Browser Performance](https://www.kuniga.me/blog/2020/03/28/browser-performance.html)
 - [📝 Conclusions from Off Main Thread & Worker Exploration](https://docs.google.com/document/d/1nu0EcVNC3jtmUVWL8Gs5eCj2p_984kamNhG2nS9gOC0/edit#)
+- [📝 Don't Block the Event Loop (or the Worker Pool)](https://nodejs.org/en/learn/asynchronous-work/dont-block-the-event-loop)
 - [📝 Don't fight the browser preload scanner](https://web.dev/preload-scanner)
 - [📝 Dynamic page content with Cloudflare Workers](https://fershad.com/writing/dynamic-page-content-with-cloudflare-workers)
 - [📝 Fast is good, instant is better!](https://calendar.perfplanet.com/2022/fast-is-good-instant-is-better)
