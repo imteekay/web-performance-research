@@ -506,6 +506,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Improving INP with React 18 and Suspense](https://vercel.com/blog/improving-interaction-to-next-paint-with-react-18-and-suspense)
 - [📝 Interaction to Next Paint (INP)](https://web.dev/articles/inp)
 - [📝 Interaction to Next Paint by kev](https://imkev.dev/inp)
+- [📝 Introducing the scheduler.yield origin trial](https://developer.chrome.com/blog/introducing-scheduler-yield-origin-trial)
 - [📝 Manually diagnose slow interactions in the lab](https://web.dev/articles/manually-diagnose-slow-interactions-in-the-lab)
 - [📝 Measure And Optimize Interaction to Next Paint (INP)](https://www.debugbear.com/docs/metrics/interaction-to-next-paint)
 - [📝 Mobile INP performance: The elephant in the room](https://www.speedcurve.com/blog/core-web-vitals-inp-mobile)
