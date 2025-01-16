@@ -774,6 +774,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [🛠 perfsee: a set of tool for measuring and debugging performance of frontend applications](https://github.com/perfsee/perfsee)
 - [🛠 speedscope](https://github.com/jlfwong/speedscope)
 - [🛠 Treo](https://treo.sh)
+- [🛠 Calibre: Core Web Vitals monitoring for all your sites](https://calibreapp.com) & [Free Website Test Tool](https://calibreapp.com/tools/website-speed-test)
 
 ### Memory Management
 
