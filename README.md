@@ -339,6 +339,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [Conffab - Performance](https://conffab.com/topic/performance)
 - [New York Web Performance Group](https://www.meetup.com/Web-Performance-NY)
 - [Perf Now Conf](https://perfnow.nl)
+- [Performance Observer](https://performanceobserver.dev)
 
 ### Courses
 
