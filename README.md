@@ -513,7 +513,6 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Optimize Interaction to Next Paint](https://web.dev/optimize-inp)
 - [📝 Optimize long tasks](https://web.dev/articles/optimize-long-tasks)
 - [📝 Preparing For Interaction To Next Paint, A New Web Core Vital](https://www.smashingmagazine.com/2023/12/preparing-interaction-next-paint-web-core-vital)
-- [📝 Reduce the scope and complexity of style calculations ](https://web.dev/articles/reduce-the-scope-and-complexity-of-style-calculations)
 - [📝 Reduce the scope and complexity of style calculations](https://web.dev/articles/reduce-the-scope-and-complexity-of-style-calculations)
 - [📝 Script evaluation and long tasks](https://web.dev/articles/script-evaluation-and-long-tasks)
 - [📝 Sluggish CATs: Category Pages Have the Worst Responsiveness (INP) on e-Commerce Sites](https://calendar.perfplanet.com/2023/sluggish-category-pages-worst-inp-ecommerce)
