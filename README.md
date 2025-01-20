@@ -480,7 +480,6 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [🎥 Breaking Down Long Tasks](https://www.youtube.com/watch?v=2djPW7us9VI&ab_channel=WebConferencesAmsterdam)
 - [🎥 Debugging INP](https://www.youtube.com/watch?v=nQByr5Yyclw&ab_channel=HHWebPerformanceMeetup)
 - [🎥 Digging into Interaction to Next Paint](https://www.youtube.com/watch?v=bDJB-AQDciE)
-- [🎥 Digging into Interaction to Next Paint](https://www.youtube.com/watch?v=bDJB-AQDciE&ab_channel=NYWebPerformanceMeetup)
 - [🎥 How to Improve Interaction to Next Paint (INP)](https://www.youtube.com/watch?v=XpSUlncKExc&ab_channel=NitroPack)
 - [🎥 How to optimize web responsiveness with Interaction to Next Paint](https://www.youtube.com/watch?v=KZ1kxzsJZ5g&ab_channel=GoogleChromeDevelopers)
 - [🎥 Interaction to Next Paint and other Web Vitals [BlinkOn 16]](https://www.youtube.com/watch?v=zQBt64Q-Ijs&ab_channel=BlinkOn)
