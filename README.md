@@ -828,7 +828,6 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Death by a thousand useCallbacks](https://royi-codes.vercel.app/thousand-usecallbacks)
 - [📝 How does React 18 work inside?](https://dev.to/ktmouk/how-does-react-18-work-inside-1c8l)
 - [📝 How to write performant React apps with Context](https://dev.to/adevnadia/how-to-write-performant-react-apps-with-context-24cp)
-- [📝 How to write performant React code: rules, patterns, do's and don'ts](https://dev.to/adevnadia/how-to-write-performant-react-code-rules-patterns-dos-and-donts-40gk)
 - [📝 How to write performant React code: rules, patterns, do's and don'ts](https://www.developerway.com/posts/how-to-write-performant-react-code)
 - [📝 Improved Next.js and Gatsby page load performance with granular chunking](https://web.dev/granular-chunking-nextjs)
 - [📝 Mobile Performance of Next.js Sites](https://calendar.perfplanet.com/2022/mobile-performance-of-next-js-sites)
