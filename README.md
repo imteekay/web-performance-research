@@ -108,7 +108,6 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [🎥 Cache your fonts, images & pages - Unpacking the Workbox](https://www.youtube.com/watch?v=utxTqssjp-o&ab_channel=GoogleChromeDevelopers)
 - [🎥 Critical rendering path - Crash course on web performance](https://www.youtube.com/watch?v=PkOBnYxqj3k&ab_channel=IlyaGrigorik)
 - [🎥 Delivering 60 FPS in the browser](https://www.youtube.com/watch?v=rpNXWxMyzHQ&ab_channel=IlyaGrigorik)
-- [🎥 Delivering 60 FPS in the browser](https://www.youtube.com/watch?v=rpNXWxMyzHQ&t=1s&ab_channel=IlyaGrigorik)
 - [🎥 Get Your "head" Straight](https://www.youtube.com/watch?v=MHyAOZ45vnU)
 - [🎥 Getting Out Of Users' Way: Less Jank With Web Workers](https://www.youtube.com/watch?v=4CWzB5Mi3Ik)
 - [🎥 How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study)](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app)
