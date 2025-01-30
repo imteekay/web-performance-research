@@ -456,6 +456,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [🎥 This Is Your LCP On Images](https://www.youtube.com/watch?v=YMqnPeZHcuc)
 - [📝 Case Study Vodafone: A 31% improvement in LCP increased sales by 8%](https://web.dev/vodafone)
 - [📝 Dynamic LCP Priority: Learning from Past Visits](https://philipwalton.com/articles/dynamic-lcp-priority)
+- [📝 Fix Your LCP Score By Improving Render Delay](https://www.debugbear.com/blog/lcp-render-delay#what-causes-render-delay)
 - [📝 How to optimize largest contentful paint (LCP) on client side](https://evanxmerz.com/post/how-to-optimize-largest-contentful-paint-lcp-on-client-side)
 - [📝 Improve Largest Contentful Paint (LCP) by removing image transitions](https://performance.shopify.com/blogs/blog/improve-largest-contentful-paint-lcp-by-removing-image-transitions)
 - [📝 LCP(FE)](https://calendar.perfplanet.com/2022/lcpfe)
