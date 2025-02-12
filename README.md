@@ -461,6 +461,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 - [📝 Improve Largest Contentful Paint (LCP) by removing image transitions](https://performance.shopify.com/blogs/blog/improve-largest-contentful-paint-lcp-by-removing-image-transitions)
 - [📝 LCP(FE)](https://calendar.perfplanet.com/2022/lcpfe)
 - [📝 Measuring Largest Contentful Paint](https://requestmetrics.com/web-performance/largest-contentful-paint)
+- [📝 Optimising for High Latency Environments](https://csswizardry.com/2024/09/optimising-for-high-latency-environments)
 - [📝 Optimising Largest Contentful Paint](https://csswizardry.com/2022/03/optimising-largest-contentful-paint)
 - [📝 Optimize Largest Contentful Paint](https://web.dev/optimize-lcp)
 - [📝 Optimizing resource loading with the Fetch Priority API](https://web.dev/fetch-priority)
