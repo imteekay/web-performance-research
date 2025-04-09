@@ -100,6 +100,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 ## Backend
 
 - [📝 Everything You Know About Latency Is Wrong](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong)
+- [📝 Latency is Everywhere and it Costs You Sales - How to Crush it](https://highscalability.com/latency-is-everywhere-and-it-costs-you-sales-how-to-crush-it)
 - [📝 Scaling React Server-Side Rendering](https://arkwright.github.io/scaling-react-server-side-rendering.html)
 
 ## Browser
