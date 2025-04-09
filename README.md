@@ -100,7 +100,10 @@ This repository is a compilation of resources I consumed over time to gain knowl
 ## Backend
 
 - [🎥 How NOT to Measure Latency](https://vimeo.com/135065813)
+- [📝 A Brief History of Airbnb’s Architecture](https://blog.bytebytego.com/p/a-brief-history-of-airbnbs-architecture)
 - [📝 Building Services at Airbnb, Part 1](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-1-c4c1d8fa811b)
+- [📝 Building Services at Airbnb, Part 2](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506)
+- [📝 Building Services at Airbnb, Part 3](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d)
 - [📝 Everything You Know About Latency Is Wrong](https://bravenewgeek.com/everything-you-know-about-latency-is-wrong)
 - [📝 How Meta Achieves 99.99999999% Cache Consistency](https://newsletter.systemdesign.one/p/cache-consistenc)
 - [📝 Latency is Everywhere and it Costs You Sales - How to Crush it](https://highscalability.com/latency-is-everywhere-and-it-costs-you-sales-how-to-crush-it)
