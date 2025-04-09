@@ -756,6 +756,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 
 ### How to metric
 
+- [🎥 Advanced Napkin Math: Estimating System](https://www.youtube.com/watch?v=IxkSlnrRFqc)
 - [📝 Faster data visualizations](https://calendar.perfplanet.com/2022/faster-data-visualizations)
 - [📝 How to metric](https://medium.com/@djsmith42/how-to-metric-edafaf959fc7)
 - [📝 How to read a RUM histogram](https://support.speedcurve.com/docs/how-to-read-a-histogram)
