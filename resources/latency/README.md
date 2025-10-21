@@ -19,3 +19,12 @@
 - Additional resource: [Napkin Math: Estimating System Performance](https://www.youtube.com/watch?v=IxkSlnrRFqc&t=1s)
 
 ![](images/001.png)
+
+### Why does latency matter?
+
+- User experience
+  - High latency: users abandon slower services, convert at lower rates, and engage less frequently
+  - Low latency: correlation with economic performance
+  - Akamai report stated that a 100-millisecond latency increase for a website to load could result in a 7% decrease in conversion rates.
+  - Google reported in 2006 that a 1-second increase in delay reduces engagement by 20%
+  - The Akamai report states that with a load time of over 3 seconds, half of users essentially abandon your site
