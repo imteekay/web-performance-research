@@ -2,6 +2,8 @@
 
 ## Chapter 1
 
+### Definition
+
 - Latency is a performance metric that measures time delay in your system.
 - Latency is the time delay between a cause and its observed effect.
 - e.g. smart lightbulb: pressing the button to turn on the lights sent a message over the wireless network from the phone to a controller hub and then over a Bluetooth, to the light bulb itself.
@@ -9,3 +11,11 @@
 - [Comment] This is why it's important to undertand how the entire system works
   - See which parts of the system lifecycle has the bottleneck
   - Traces are especially useful in this context because they measure each component latency for the entire lifecycle
+
+### How is latency measured?
+
+- Understand orders of magnitude of latency
+- Round-trip network latency from New York to London is 60 milliseconds (ms)
+- Additional resource: [Napkin Math: Estimating System Performance](https://www.youtube.com/watch?v=IxkSlnrRFqc&t=1s)
+
+![](images/001.png)
