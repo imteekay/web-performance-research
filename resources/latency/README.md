@@ -28,3 +28,12 @@
   - Akamai report stated that a 100-millisecond latency increase for a website to load could result in a 7% decrease in conversion rates.
   - Google reported in 2006 that a 1-second increase in delay reduces engagement by 20%
   - The Akamai report states that with a load time of over 3 seconds, half of users essentially abandon your site
+
+
+### Latency vs Throughput
+
+- Latency: how quickly *one* task is executed? (time it takes)
+- Throughput: how many tasks can be executed? (rate of production, quantity of tasks done)
+  - Commonly related to bandwidth
+  - Network Wi-Fi with a bandwidth of 54 megabits per second (Mbps): it means you can move data over the network at a (theorical maximum) rate of 6.75 megabytes per second (MB/s)
+- The example of washing clothes has this trade-off: do we want a quick washing/dying task (latency) or more loads of clothes washed/dyned (throughput)?
