@@ -15,7 +15,7 @@
 ### How is latency measured?
 
 - Understand orders of magnitude of latency
-- Round-trip network latency from New York to London is 60 milliseconds (ms)
+  - e.g. Round-trip network latency from New York to London is 60 milliseconds (ms)
 - Additional resource: [Napkin Math: Estimating System Performance](https://www.youtube.com/watch?v=IxkSlnrRFqc&t=1s)
 
 ![](images/001.png)
@@ -34,5 +34,5 @@
 - Latency: how quickly *one* task is executed? (time it takes)
 - Throughput: how many tasks can be executed? (rate of production, quantity of tasks done)
   - Commonly related to bandwidth
-  - Network Wi-Fi with a bandwidth of 54 megabits per second (Mbps): it means you can move data over the network at a (theorical maximum) rate of 6.75 megabytes per second (MB/s)
+  - Network Wi-Fi with a bandwidth of 54 megabits per second (Mbps): it means you can move data over the network at a (theoretical maximum) rate of 6.75 megabytes per second (MB/s)
 - The example of washing clothes has this trade-off: do we want a quick washing/dying task (latency) or more loads of clothes washed/dyned (throughput)?
