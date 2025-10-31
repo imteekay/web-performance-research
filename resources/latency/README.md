@@ -29,7 +29,6 @@
   - Google reported in 2006 that a 1-second increase in delay reduces engagement by 20%
   - The Akamai report states that with a load time of over 3 seconds, half of users essentially abandon your site
 
-
 ### Latency vs Throughput
 
 - Latency: how quickly *one* task is executed? (time it takes)
