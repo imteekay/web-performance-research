@@ -36,3 +36,30 @@
   - Commonly related to bandwidth
   - Network Wi-Fi with a bandwidth of 54 megabits per second (Mbps): it means you can move data over the network at a (theoretical maximum) rate of 6.75 megabytes per second (MB/s)
 - The example of washing clothes has this trade-off: do we want a quick washing/dying task (latency) or more loads of clothes washed/dyned (throughput)?
+
+## Chapter 2
+
+Chapter ideas:
+
+- Designing with laws of latency in mind
+- Thinking of latency as a distribution
+- Discovering common sources of latency
+- Understanding how latency compounds
+- Measuring latency correctly
+
+Principles
+
+- Little’s law: relationship between latency (L), throughput (T), and concurrency (C)
+  - C = TL “Concurrency is the product of throughput and latency.”
+  - L = C / T
+    - Latency increases when concurrency increases
+    - Latency increases with concurrency because when many requests arrive at once, the system's resources become a bottleneck, causing them to pile up and wait for processing
+    - They compete for shared resources like CPU, memory, and network bandwidth
+- Amdahl’s law: answer how much can we speed up with parallelization?
+  - A key takeaway from Amdahl’s law is that increasing parallelism does not automatically reduce latency, and even when it does, the benefits have diminishing returns.
+
+Concepts
+
+- Concurrency: events or operations that can occur at the same time
+- Parallelism
+  - Make me question: how much can we parallelize data requests on server?
