@@ -63,3 +63,12 @@ Concepts
 - Concurrency: events or operations that can occur at the same time
 - Parallelism
   - Make me question: how much can we parallelize data requests on server?
+- Latency
+  - It's a distribution that can be viewed as an average value
+  - This is why we use percentiles: p90, p95, p99
+  - The overall service request is dependent on every single subrequest completing quickly
+  - When you have to wait for everything, the reliability of your service is only as good as the reliability of your worst subrequest.
+- CPU Cache Hierarchy
+  - DRAM takes up to 100 nanoseconds
+  - L1 cache: 200 KiB in size with access latency of 1–2 nanoseconds
+  - last level cache (LLC): tens of MiB capacity and access latency of 10 nanoseconds or more
