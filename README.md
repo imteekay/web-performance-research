@@ -671,6 +671,7 @@ This repository is a compilation of resources I consumed over time to gain knowl
 
 ### Images Tools
 
+- [🛠 AssetMelt](https://assetmelt.com/)
 - [🛠 Cloudinary](https://cloudinary.com)
 - [🛠 Compress-Or-Die](https://compress-or-die.com)
 - [🛠 ImageOptim](https://imageoptim.com)
